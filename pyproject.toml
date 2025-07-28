@@ -1,5 +1,5 @@
 [project]
-name = "2025 Edition"
+name = "2025-Edition"
 version = "0.1.0"
 description = "Texts and topmatter for 2025 edition of The Sacred Harp"
 readme = "README.md"
