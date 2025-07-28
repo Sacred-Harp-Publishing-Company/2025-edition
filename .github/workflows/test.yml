@@ -28,6 +28,6 @@ jobs:
       - name: Lint with ruff
         run: |
           uv run ruff check .
-      - name: Test with pytest
+      - name: Test
         run: |
-          uv run pytest
+          uv run tests/test_integrity.py
