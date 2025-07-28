@@ -129,4 +129,4 @@ if __name__ == "__main__":
         sys.exit(1)
     else:
         logger.info("Integrity check passed with no errors.")
-        sys.exit(0)
+        sys.exit(1)
