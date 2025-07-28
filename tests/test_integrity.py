@@ -70,6 +70,23 @@ def get_current_filenames(directory):
         files.add(file_name)
     return files
 
+def test_topmatter():
+    topmatter_directory = get_topmatter_directory()
+    topmatter_path = os.path.join(topmatter_directory, "topmatter.tsv")
+    # make sure the file is not empty
+    if os.path.getsize(topmatter_path) == 0:
+        logger.error(f"topmatter.tsv is empty: {topmatter_path}")
+        return 1
+    # count the number of strange lines in the file
+    with open(topmatter_path, "r") as f:
+        topmatter = f.readlines()
+    strange_lines = 0
+    for line_number, line in enumerate(topmatter):
+        parts = line.strip().split("\t")
+        if len(parts) != 11:
+            strange_lines += 1
+            logger.info(f"Strange line #{line_number} in topmatter.tsv: {line.strip()}")
+    return strange_lines
 
 def check(title_dict, new_files, directory):
     number_of_errors = 0
@@ -120,6 +137,8 @@ if __name__ == "__main__":
     title_dict = get_2025_title_dictionary(topmatter_path)
     new_files = get_2025_filenames(topmatter_path)
     total_errors = 0
+    logger.info(f"Checking topmatter integrity in {topmatter_path}...")
+    total_errors += test_topmatter()
     logger.info(f"Checking {lyrics_directory()}...")
     total_errors += check(title_dict, new_files, lyrics_directory())
     logger.info(f"Checking {hyphenated_lyrics_directory()}...")
@@ -129,4 +148,4 @@ if __name__ == "__main__":
         sys.exit(1)
     else:
         logger.info("Integrity check passed with no errors.")
-        sys.exit(1)
+        sys.exit(0)
