@@ -1,0 +1,10 @@
+[project]
+name = "2025 Edition"
+version = "0.1.0"
+description = "Texts and topmatter for 2025 edition of The Sacred Harp"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
+
+[dependency-groups]
+dev = ["ipython>=9.0.2", "pytest>=8.3.5"]
