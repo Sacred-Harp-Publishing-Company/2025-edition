@@ -38,12 +38,14 @@ What number in the 2025 edition is this song from the 1991 edition? If the Actio
 
 What song or songs replaced this song in the 1991 edition? Look for all values of `replace` or `replace-inner` from looking up the son in the `Page in 1991` column.
 
+Was this song in the 1991 edition left out of the 2025 edition? Yes, if the value is `replace`, `replace-inner`, or `remove`.
+
 ## Questions about the 2025 edition
 
 Is this song in the 2025 edition also in the 1991 edition? The answer is `yes` if the Action value is `keep` or `renumber`.
 
 What number in the 2025 edition is this song from the 1991 edition? If the Action column vaue is `keep` or `renumber`, then it is the `Page in 1991` value.
 
-Is this a new song in the 2025 Editon? Yes, if the Action value is `new`, `replace`, `insert`, or `new` (that is, anthing but `keep` or `renumber`).
+Is this a new song in the 2025 edition? Yes, if the Action value is `new`, `replace`, `replace-inner`, or `insert`
 
 What song (or partial song) in the 1991 edition did this song replace? Look for the `Page in 1991` value, if the Action is `replace` or `replace-inner`. (Note that if the replaced song appears multiple times in the `Page in 1991` column, it partially replaced the song in the 1991 edition).
