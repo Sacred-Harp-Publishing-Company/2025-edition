@@ -1,17 +1,21 @@
-# Translation Table Data Dictionary
+# Data Dictionary: `metadata/translation_table.tsv`
 
-The file `translation_table.tsv` has three columns.
+| Column Name  | Description                                                          |
+| ------------ | -------------------------------------------------------------------- |
+| Page in 1991 | The page number in the 1991 edition. '-' if not in the 1991 edition. |
+| Page in 2025 | The page number in the 2025 edition.                                 |
+| Action       | What "happened" to the song. See below for values                    |
 
-Page in 1991: The page number in the 1991 edition. '-' if not in the 1991 edition.
-Page in 2025: The page number in the 2025 edition.
-Action: What "happened" to the song:
+## Action Values
 
-- `keep`: The song is in both the 1991 and 2025 editions, with the same page number.
-- `replace`: The song on the page in the 1991 edition is replaced by the song on the page in the 2025 edition. If the song in the 1991 edition was a multi-page song, it might be replaced by multiple songs. Thus:
-- `replace-inner`: Subsequent songs replacing the song on this page in the 1991 edition.
-- `renumber`: The song in the 1991 edition has been kept, but has been moved or renumbered.
-- `insert`: A new song was inserted at this page location because of new space available.
-- `new`: A new page was added to the 2025 edition.
+| Value           | Description                                                                                          |
+| --------------- | ---------------------------------------------------------------------------------------------------- |
+| `keep`          | The song is in both the 1991 and 2025 editions, with the same page number.                           |
+| `replace`       | The song on the page in the 1991 edition is replaced by the song(s) on the page in the 2025 edition. |
+| `replace-inner` | Subsequent songs replacing the song on this page in the 1991 edition.                                |
+| `renumber`      | The song in the 1991 edition has been kept, but has been moved or renumbered.                        |
+| `insert`        | A new song was inserted at this page location because of new space available.                        |
+| `new`           | A new page was added to the 2025 edition.                                                            |
 
 For example, AFRICA occupies half a page in the 2025 edition, but an entire page in the 1991 edition. A new song, GAINES is on the bottom half. So AFRICA is listed as a `renumber` from 178 to 178t, and GAINES is listed as an `insert` at 178b.
 
@@ -20,6 +24,8 @@ For example, the removal of ROSE OF SHARON (254 in the 1991 edition) provided sp
 For example, FAREWELL ANTHEM starts on page 260 in both the 1991 and 2025 edition.
 
 Two pages of songs were added to the 2025 Edtion: 574 THOMASTON and 575 LISBON. These are listed as `new` pages.
+
+## Usage
 
 This translation table can be used to ask:
 
