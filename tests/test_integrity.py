@@ -22,8 +22,8 @@ def lyrics_directory():
 def hyphenated_lyrics_directory():
     return os.path.join(my_directory(), "..", "hyphenated-lyrics")
 
-def get_topmatter_directory():
-    return os.path.join(my_directory(), "..", "topmatter")
+def get_metadata_directory():
+    return os.path.join(my_directory(), "..", "metadata")
 
 
 def get_first_line(file_path):
@@ -71,8 +71,8 @@ def get_current_filenames(directory):
     return files
 
 def test_topmatter():
-    topmatter_directory = get_topmatter_directory()
-    topmatter_path = os.path.join(topmatter_directory, "topmatter.tsv")
+    metadata_directory = get_metadata_directory()
+    topmatter_path = os.path.join(metadata_directory, "topmatter.tsv")
     # make sure the file is not empty
     if os.path.getsize(topmatter_path) == 0:
         logger.error(f"topmatter.tsv is empty: {topmatter_path}")
@@ -126,13 +126,13 @@ def check(title_dict, new_files, directory):
 
 
 if __name__ == "__main__":
-    topmatter_directory = get_topmatter_directory()
-    if not os.path.exists(topmatter_directory):
-        logger.error(f"Top matter directory not found: {topmatter_directory}")
+    metadata_directory = get_metadata_directory()
+    if not os.path.exists(metadata_directory):
+        logger.error(f"Top matter directory not found: {metadata_directory}")
         sys.exit(1)
-    topmatter_path = os.path.join(topmatter_directory, "topmatter.tsv")
+    topmatter_path = os.path.join(metadata_directory, "topmatter.tsv")
     if not os.path.exists(topmatter_path):
-        logger.error(f"topmatter.tsv not found in {topmatter_directory}")
+        logger.error(f"topmatter.tsv not found in {metadata_directory}")
         sys.exit(1)
     title_dict = get_2025_title_dictionary(topmatter_path)
     new_files = get_2025_filenames(topmatter_path)
