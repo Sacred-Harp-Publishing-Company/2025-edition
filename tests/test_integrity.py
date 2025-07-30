@@ -1,7 +1,8 @@
+# Note: This code is part of a test suite for verifying the integrity of song lyrics and metadata.
+# Run with python tests/test_integrity.py (not pytest)
 import os
 import glob
 import sys
-from itertools import groupby
 
 # add logging
 import logging
