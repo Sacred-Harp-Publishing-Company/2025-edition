@@ -1,7 +1,7 @@
 [project]
 name = "2025-Edition"
 version = "0.1.0"
-description = "Texts and topmatter for 2025 edition of The Sacred Harp"
+description = "Texts and metadata for the 2025 edition of The Sacred Harp"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = []
