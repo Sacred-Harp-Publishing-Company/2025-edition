@@ -1,4 +1,7 @@
 Page in 1991	Page in 2025	Action
+24.1	-	remove
+24.2	-	remove
+25	-	remove
 26	26	keep
 27	27.1	renumber
 -	27.2	insert
@@ -266,7 +269,7 @@ Page in 1991	Page in 2025	Action
 263	263	replace
 263	264	replace-inner
 263	265	replace-inner
-263	266	replace-inner
+266	266	replace
 267	267	keep
 268	268	keep
 269	269	keep
@@ -335,8 +338,9 @@ Page in 1991	Page in 2025	Action
 327	327	keep
 328	328	keep
 329	329	keep
-330.2	330.1	keep
+330.1	330.1	keep
 330.2	330.2	replace
+331	-	replace-inner
 332	332	keep
 333	333	keep
 334	334	replace
@@ -484,7 +488,7 @@ Page in 1991	Page in 2025	Action
 466	466	keep
 467	467	keep
 468	468	replace
-469	469	replace
+-	469	insert
 470	470	keep
 471	471	replace
 472	472	keep
@@ -572,7 +576,7 @@ Page in 1991	Page in 2025	Action
 -	557	insert
 558	558	keep
 560	560	keep
-561	561	replace
+-	561	insert
 562	562	replace
 -	563	insert
 564	564	keep

@@ -16,6 +16,7 @@
 | `renumber`      | The song in the 1991 edition has been kept, but has been moved or renumbered.                        |
 | `insert`        | A new song was inserted at this page location because of new space available.                        |
 | `new`           | A new page was added to the 2025 edition.                                                            |
+| `remove`        | The page was removed (as a song) in the 2025 edition.                                                |
 
 For example, AFRICA occupies half a page in the 2025 edition, but an entire page in the 1991 edition. A new song, GAINES is on the bottom half. So AFRICA is listed as a `renumber` from 178 to 178t, and GAINES is listed as an `insert` at 178b.
 
