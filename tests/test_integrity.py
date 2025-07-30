@@ -42,8 +42,8 @@ def get_2025_filenames(file_path):
         parts = line.strip().split("\t")
         if len(parts) < 3:
             continue
-        col3 = f"{parts[2]}.txt"
-        files.add(col3)
+        name = f"{parts[0]}.txt"
+        files.add(name)
     return files
 
 
@@ -57,8 +57,8 @@ def get_2025_title_dictionary(file_path):
         parts = line.strip().split("\t")
         if len(parts) < 5:
             continue
-        col3 = f"{parts[2]}.txt"
-        col4 = parts[4]
+        col3 = f"{parts[0]}.txt"
+        col4 = parts[2]
         title_dict[col3] = col4
     return title_dict
 
@@ -83,9 +83,9 @@ def test_topmatter():
     strange_lines = 0
     for line_number, line in enumerate(topmatter):
         parts = line.strip().split("\t")
-        if len(parts) != 11:
+        if len(parts) != 9:
             strange_lines += 1
-            logger.info(f"Strange line #{line_number} in topmatter.tsv: {line.strip()}")
+            logger.info(f"Strange line #{line_number} It has {len(parts)} parts, in topmatter.tsv:, {line.strip()}")
     return strange_lines
 
 def check(title_dict, new_files, directory):
