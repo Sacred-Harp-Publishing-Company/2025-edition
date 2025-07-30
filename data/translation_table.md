@@ -2,41 +2,41 @@
 
 The file `translation_table.tsv` has three columns.
 
-Page in 1991: The page number in the 1991 Edition. '-' if not in the 1991 Edition.
-Page in 2025: The page number in the 2025 Edition.
+Page in 1991: The page number in the 1991 edition. '-' if not in the 1991 edition.
+Page in 2025: The page number in the 2025 edition.
 Action: What "happened" to the song:
 
 - `keep`: The song is in both the 1991 and 2025 editions, with the same page number.
-- `replace`: The song on the page in the 1991 Edition is replaced by the song on the page in the 2025 Edition. If the song in the 1991 Edition was a multi-page song, it might be replaced by multiple songs. Thus:
-- `replace-inner`: Subsequent songs replacing the song on this page in the 1991 Edition.
-- `renumber`: The song in the 1991 Edition has been kept, but has been moved or renumbered.
+- `replace`: The song on the page in the 1991 edition is replaced by the song on the page in the 2025 edition. If the song in the 1991 edition was a multi-page song, it might be replaced by multiple songs. Thus:
+- `replace-inner`: Subsequent songs replacing the song on this page in the 1991 edition.
+- `renumber`: The song in the 1991 edition has been kept, but has been moved or renumbered.
 - `insert`: A new song was inserted at this page location because of new space available.
-- `new`: A new page was added to the 2025 Edition.
+- `new`: A new page was added to the 2025 edition.
 
-For example, AFRICA occupies half a page in the 2025 Edition, but an entire page in the 1991 Edition. A new song, GAINES is on the bottom half. So AFRICA is listed as a `renumber` from 178 to 178t, and GAINES is listed as an `insert` at 178b.
+For example, AFRICA occupies half a page in the 2025 edition, but an entire page in the 1991 edition. A new song, GAINES is on the bottom half. So AFRICA is listed as a `renumber` from 178 to 178t, and GAINES is listed as an `insert` at 178b.
 
-For example, the removal of ROSE OF SHARON (254 in the 1991 Edition) provided space for six songs, which are listed as `replace` or `replace-inner`.
+For example, the removal of ROSE OF SHARON (254 in the 1991 edition) provided space for six songs, which are listed as `replace` or `replace-inner`.
 
-For example, FAREWELL ANTHEM starts on page 260 in both the 1991 and 2025 Edition.
+For example, FAREWELL ANTHEM starts on page 260 in both the 1991 and 2025 edition.
 
 Two pages of songs were added to the 2025 Edtion: 574 THOMASTON and 575 LISBON. These are listed as `new` pages.
 
 This translation table can be used to ask:
 
-## Questions about the 1991 Edition
+## Questions about the 1991 edition
 
-Is this song from the 1991 Edition in the 2025 Edition? The answer is `yes` if the Action value is `keep` or `renumber`.
+Is this song from the 1991 edition in the 2025 edition? The answer is `yes` if the Action value is `keep` or `renumber`.
 
-What number in the 2025 Edition is this song from the 1991 Edition? If the Action column vaue is `keep` or `renumber`, then it is the `Page in 2025` value.
+What number in the 2025 edition is this song from the 1991 edition? If the Action column vaue is `keep` or `renumber`, then it is the `Page in 2025` value.
 
-What song or songs replaced this song in the 1991 Edition? Look for all values of `replace` or `replace-inner` from looking up the son in the `Page in 1991` column.
+What song or songs replaced this song in the 1991 edition? Look for all values of `replace` or `replace-inner` from looking up the son in the `Page in 1991` column.
 
-## Questions about the 2025 Edition
+## Questions about the 2025 edition
 
-Is this song in the 2025 Edition also in the 1991 Edition? The answer is `yes` if the Action value is `keep` or `renumber`.
+Is this song in the 2025 edition also in the 1991 edition? The answer is `yes` if the Action value is `keep` or `renumber`.
 
-What number in the 2025 Edition is this song from the 1991 Edition? If the Action column vaue is `keep` or `renumber`, then it is the `Page in 1991` value.
+What number in the 2025 edition is this song from the 1991 edition? If the Action column vaue is `keep` or `renumber`, then it is the `Page in 1991` value.
 
 Is this a new song in the 2025 Editon? Yes, if the Action value is `new`, `replace`, `insert`, or `new` (that is, anthing but `keep` or `renumber`).
 
-What song (or partial song) in the 1991 Edition did this song replace? Look for the `Page in 1991` value, if the Action is `replace` or `replace-inner`. (Note that if the replaced song appears multiple times in the `Page in 1991` column, it partially replaced the song in the 1991 Edition).
+What song (or partial song) in the 1991 edition did this song replace? Look for the `Page in 1991` value, if the Action is `replace` or `replace-inner`. (Note that if the replaced song appears multiple times in the `Page in 1991` column, it partially replaced the song in the 1991 edition).
