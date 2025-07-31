@@ -57,8 +57,6 @@ Where the mourn-ers cease from mourn-ing and the pris-’ner is set free,
 Where the rich and the poor are both a-like.
 Fare you well, fare you well, my friends.
 
-[Note to engravers: In the first section, commas are used before repetitions as usual, unless directly preceding a rest or directly preceding the start of a new musical section (e.g. a new fuge), in which case periods are used.]
-
 ------
 
 [first section, treble]
@@ -117,5 +115,3 @@ And I must go, and lie down in the cold and silent grave,
 Where the mourners cease from mourning and the pris’ner is set free,
 Where the rich and the poor are both alike.
 Fare you well, fare you well, my friends.
-
-[Note to engravers: In the first section, commas are used before repetitions as usual, unless directly preceding a rest or directly preceding the start of a new musical section (e.g. a new fuge), in which case periods are used.]
