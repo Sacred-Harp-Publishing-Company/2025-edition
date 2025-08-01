@@ -883,8 +883,9 @@ if __name__ == "__main__":
     total_errors += test_topmatter()
     logger.info(f"Checking {lyrics_directory()}...")
     total_errors += check(title_dict, new_files, lyrics_directory())
-    logger.info(f"Checking {hyphenated_lyrics_directory()}...")
-    total_errors += check(title_dict, new_files, hyphenated_lyrics_directory())
+    # Restore if we restore the hyphenated lyrics
+    # logger.info(f"Checking {hyphenated_lyrics_directory()}...")
+    # total_errors += check(title_dict, new_files, hyphenated_lyrics_directory())
     logger.info(f"Checking translation table in {metadata_directory}...")
     total_errors += test_translation_table()
     if total_errors > 0:
