@@ -1,0 +1,591 @@
+page	sort	Uppercase	Title Case	Title for Indexing	Disambiguation Key	Uppercase + Key	Title + Key	Indexing + Key	Short Attribution	Italicize short attribution?	Living composer / arranger?	Arr. status
+26	26	SAMARIA	Samaria	Samaria		SAMARIA	Samaria	Samaria	Cagle		-
+27t	27.1	BETHEL	Bethel	Bethel		BETHEL	Bethel	Bethel	Sacred Harp	yes	-
+27b	27.2	ROCHESTER	Rochester	Rochester		ROCHESTER	Rochester	Rochester	Holdroyd		-
+28t	28.1	AYLESBURY	Aylesbury	Aylesbury		AYLESBURY	Aylesbury	Aylesbury	Book of Psalmody	yes	-
+28b	28.2	WELLS	Wells	Wells		WELLS	Wells	Wells	Holdroyd		-
+29t	29.1	FAIRFIELD	Fairfield	Fairfield		FAIRFIELD	Fairfield	Fairfield	Hitchcock		-
+29b	29.2	TRIBULATION	Tribulation	Tribulation		TRIBULATION	Tribulation	Tribulation	Patterson’s Church Music	yes	-
+30t	30.1	LOVE DIVINE	Love Divine	Love Divine		LOVE DIVINE	Love Divine	Love Divine	Waller		-
+30b	30.2	PROSPECT	Prospect	Prospect		PROSPECT	Prospect	Prospect	Graham		-
+31t	31.1	NINETY-THIRD PSALM	Ninety-Third Psalm	Ninety-Third Psalm		NINETY-THIRD PSALM	Ninety-Third Psalm	Ninety-Third Psalm	Chapin		-	Arr.
+31b	31.2	WEBSTER	Webster	Webster		WEBSTER	Webster	Webster	Southern Harmony	yes	-	Arr.
+32t	32.1	CORINTH	Corinth	Corinth		CORINTH	Corinth	Corinth	Massengale		-	Arr.
+32b	32.2	DISTRESS	Distress	Distress		DISTRESS	Distress	Distress	Southern Harmony	yes	-
+33t	33.1	WEEPING SAVIOR	Weeping Savior	Weeping Savior	King	WEEPING SAVIOR (King)	Weeping Savior (King)	Weeping Savior (King)	King		-
+33b	33.2	ABBEVILLE	Abbeville	Abbeville		ABBEVILLE	Abbeville	Abbeville	King		-	Arr.
+34t	34.1	THE GOSPEL POOL	The Gospel Pool	Gospel Pool, The		THE GOSPEL POOL	The Gospel Pool	Gospel Pool, The	Dumas		-
+34b	34.2	ST. THOMAS	St. Thomas	St. Thomas		ST. THOMAS	St. Thomas	St. Thomas	Williams		-
+35	35	SAINTS BOUND FOR HEAVEN	Saints Bound for Heaven	Saints Bound for Heaven		SAINTS BOUND FOR HEAVEN	Saints Bound for Heaven	Saints Bound for Heaven	King & Walker		-
+36t	36.1	AMERICA	America	America		AMERICA	America	America	Wetmore		-
+36b	36.2	NINETY-FIFTH	Ninety-Fifth	Ninety-Fifth		NINETY-FIFTH	Ninety-Fifth	Ninety-Fifth	Colton		-
+37t	37.1	ESTER	Ester	Ester		ESTER	Ester	Ester	Terry		-	Arr.
+37b	37.2	LIVERPOOL	Liverpool	Liverpool		LIVERPOOL	Liverpool	Liverpool	Davis		-	Arr.
+38t	38.1	WINTER	Winter	Winter		WINTER	Winter	Winter	Read		-
+38b	38.2	WINDHAM	Windham	Windham		WINDHAM	Windham	Windham	Read		-
+39t	39.1	DETROIT	Detroit	Detroit		DETROIT	Detroit	Detroit	Bradshaw		-
+39b	39.2	SHARPSBURG	Sharpsburg	Sharpsburg		SHARPSBURG	Sharpsburg	Sharpsburg	Rees & Shell		-
+40	40	LENOX	Lenox	Lenox		LENOX	Lenox	Lenox	Edson		-
+41	41	EVENING HYMN	Evening Hymn	Evening Hymn		EVENING HYMN	Evening Hymn	Evening Hymn	West		-
+42	42	CLAMANDA	Clamanda	Clamanda		CLAMANDA	Clamanda	Clamanda	Sacred Harp	yes	-	Arr.
+43	43	PRIMROSE HILL	Primrose Hill	Primrose Hill		PRIMROSE HILL	Primrose Hill	Primrose Hill	Sacred Harp	yes	-	Arr.
+44	44	THE CONVERTED THIEF	The Converted Thief	Converted Thief, The		THE CONVERTED THIEF	The Converted Thief	Converted Thief, The	Moore		-
+45t	45.1	NEW BRITAIN	New Britain	New Britain		NEW BRITAIN	New Britain	New Britain	Southern Harmony	yes	-	Arr.
+45b	45.2	IMANDRA NEW	Imandra New	Imandra New		IMANDRA NEW	Imandra New	Imandra New	Southern Harmony	yes	-
+46	46	LET US SING	Let Us Sing	Let Us Sing		LET US SING	Let Us Sing	Let Us Sing	Moore		-	Arr.
+47t	47.1	PRIMROSE	Primrose	Primrose		PRIMROSE	Primrose	Primrose	Chapin		-
+47b	47.2	IDUMEA	Idumea	Idumea		IDUMEA	Idumea	Idumea	Davisson		-
+48t	48.1	DEVOTION	Devotion	Devotion	Johnson	DEVOTION (Johnson)	Devotion (Johnson)	Devotion (Johnson)	Johnson		-
+48b	48.2	KEDRON	Kedron	Kedron		KEDRON	Kedron	Kedron	United States’ Sacred Harmony	yes	-
+49t	49.1	OLD HUNDRED	Old Hundred	Old Hundred		OLD HUNDRED	Old Hundred	Old Hundred	Genevan Psalter		-
+49b	49.2	MEAR	Mear	Mear		MEAR	Mear	Mear	Sett of Tunes	yes	-
+50t	50.1	DEVOTION	Devotion	Devotion	Read	DEVOTION (Read)	Devotion (Read)	Devotion (Read)	Read		-
+50b	50.2	CANAAN	Canaan	Canaan		CANAAN	Canaan	Canaan	Edson		-
+51	51	STAR IN THE EAST	Star in the East	Star in the East		STAR IN THE EAST	Star in the East	Star in the East	Herron		-
+52t	52.1	ALBION	Albion	Albion		ALBION	Albion	Albion	Boyd		-
+52b	52.2	CHARLESTOWN	Charlestown	Charlestown		CHARLESTOWN	Charlestown	Charlestown	United States’ Sacred Harmony	yes	-
+53	53	JERUSALEM	Jerusalem	Jerusalem		JERUSALEM	Jerusalem	Jerusalem	Walker		-	Arr.
+54	54	RUSSELL	Russell	Russell		RUSSELL	Russell	Russell	Day		-
+55	55	CONVERSE	Converse	Converse		CONVERSE	Converse	Converse	Lowry		-	Arr.
+56t	56.1	COLUMBIANA	Columbiana	Columbiana		COLUMBIANA	Columbiana	Columbiana	White		-
+56b	56.2	VILLULIA	Villulia	Villulia		VILLULIA	Villulia	Villulia	Day		-	Arr.
+57	57	CHRISTIAN SOLDIER	Christian Soldier	Christian Soldier		CHRISTIAN SOLDIER	Christian Soldier	Christian Soldier	Songs of Zion	yes	-
+58	58	PISGAH	Pisgah	Pisgah		PISGAH	Pisgah	Pisgah	Lowry		-
+59	59	HOLY MANNA	Holy Manna	Holy Manna		HOLY MANNA	Holy Manna	Holy Manna	Moore		-	Arr.
+60	60	DAY OF WORSHIP	Day of Worship	Day of Worship		DAY OF WORSHIP	Day of Worship	Day of Worship	Davis		-
+61	61	SWEET RIVERS	Sweet Rivers	Sweet Rivers		SWEET RIVERS	Sweet Rivers	Sweet Rivers	Moore		-
+62	62	PARTING HAND	Parting Hand	Parting Hand		PARTING HAND	Parting Hand	Parting Hand	Walker		-	Arr.
+63	63	CORONATION	Coronation	Coronation		CORONATION	Coronation	Coronation	Holden		-
+64	64	NASHVILLE	Nashville	Nashville		NASHVILLE	Nashville	Nashville	Johnson		-	Arr.
+65	65	SWEET PROSPECT	Sweet Prospect	Sweet Prospect		SWEET PROSPECT	Sweet Prospect	Sweet Prospect	Walker		-	Arr.
+66	66	JORDAN	Jordan	Jordan	Billings	JORDAN (Billings)	Jordan (Billings)	Jordan (Billings)	Billings		-
+67	67	COLUMBUS	Columbus	Columbus		COLUMBUS	Columbus	Columbus	Southern Harmony	yes	-	Arr.
+68t	68.1	SALEM	Salem	Salem		SALEM	Salem	Salem	Bovell		-
+68b	68.2	ORTONVILLE	Ortonville	Ortonville		ORTONVILLE	Ortonville	Ortonville	Hastings		-	Arr. from
+69t	69.1	MINISTER’S FAREWELL	Minister’s Farewell	Minister’s Farewell		MINISTER’S FAREWELL	Minister’s Farewell	Minister’s Farewell	Wyeth’s Repository	yes	-
+69b	69.2	FAREWELL TO ALL	Farewell to All	Farewell to All		FAREWELL TO ALL	Farewell to All	Farewell to All	Rees		-
+70t	70.1	GAINSVILLE	Gainsville	Gainsville		GAINSVILLE	Gainsville	Gainsville	Jones		-
+70b	70.2	SAVE, MIGHTY LORD	Save, Mighty Lord	Save, Mighty Lord		SAVE, MIGHTY LORD	Save, Mighty Lord	Save, Mighty Lord	Wade		-
+71	71	LEANDER	Leander	Leander		LEANDER	Leander	Leander	Tennessee Harmony	yes	-
+72t	72.1	THE WEARY SOUL	The Weary Soul	Weary Soul, The		THE WEARY SOUL	The Weary Soul	Weary Soul, The	White		-	Arr.
+72b	72.2	BELLEVUE	Bellevue	Bellevue		BELLEVUE	Bellevue	Bellevue	Chambless		-	Arr.
+73t	73.1	CUSSETA	Cusseta	Cusseta		CUSSETA	Cusseta	Cusseta	Massengale		-
+73b	73.2	ARLINGTON	Arlington	Arlington		ARLINGTON	Arlington	Arlington	Arne		-	Arr. from
+74t	74.1	THE ENQUIRER	The Enquirer	Enquirer, The		THE ENQUIRER	The Enquirer	Enquirer, The	White		-
+74b	74.2	KING OF PEACE	King of Peace	King of Peace		KING OF PEACE	King of Peace	King of Peace	Price		-	Arr.
+75	75	I WOULD SEE JESUS	I Would See Jesus	I Would See Jesus		I WOULD SEE JESUS	I Would See Jesus	I Would See Jesus	Breedlove		-
+76t	76.1	HOLINESS	Holiness	Holiness		HOLINESS	Holiness	Holiness	King		-
+76b	76.2	DESIRE FOR PIETY	Desire for Piety	Desire for Piety		DESIRE FOR PIETY	Desire for Piety	Desire for Piety	White		-
+77t	77.1	THE CHILD OF GRACE	The Child of Grace	Child of Grace, The		THE CHILD OF GRACE	The Child of Grace	Child of Grace, The	King		-	Arr.
+77b	77.2	HOLCOMBE	Holcombe	Holcombe		HOLCOMBE	Holcombe	Holcombe	Wallace		-
+78	78	STAFFORD	Stafford	Stafford		STAFFORD	Stafford	Stafford	Read		-
+79	79	THE OLD SHIP OF ZION	The Old Ship of Zion	Old Ship of Zion, The		THE OLD SHIP OF ZION	The Old Ship of Zion	Old Ship of Zion, The	Carter		-
+80t	80.1	TROUBLES OVER	Troubles Over	Troubles Over		TROUBLES OVER	Troubles Over	Troubles Over	Rees		-
+80b	80.2	SERVICE OF THE LORD	Service of the Lord	Service of the Lord		SERVICE OF THE LORD	Service of the Lord	Service of the Lord	King		-
+81t	81.1	BEACH SPRING	Beach Spring	Beach Spring		BEACH SPRING	Beach Spring	Beach Spring	White		-
+81b	81.2	WINDLESHAM	Windlesham	Windlesham		WINDLESHAM	Windlesham	Windlesham	Brett		Living
+82t	82.1	BOUND FOR CANAAN	Bound for Canaan	Bound for Canaan		BOUND FOR CANAAN	Bound for Canaan	Bound for Canaan	King		-
+82b	82.2	EDGEFIELD	Edgefield	Edgefield		EDGEFIELD	Edgefield	Edgefield	White		-	Arr.
+83t	83.1	VALE OF SORROW	Vale of Sorrow	Vale of Sorrow		VALE OF SORROW	Vale of Sorrow	Vale of Sorrow	White		-
+83b	83.2	THE DYING MINISTER	The Dying Minister	Dying Minister, The		THE DYING MINISTER	The Dying Minister	Dying Minister, The	Dumas		-
+84	84	AMSTERDAM	Amsterdam	Amsterdam		AMSTERDAM	Amsterdam	Amsterdam	Foundery Collection	yes	-
+85	85	THE MORNING TRUMPET	The Morning Trumpet	Morning Trumpet, The		THE MORNING TRUMPET	The Morning Trumpet	Morning Trumpet, The	White		-
+86	86	POLAND	Poland	Poland		POLAND	Poland	Poland	Swan		-
+87	87	SWEET CANAAN	Sweet Canaan	Sweet Canaan		SWEET CANAAN	Sweet Canaan	Sweet Canaan	King		-	Arr.
+88t	88.1	DONE WITH THE WORLD	Done with the World	Done with the World		DONE WITH THE WORLD	Done with the World	Done with the World	White		-
+88b	88.2	MOUNT ZION	Mount Zion	Mount Zion	Massengale	MOUNT ZION (Massengale)	Mount Zion (Massengale)	Mount Zion (Massengale)	Massengale		-
+89	89	THE CHURCH’S DESOLATION	The Church’s Desolation	Church’s Desolation, The		THE CHURCH’S DESOLATION	The Church’s Desolation	Church’s Desolation, The	White		-	Arr.
+90	90	LOOK OUT	Look Out	Look Out		LOOK OUT	Look Out	Look Out	White		-
+91	91	ASSURANCE	Assurance	Assurance		ASSURANCE	Assurance	Assurance	Billings		-
+92	92	BURK	Burk	Burk		BURK	Burk	Burk	White		-
+93	93	FROZEN HEART	Frozen Heart	Frozen Heart		FROZEN HEART	Frozen Heart	Frozen Heart	King		-	Arr.
+94	94	NEVER PART	Never Part	Never Part		NEVER PART	Never Part	Never Part	Carwell		-	Arr.
+95	95	VERNON	Vernon	Vernon		VERNON	Vernon	Vernon	Chapin		-	Arr.
+96	96	FEW HAPPY MATCHES	Few Happy Matches	Few Happy Matches		FEW HAPPY MATCHES	Few Happy Matches	Few Happy Matches	Crane		-	Arr. from
+97	97	WE’LL SOON BE THERE	We’ll Soon Be There	We’ll Soon Be There		WE’LL SOON BE THERE	We’ll Soon Be There	We’ll Soon Be There	Bradfield		-	Arr.
+98	98	DULL CARE	Dull Care	Dull Care		DULL CARE	Dull Care	Dull Care	King		-	Arr.
+99	99	GOSPEL TRUMPET	Gospel Trumpet	Gospel Trumpet		GOSPEL TRUMPET	Gospel Trumpet	Gospel Trumpet	King		-	Arr.
+100	100	THE BOWER OF PRAYER	The Bower of Prayer	Bower of Prayer, The		THE BOWER OF PRAYER	The Bower of Prayer	Bower of Prayer, The	King		-	Arr.
+101t	101.1	CANAAN’S LAND	Canaan’s Land	Canaan’s Land		CANAAN’S LAND	Canaan’s Land	Canaan’s Land	King		-
+101b	101.2	HOLY CITY	Holy City	Holy City		HOLY CITY	Holy City	Holy City	White		-
+102	102	FULFILLMENT	Fulfillment	Fulfillment		FULFILLMENT	Fulfillment	Fulfillment	King		-
+103	103	ANIMATION	Animation	Animation		ANIMATION	Animation	Animation	Sacred Harp	yes	-
+104	104	THE LOVELY STORY	The Lovely Story	Lovely Story, The		THE LOVELY STORY	The Lovely Story	Lovely Story, The	King		-	Arr.
+105	105	JEWETT	Jewett	Jewett		JEWETT	Jewett	Jewett	Mann		-
+106	106	ECSTASY	Ecstasy	Ecstasy		ECSTASY	Ecstasy	Ecstasy	Carter		-
+107	107	RUSSIA	Russia	Russia		RUSSIA	Russia	Russia	Read		-
+108t	108.1	WEEPING SINNERS	Weeping Sinners	Weeping Sinners		WEEPING SINNERS	Weeping Sinners	Weeping Sinners	Rees		-
+108b	108.2	THE TRAVELER	The Traveler	Traveler, The		THE TRAVELER	The Traveler	Traveler, The	Ogletree		-	Arr.
+109	109	CARNSVILLE	Carnsville	Carnsville		CARNSVILLE	Carnsville	Carnsville	King		-	Arr.
+110	110	MOUNT VERNON	Mount Vernon	Mount Vernon		MOUNT VERNON	Mount Vernon	Mount Vernon	Jenks		-
+111t	111.1	JOURNEY HOME	Journey Home	Journey Home		JOURNEY HOME	Journey Home	Journey Home	Mann		-
+111b	111.2	TO DIE NO MORE	To Die No More	To Die No More		TO DIE NO MORE	To Die No More	To Die No More	Dumas		-	Arr.
+112	112	THE LAST WORDS OF COPERNICUS	The Last Words of Copernicus	Last Words of Copernicus, The		THE LAST WORDS OF COPERNICUS	The Last Words of Copernicus	Last Words of Copernicus, The	Lancaster		-
+113	113	THE PRODIGAL SON	The Prodigal Son	Prodigal Son, The		THE PRODIGAL SON	The Prodigal Son	Prodigal Son, The	King		-	Arr.
+114	114	SAINT’S DELIGHT	Saint’s Delight	Saint’s Delight		SAINT’S DELIGHT	Saint’s Delight	Saint’s Delight	Price		-
+115	115	HOLBROOK	Holbrook	Holbrook		HOLBROOK	Holbrook	Holbrook	Steel		Living
+116	116	HOOPER	Hooper	Hooper		HOOPER	Hooper	Hooper	Parsons & Titford-Mock		Living	Arr. from
+117	117	BABYLON IS FALLEN	Babylon Is Fallen	Babylon Is Fallen		BABYLON IS FALLEN	Babylon Is Fallen	Babylon Is Fallen	Chute		-	Arr.
+118	118	HEAVENLY MEETING	Heavenly Meeting	Heavenly Meeting		HEAVENLY MEETING	Heavenly Meeting	Heavenly Meeting	McCurry		-	Arr.
+119	119	HEAVEN’S MY HOME	Heaven’s My Home	Heaven’s My Home		HEAVEN’S MY HOME	Heaven’s My Home	Heaven’s My Home	Davis & Terry		-
+120	120	CHAMBERS	Chambers	Chambers		CHAMBERS	Chambers	Chambers	Holyoke		-	Arr. from
+121	121	FLORENCE	Florence	Florence		FLORENCE	Florence	Florence	Carter		-	Arr.
+122	122	ALL IS WELL	All Is Well	All Is Well		ALL IS WELL	All Is Well	All Is Well	White		-	Arr.
+123t	123.1	THE DYING CHRISTIAN	The Dying Christian	Dying Christian, The		THE DYING CHRISTIAN	The Dying Christian	Dying Christian, The	King		-	Arr.
+123b	123.2	CROSS OF CHRIST	Cross of Christ	Cross of Christ		CROSS OF CHRIST	Cross of Christ	Cross of Christ	Breedlove		-
+124	124	LOVER OF THE LORD	Lover of the Lord	Lover of the Lord		LOVER OF THE LORD	Lover of the Lord	Lover of the Lord	Reeves		-	Arr.
+125	125	EXPRESSION	Expression	Expression		EXPRESSION	Expression	Expression	Sacred Harp	yes	-	Arr.
+126	126	BABEL’S STREAMS	Babel’s Streams	Babel’s Streams		BABEL’S STREAMS	Babel’s Streams	Babel’s Streams	Jenks		-
+127	127	GREEN FIELDS	Green Fields	Green Fields		GREEN FIELDS	Green Fields	Green Fields	Kentucky Harmonist	yes	-	Arr.
+128	128	THE PROMISED LAND	The Promised Land	Promised Land, The		THE PROMISED LAND	The Promised Land	Promised Land, The	Durham		-
+129	129	HEAVENLY ARMOR	Heavenly Armor	Heavenly Armor		HEAVENLY ARMOR	Heavenly Armor	Heavenly Armor	Walker		-
+130	130	THE OLD GRAVEYARD	The Old Graveyard	Old Graveyard, The		THE OLD GRAVEYARD	The Old Graveyard	Old Graveyard, The	Steel		Living
+131t	131.1	MESSIAH	Messiah	Messiah		MESSIAH	Messiah	Messiah	Carrell		-
+131b	131.2	INVOCATION	Invocation	Invocation	Southern Harmony	INVOCATION (Southern Harmony)	Invocation (Southern Harmony)	Invocation (Southern Harmony)	Southern Harmony	yes	-
+132	132	SINNER’S FRIEND	Sinner’s Friend	Sinner’s Friend		SINNER’S FRIEND	Sinner’s Friend	Sinner’s Friend	Rees		-	Arr.
+133	133	HEBREW CHILDREN	Hebrew Children	Hebrew Children		HEBREW CHILDREN	Hebrew Children	Hebrew Children	White		-	Arr. from
+134	134	THE CHRISTIAN’S HOPE	The Christian’s Hope	Christian’s Hope, The		THE CHRISTIAN’S HOPE	The Christian’s Hope	Christian’s Hope, The	Walker		-
+135	135	OLNEY	Olney	Olney		OLNEY	Olney	Olney	Tennessee Harmony	yes	-	Arr.
+136	136	MORALITY	Morality	Morality		MORALITY	Morality	Morality	Wyeth’s Repository	yes	-	Arr.
+137	137	LIBERTY	Liberty	Liberty		LIBERTY	Liberty	Liberty	Jenks		-
+138t	138.1	ADORATION	Adoration	Adoration		ADORATION	Adoration	Adoration	Parks		-
+138b	138.2	OGLETREE	Ogletree	Ogletree		OGLETREE	Ogletree	Ogletree	Brown		-
+139	139	ELYSIAN	Elysian	Elysian		ELYSIAN	Elysian	Elysian	Songs of Zion	yes	-	Arr.
+140	140	MORENO	Moreno	Moreno		MORENO	Moreno	Moreno	Ceresa		Living
+141	141	COMPLAINER	Complainer	Complainer		COMPLAINER	Complainer	Complainer	Walker		-
+142	142	STRATFIELD	Stratfield	Stratfield		STRATFIELD	Stratfield	Stratfield	Goff		-
+143	143	PLEYEL’S HYMN SECOND	Pleyel’s Hymn Second	Pleyel’s Hymn Second		PLEYEL’S HYMN SECOND	Pleyel’s Hymn Second	Pleyel’s Hymn Second	Pleyel		-	Arr. from
+144	144	JUBILEE	Jubilee	Jubilee		JUBILEE	Jubilee	Jubilee	Kentucky Harmony	yes	-
+145t	145.1	WARRENTON	Warrenton	Warrenton		WARRENTON	Warrenton	Warrenton	Southern Harmony	yes	-	Arr.
+145b	145.2	SWEET AFFLICTION	Sweet Affliction	Sweet Affliction		SWEET AFFLICTION	Sweet Affliction	Sweet Affliction	Rousseau		-	Arr. from
+146	146	HALLELUJAH	Hallelujah	Hallelujah		HALLELUJAH	Hallelujah	Hallelujah	Walker		-
+147t	147.1	BOYLSTON	Boylston	Boylston		BOYLSTON	Boylston	Boylston	Mason		-
+147b	147.2	LABAN	Laban	Laban		LABAN	Laban	Laban	Mason		-
+148	148	JEFFERSON	Jefferson	Jefferson		JEFFERSON	Jefferson	Jefferson	Tennessee Harmony	yes	-
+149	149	THE TRUMPET	The Trumpet	Trumpet, The		THE TRUMPET	The Trumpet	Trumpet, The	Williams		-
+150	150	AMITY	Amity	Amity		AMITY	Amity	Amity	Read		-
+151	151	SYMPHONY	Symphony	Symphony		SYMPHONY	Symphony	Symphony	Morgan		-
+152	152	SHEPHERDS REJOICE	Shepherds Rejoice	Shepherds Rejoice		SHEPHERDS REJOICE	Shepherds Rejoice	Shepherds Rejoice	Breedlove		-
+153	153	RESURRECTED	Resurrected	Resurrected		RESURRECTED	Resurrected	Resurrected	Denson		-	Arr.
+154	154	REST FOR THE WEARY	Rest for the Weary	Rest for the Weary		REST FOR THE WEARY	Rest for the Weary	Rest for the Weary	McDonald & Dadmun		-	Arr. from
+155	155	NORTHFIELD	Northfield	Northfield		NORTHFIELD	Northfield	Northfield	Ingalls		-
+156	156	JESUS ROSE	Jesus Rose	Jesus Rose		JESUS ROSE	Jesus Rose	Jesus Rose	Rees		-
+157	157	ESSAY	Essay	Essay		ESSAY	Essay	Essay	Clark		-
+158	158	FUNERAL THOUGHT	Funeral Thought	Funeral Thought		FUNERAL THOUGHT	Funeral Thought	Funeral Thought	Caldwell		-
+159	159	WONDROUS LOVE	Wondrous Love	Wondrous Love		WONDROUS LOVE	Wondrous Love	Wondrous Love	Christopher		-
+160t	160.1	PROSPERITY	Prosperity	Prosperity		PROSPERITY	Prosperity	Prosperity	Breedlove		-
+160b	160.2	TURN, SINNER, TURN	Turn, Sinner, Turn	Turn, Sinner, Turn		TURN, SINNER, TURN	Turn, Sinner, Turn	Turn, Sinner, Turn	King		-	Arr.
+161	161	SOUTHMINSTER	Southminster	Southminster		SOUTHMINSTER	Southminster	Southminster	Brett		Living
+162	162	PLENARY	Plenary	Plenary		PLENARY	Plenary	Plenary	Clark		-	Arr.
+163t	163.1	MORNING	Morning	Morning		MORNING	Morning	Morning	Pilsbury		-
+163b	163.2	CHINA	China	China		CHINA	China	China	Swan		-
+164	164	DUANE STREET	Duane Street	Duane Street		DUANE STREET	Duane Street	Duane Street	Coles		-
+165	165	FAMILY BIBLE	Family Bible	Family Bible		FAMILY BIBLE	Family Bible	Family Bible	Caldwell		-	Arr.
+166	166	STILL BETTER	Still Better	Still Better		STILL BETTER	Still Better	Still Better	Mayfield & Meggs		-
+167	167	PRAY, BRETHREN, PRAY	Pray, Brethren, Pray	Pray, Brethren, Pray		PRAY, BRETHREN, PRAY	Pray, Brethren, Pray	Pray, Brethren, Pray	Minstrel of Zion	yes	-
+168	168	COWPER	Cowper	Cowper		COWPER	Cowper	Cowper	Holden		-
+169	169	GOD’S HELPING HAND	God’s Helping Hand	God’s Helping Hand		GOD’S HELPING HAND	God’s Helping Hand	God’s Helping Hand	Parris		-
+170	170	EXHILARATION	Exhilaration	Exhilaration		EXHILARATION	Exhilaration	Exhilaration	Carter		-
+171	171	EXHORTATION	Exhortation	Exhortation	Hibbard	EXHORTATION (Hibbard)	Exhortation (Hibbard)	Exhortation (Hibbard)	Hibbard		-
+172	172	HARMONY	Harmony	Harmony		HARMONY	Harmony	Harmony	Ellis		-
+173	173	PHOEBUS	Phoebus	Phoebus		PHOEBUS	Phoebus	Phoebus	Billings		-
+174	174	PETERSBURG	Petersburg	Petersburg		PETERSBURG	Petersburg	Petersburg	Billings		-
+175	175	HIGHLANDS OF HEAVEN	Highlands of Heaven	Highlands of Heaven		HIGHLANDS OF HEAVEN	Highlands of Heaven	Highlands of Heaven	Arnold		-	Arr.
+176t	176.1	RAGAN	Ragan	Ragan		RAGAN	Ragan	Ragan	Moore		-	Arr.
+176b	176.2	BLOOMING YOUTH	Blooming Youth	Blooming Youth		BLOOMING YOUTH	Blooming Youth	Blooming Youth	Mann		-
+177	177	THE CHRISTIAN’S FLIGHT	The Christian’s Flight	Christian’s Flight, The		THE CHRISTIAN’S FLIGHT	The Christian’s Flight	Christian’s Flight, The	Moore		-
+178t	178.1	AFRICA	Africa	Africa		AFRICA	Africa	Africa	Billings		-
+178b	178.2	GAINES	Gaines	Gaines		GAINES	Gaines	Gaines	Hauser		-
+179	179	THE CHRISTIAN WARFARE	The Christian Warfare	Christian Warfare, The		THE CHRISTIAN WARFARE	The Christian Warfare	Christian Warfare, The	Southern Harmony	yes	-
+180	180	VERMONT	Vermont	Vermont		VERMONT	Vermont	Vermont	Billings		-
+181	181	EXIT	Exit	Exit		EXIT	Exit	Exit	Sherman		-
+182	182	NEWBURGH	Newburgh	Newburgh		NEWBURGH	Newburgh	Newburgh	Munson		-
+183	183	GREENWICH	Greenwich	Greenwich		GREENWICH	Greenwich	Greenwich	Read		-
+184	184	AND JESUS CRUCIFIED	And Jesus Crucified	And Jesus Crucified		AND JESUS CRUCIFIED	And Jesus Crucified	And Jesus Crucified	Wright		Living
+185	185	PILGRIM’S FAREWELL	Pilgrim’s Farewell	Pilgrim’s Farewell		PILGRIM’S FAREWELL	Pilgrim’s Farewell	Pilgrim’s Farewell	Psalmodist’s Companion	yes	-
+186	186	SHERBURNE	Sherburne	Sherburne		SHERBURNE	Sherburne	Sherburne	Read		-
+187	187	PROTECTION	Protection	Protection	Sherman	PROTECTION (Sherman)	Protection (Sherman)	Protection (Sherman)	Sherman		-
+188	188	EPHESUS	Ephesus	Ephesus		EPHESUS	Ephesus	Ephesus	Karlsberg		Living
+189	189	MONTGOMERY	Montgomery	Montgomery		MONTGOMERY	Montgomery	Montgomery	Morgan		-
+191	191	VIRGINIA	Virginia	Virginia		VIRGINIA	Virginia	Virginia	Brownson		-
+192	192	SCHENECTADY	Schenectady	Schenectady		SCHENECTADY	Schenectady	Schenectady	Shumway		-
+193	193	HUNTINGTON	Huntington	Huntington		HUNTINGTON	Huntington	Huntington	Morgan		-
+195	195	WORCESTER	Worcester	Worcester		WORCESTER	Worcester	Worcester	Wood		-
+196	196	ALABAMA	Alabama	Alabama		ALABAMA	Alabama	Alabama	Southern Harmony	yes	-	Arr.
+197	197	GEORGIA	Georgia	Georgia		GEORGIA	Georgia	Georgia	McGraw		-
+198	198	GREEN STREET	Green Street	Green Street		GREEN STREET	Green Street	Green Street	Coles		-
+200	200	EDOM	Edom	Edom		EDOM	Edom	Edom	West		-
+201	201	PILGRIM	Pilgrim	Pilgrim		PILGRIM	Pilgrim	Pilgrim	Missouri Harmony	yes	-	Arr.
+202	202	NEW LEBANON	New Lebanon	New Lebanon		NEW LEBANON	New Lebanon	New Lebanon	Sherman		-
+203	203	FLORIDA	Florida	Florida		FLORIDA	Florida	Florida	Wetmore		-
+204	204	MISSION	Mission	Mission		MISSION	Mission	Mission	Gramling		-	Arr.
+205	205	PLEASANT HILL	Pleasant Hill	Pleasant Hill		PLEASANT HILL	Pleasant Hill	Pleasant Hill	Nicholson		-
+206	206	CHRISTIAN’S HOPE	Christian’s Hope	Christian’s Hope		CHRISTIAN’S HOPE	Christian’s Hope	Christian’s Hope	Parris		-
+207	207	LOUISIANA	Louisiana	Louisiana		LOUISIANA	Louisiana	Louisiana	Walker		-
+208	208	TRAVELING ON	Traveling On	Traveling On		TRAVELING ON	Traveling On	Traveling On	Denson & James		-
+209	209	EVENING SHADE	Evening Shade	Evening Shade		EVENING SHADE	Evening Shade	Evening Shade	Jenks		-
+210	210	LENA	Lena	Lena		LENA	Lena	Lena	Belknap		-
+211	211	WHITESTOWN	Whitestown	Whitestown		WHITESTOWN	Whitestown	Whitestown	Howd		-
+212	212	SHARON	Sharon	Sharon		SHARON	Sharon	Sharon	West		-
+213t	213.1	THE GOOD OLD WAY	The Good Old Way	Good Old Way, The		THE GOOD OLD WAY	The Good Old Way	Good Old Way, The	Walker		-
+213b	213.2	TREMBLING SPIRIT	Trembling Spirit	Trembling Spirit		TREMBLING SPIRIT	Trembling Spirit	Trembling Spirit	Karlsberg		Living
+214	214	REPENTANCE	Repentance	Repentance		REPENTANCE	Repentance	Repentance	Rollo		-
+215	215	NEW TOPIA	New Topia	New Topia		NEW TOPIA	New Topia	New Topia	Monday		-
+216	216	DELIGHT	Delight	Delight		DELIGHT	Delight	Delight	Coan		-
+217	217	BALLSTOWN	Ballstown	Ballstown		BALLSTOWN	Ballstown	Ballstown	Shumway		-
+218	218	MOUNT PLEASANT	Mount Pleasant	Mount Pleasant		MOUNT PLEASANT	Mount Pleasant	Mount Pleasant	Deolph		-
+219	219	HE HATH SAVED US	He Hath Saved Us	He Hath Saved Us		HE HATH SAVED US	He Hath Saved Us	He Hath Saved Us	Parkinson		Living
+220	220	MOUNT ZION	Mount Zion	Mount Zion	Brown	MOUNT ZION (Brown)	Mount Zion (Brown)	Mount Zion (Brown)	Brown		-
+222	222	OCEAN	Ocean	Ocean		OCEAN	Ocean	Ocean	Philadelphia Harmony	yes	-
+223	223	BALM IN GILEAD	Balm in Gilead	Balm in Gilead		BALM IN GILEAD	Balm in Gilead	Balm in Gilead	Wright		Living	Arr.
+224	224	SAVE, LORD, OR WE PERISH	Save, Lord, or We Perish	Save, Lord, or We Perish		SAVE, LORD, OR WE PERISH	Save, Lord, or We Perish	Save, Lord, or We Perish	Wynn		-
+225t	225.1	REYNOLDS	Reynolds	Reynolds		REYNOLDS	Reynolds	Reynolds	Griggs		-	Arr. from
+225b	225.2	CHRISTMAS ANTHEM	Christmas Anthem	Christmas Anthem		CHRISTMAS ANTHEM	Christmas Anthem	Christmas Anthem	Denson		-
+227	227	ODE OF LIFE’S JOURNEY	Ode of Life’s Journey	Ode of Life’s Journey		ODE OF LIFE’S JOURNEY	Ode of Life’s Journey	Ode of Life’s Journey	King		-
+228	228	MARLBOROUGH	Marlborough	Marlborough		MARLBOROUGH	Marlborough	Marlborough	Wood		-
+229	229	IRWINTON	Irwinton	Irwinton		IRWINTON	Irwinton	Irwinton	Carter		-	Arr.
+230	230	CONVERTING GRACE	Converting Grace	Converting Grace		CONVERTING GRACE	Converting Grace	Converting Grace	Brown		-
+231	231	SEILER	Seiler	Seiler		SEILER	Seiler	Seiler	Karlsberg		Living
+232	232	BAPTISMAL ANTHEM	Baptismal Anthem	Baptismal Anthem		BAPTISMAL ANTHEM	Baptismal Anthem	Baptismal Anthem	White		-
+234	234	REVERENTIAL ANTHEM	Reverential Anthem	Reverential Anthem		REVERENTIAL ANTHEM	Reverential Anthem	Reverential Anthem	King		-
+235	235	LONG SOUGHT HOME	Long Sought Home	Long Sought Home		LONG SOUGHT HOME	Long Sought Home	Long Sought Home	Bobo		-
+236	236	EASTER ANTHEM	Easter Anthem	Easter Anthem		EASTER ANTHEM	Easter Anthem	Easter Anthem	Billings		-
+240	240	CHRISTIAN SONG	Christian Song	Christian Song		CHRISTIAN SONG	Christian Song	Christian Song	Christian Harmony	yes	-
+242	242	REVERE	Revere	Revere		REVERE	Revere	Revere	Walter		Living
+243	243	STANTON	Stanton	Stanton		STANTON	Stanton	Stanton	Ceresa		Living
+244	244	PLEVNA	Plevna	Plevna		PLEVNA	Plevna	Plevna	Bahler		Living
+245	245	CLAREMONT	Claremont	Claremont		CLAREMONT	Claremont	Claremont	Temple & Merrill		-
+250	250	HEAVENLY VISION	Heavenly Vision	Heavenly Vision		HEAVENLY VISION	Heavenly Vision	Heavenly Vision	French		-
+254	254	WARSAW	Warsaw	Warsaw		WARSAW	Warsaw	Warsaw	Bock		Living
+255	255	MECHANICVILLE	Mechanicville	Mechanicville		MECHANICVILLE	Mechanicville	Mechanicville	Montgomery		Living
+256	256	NORTHAMPTON	Northampton	Northampton		NORTHAMPTON	Northampton	Northampton	Steel		Living
+257	257	MANATAWNY	Manatawny	Manatawny		MANATAWNY	Manatawny	Manatawny	Hall		Living
+258	258	INSPIRATION	Inspiration	Inspiration		INSPIRATION	Inspiration	Inspiration	Solheim		Living
+259	259	EASTON	Easton	Easton		EASTON	Easton	Easton	Elliott		Living
+260	260	FAREWELL ANTHEM	Farewell Anthem	Farewell Anthem		FAREWELL ANTHEM	Farewell Anthem	Farewell Anthem	French		-
+263	263	EVERY GRACE	Every Grace	Every Grace		EVERY GRACE	Every Grace	Every Grace	Wright		Living
+264	264	NIGHT SONG	Night Song	Night Song		NIGHT SONG	Night Song	Night Song	Steel		Living
+265	265	GWEHELOG	Gwehelog	Gwehelog		GWEHELOG	Gwehelog	Gwehelog	Parkinson		Living
+266	266	CHAMBERSBURG	Chambersburg	Chambersburg		CHAMBERSBURG	Chambersburg	Chambersburg	Mose		Living
+267	267	PARTING FRIENDS	Parting Friends	Parting Friends	McCurry	PARTING FRIENDS (McCurry)	Parting Friends (McCurry)	Parting Friends (McCurry)	McCurry		-	Arr.
+268	268	DAVID’S LAMENTATION	David’s Lamentation	David’s Lamentation		DAVID’S LAMENTATION	David’s Lamentation	David’s Lamentation	Billings		-
+269	269	BEAR CREEK	Bear Creek	Bear Creek		BEAR CREEK	Bear Creek	Bear Creek	Billings		-
+270	270	CONFIDENCE	Confidence	Confidence		CONFIDENCE	Confidence	Confidence	Turner		-
+271t	271.1	ARKANSAS	Arkansas	Arkansas		ARKANSAS	Arkansas	Arkansas	Barnett		-
+271b	271.2	RESTORATION	Restoration	Restoration	White	RESTORATION (White)	Restoration (White)	Restoration (White)	White		-
+272	272	EXHORTATION	Exhortation	Exhortation	Doolittle	EXHORTATION (Doolittle)	Exhortation (Doolittle)	Exhortation (Doolittle)	Doolittle		-
+273	273	MILFORD	Milford	Milford		MILFORD	Milford	Milford	Stephenson		-
+274t	274.1	THE GOLDEN HARP	The Golden Harp	Golden Harp, The		THE GOLDEN HARP	The Golden Harp	Golden Harp, The	Rees		-
+274b	274.2	ROLL JORDAN	Roll Jordan	Roll Jordan		ROLL JORDAN	Roll Jordan	Roll Jordan	McCurry		-
+275t	275.1	LOVING-KINDNESS	Loving-Kindness	Loving-Kindness		LOVING-KINDNESS	Loving-Kindness	Loving-Kindness	Pickard & Penick		-
+275b	275.2	ROLL ON	Roll On	Roll On		ROLL ON	Roll On	Roll On	Bass		-
+276	276	BRIDGEWATER	Bridgewater	Bridgewater		BRIDGEWATER	Bridgewater	Bridgewater	Edson		-
+277	277	ANTIOCH	Antioch	Antioch		ANTIOCH	Antioch	Antioch	Wood		-
+278t	278.1	LOVE SHALL NEVER DIE	Love Shall Never Die	Love Shall Never Die		LOVE SHALL NEVER DIE	Love Shall Never Die	Love Shall Never Die	Smith		-
+278b	278.2	TRAVELING PILGRIM	Traveling Pilgrim	Traveling Pilgrim		TRAVELING PILGRIM	Traveling Pilgrim	Traveling Pilgrim	Rees		-
+279	279	MINK HOLLOW	Mink Hollow	Mink Hollow		MINK HOLLOW	Mink Hollow	Mink Hollow	Mose		Living
+280	280	WESTFORD	Westford	Westford		WESTFORD	Westford	Westford	Read		-
+282	282	I’M GOING HOME	I’m Going Home	I’m Going Home		I’M GOING HOME	I’m Going Home	I’m Going Home	Breedlove		-
+283	283	SABBATH MORNING	Sabbath Morning	Sabbath Morning		SABBATH MORNING	Sabbath Morning	Sabbath Morning	McGraw		-
+284	284	GARDEN HYMN	Garden Hymn	Garden Hymn		GARDEN HYMN	Garden Hymn	Garden Hymn	Kentucky Harmony	yes	-	Arr.
+285t	285.1	ARNOLD	Arnold	Arnold		ARNOLD	Arnold	Arnold	Breedlove		-
+285b	285.2	LAND OF REST	Land of Rest	Land of Rest		LAND OF REST	Land of Rest	Land of Rest	Rees		-
+286	286	HEAVENLY HOME	Heavenly Home	Heavenly Home		HEAVENLY HOME	Heavenly Home	Heavenly Home	Yates		-
+287	287	CAMBRIDGE	Cambridge	Cambridge		CAMBRIDGE	Cambridge	Cambridge	Randall		-
+288	288	WHITE	White	White		WHITE	White	White	Dumas		-
+289	289	GREENSBOROUGH	Greensborough	Greensborough		GREENSBOROUGH	Greensborough	Greensborough	Mercer		-
+290	290	VICTORIA	Victoria	Victoria		VICTORIA	Victoria	Victoria	Breedlove		-
+291	291	MAJESTY	Majesty	Majesty		MAJESTY	Majesty	Majesty	Billings		-
+292	292	BEHOLD THE SAVIOR	Behold the Savior	Behold the Savior		BEHOLD THE SAVIOR	Behold the Savior	Behold the Savior	Denson		-
+293	293	MIDNIGHT HOUR	Midnight Hour	Midnight Hour		MIDNIGHT HOUR	Midnight Hour	Midnight Hour	Thacker		Living
+294	294	ROCKY ROAD	Rocky Road	Rocky Road		ROCKY ROAD	Rocky Road	Rocky Road	Brown & Denson		-	Arr.
+295	295	IOWA	Iowa	Iowa		IOWA	Iowa	Iowa	Brittain		-
+296	296	SARDINIA	Sardinia	Sardinia		SARDINIA	Sardinia	Sardinia	Castle		-
+297	297	CONVERSION	Conversion	Conversion		CONVERSION	Conversion	Conversion	Belcher		-
+298	298	PROVIDENCE	Providence	Providence		PROVIDENCE	Providence	Providence	Curtis		-
+299	299	NEW JERUSALEM	New Jerusalem	New Jerusalem		NEW JERUSALEM	New Jerusalem	New Jerusalem	Ingalls		-
+300	300	CALVARY	Calvary	Calvary		CALVARY	Calvary	Calvary	Read		-
+301	301	GREENLAND	Greenland	Greenland		GREENLAND	Greenland	Greenland	Moore		-
+302	302	LOGAN	Logan	Logan		LOGAN	Logan	Logan	Denson		-
+303	303	HEAVENLY LAND	Heavenly Land	Heavenly Land		HEAVENLY LAND	Heavenly Land	Heavenly Land	Sheppard		-
+304	304	MORGAN	Morgan	Morgan		MORGAN	Morgan	Morgan	Easy Instructor	yes	-
+306	306	OXFORD	Oxford	Oxford		OXFORD	Oxford	Oxford	Massengale		-	Arr.
+308	308	THE LOST CITY	The Lost City	Lost City, The		THE LOST CITY	The Lost City	Lost City, The	King		-	Arr.
+309	309	LIVING LAMB	Living Lamb	Living Lamb		LIVING LAMB	Living Lamb	Living Lamb	Davis		-	Arr.
+310	310	WEEPING SAVIOR	Weeping Savior	Weeping Savior	Dumas	WEEPING SAVIOR (Dumas)	Weeping Savior (Dumas)	Weeping Savior (Dumas)	Dumas		-	Arr.
+311	311	SILVER STREET	Silver Street	Silver Street		SILVER STREET	Silver Street	Silver Street	Smith		-
+312t	312.1	SING TO ME OF HEAVEN	Sing to Me of Heaven	Sing to Me of Heaven		SING TO ME OF HEAVEN	Sing to Me of Heaven	Sing to Me of Heaven	Massengale		-	Arr.
+312b	312.2	RESTORATION	Restoration	Restoration	Southern Harmony	RESTORATION (Southern Harmony)	Restoration (Southern Harmony)	Restoration (Southern Harmony)	Southern Harmony	yes	-	Arr.
+313t	313.1	CONCORD	Concord	Concord		CONCORD	Concord	Concord	Holden		-
+313b	313.2	COBB	Cobb	Cobb		COBB	Cobb	Cobb	Brittain		-
+314	314	CLEBURNE	Cleburne	Cleburne		CLEBURNE	Cleburne	Cleburne	Denson		-	Arr.
+315	315	IMMENSITY	Immensity	Immensity		IMMENSITY	Immensity	Immensity	Doolittle		-
+316	316	NEW HOPE	New Hope	New Hope		NEW HOPE	New Hope	New Hope	Cagle		-
+317	317	JACKSON	Jackson	Jackson		JACKSON	Jackson	Jackson	McWhorter		-
+318	318	PRESENT JOYS	Present Joys	Present Joys		PRESENT JOYS	Present Joys	Present Joys	Cagle		-
+319	319	RELIGION IS A FORTUNE	Religion Is a Fortune	Religion Is a Fortune		RELIGION IS A FORTUNE	Religion Is a Fortune	Religion Is a Fortune	Williams		-
+320	320	FUNERAL ANTHEM	Funeral Anthem	Funeral Anthem		FUNERAL ANTHEM	Funeral Anthem	Funeral Anthem	Billings		-
+321	321	NEWNAN	Newnan	Newnan		NEWNAN	Newnan	Newnan	Rees		-
+322	322	MAN’S REDEMPTION	Man’s Redemption	Man’s Redemption		MAN’S REDEMPTION	Man’s Redemption	Man’s Redemption	Brown		-
+323t	323.1	MULLINS	Mullins	Mullins		MULLINS	Mullins	Mullins	Dumas		-	Arr.
+323b	323.2	KINGSWOOD	Kingswood	Kingswood		KINGSWOOD	Kingswood	Kingswood	Elliott		Living
+324	324	NORTH PORT	North Port	North Port		NORTH PORT	North Port	North Port	Osborne		-
+325	325	SOLDIER OF THE CROSS	Soldier of the Cross	Soldier of the Cross		SOLDIER OF THE CROSS	Soldier of the Cross	Soldier of the Cross	Daniell		-
+326	326	WEARY PILGRIM	Weary Pilgrim	Weary Pilgrim		WEARY PILGRIM	Weary Pilgrim	Weary Pilgrim	Breedlove		-
+327	327	INVITATION	Invitation	Invitation		INVITATION	Invitation	Invitation	Kimball		-
+328	328	PRAISE GOD	Praise God	Praise God		PRAISE GOD	Praise God	Praise God	Denson		-
+329	329	VAIN WORLD ADIEU	Vain World Adieu	Vain World Adieu		VAIN WORLD ADIEU	Vain World Adieu	Vain World Adieu	Dumas		-	Arr.
+330t	330.1	FELLOWSHIP	Fellowship	Fellowship		FELLOWSHIP	Fellowship	Fellowship	Denson		-
+330b	330.2	CHANDESSE	Chandesse	Chandesse		CHANDESSE	Chandesse	Chandesse	Eymard		Living
+332	332	SONS OF SORROW	Sons of Sorrow	Sons of Sorrow		SONS OF SORROW	Sons of Sorrow	Sons of Sorrow	Hauser		-	Arr.
+333	333	FAMILY CIRCLE	Family Circle	Family Circle		FAMILY CIRCLE	Family Circle	Family Circle	Brown & White		-
+334	334	BAINBRIDGE ISLAND	Bainbridge Island	Bainbridge Island		BAINBRIDGE ISLAND	Bainbridge Island	Bainbridge Island	Barrans		Living
+335	335	RETURN AGAIN	Return Again	Return Again		RETURN AGAIN	Return Again	Return Again	Williams		-	Arr.
+336	336	ETERNAL HOME	Eternal Home	Eternal Home		ETERNAL HOME	Eternal Home	Eternal Home	Denson		-
+337	337	MERCY’S FREE	Mercy’s Free	Mercy’s Free		MERCY’S FREE	Mercy’s Free	Mercy’s Free	Breedlove		-
+338	338	SAWYER’S EXIT	Sawyer’s Exit	Sawyer’s Exit		SAWYER’S EXIT	Sawyer’s Exit	Sawyer’s Exit	Massengale		-	Arr.
+339	339	WHEN I AM GONE	When I Am Gone	When I Am Gone		WHEN I AM GONE	When I Am Gone	When I Am Gone	Bayly		-	Arr. from
+340	340	ODEM	Odem	Odem		ODEM	Odem	Odem	Denson		-
+341	341	THE LONE PILGRIM	The Lone Pilgrim	Lone Pilgrim, The		THE LONE PILGRIM	The Lone Pilgrim	Lone Pilgrim, The	Indian Melodies	yes	-	Arr. from
+342	342	THE OLD-FASHIONED BIBLE	The Old-Fashioned Bible	Old-Fashioned Bible, The		THE OLD-FASHIONED BIBLE	The Old-Fashioned Bible	Old-Fashioned Bible, The	Breedlove		-	Arr.
+343	343	HAPPY HOME	Happy Home	Happy Home		HAPPY HOME	Happy Home	Happy Home	Rees		-
+344	344	RAINBOW	Rainbow	Rainbow		RAINBOW	Rainbow	Rainbow	Swan		-	Arr. from
+345t	345.1	JESUS IS MY FRIEND	Jesus Is My Friend	Jesus Is My Friend		JESUS IS MY FRIEND	Jesus Is My Friend	Jesus Is My Friend	Rees		-
+345b	345.2	I’M ON MY JOURNEY HOME	I’m on My Journey Home	I’m on My Journey Home		I’M ON MY JOURNEY HOME	I’m on My Journey Home	I’m on My Journey Home	Lancaster		-
+346	346	THE AMERICAN STAR	The American Star	American Star, The		THE AMERICAN STAR	The American Star	American Star, The	White		-	Arr.
+347t	347.1	CHRISTIAN’S FAREWELL	Christian’s Farewell	Christian’s Farewell		CHRISTIAN’S FAREWELL	Christian’s Farewell	Christian’s Farewell	Hamrick		-
+347b	347.2	HUMILITY	Humility	Humility		HUMILITY	Humility	Humility	Hamrick		-
+348t	348.1	AINSLIE	Ainslie	Ainslie		AINSLIE	Ainslie	Ainslie	Hauff		Living
+348b	348.2	FLEETING DAYS	Fleeting Days	Fleeting Days		FLEETING DAYS	Fleeting Days	Fleeting Days	Mann		-
+349	349	A CROSS FOR ME	A Cross for Me	Cross for Me, A		A CROSS FOR ME	A Cross for Me	Cross for Me, A	Parris		-
+350	350	NATIVITY	Nativity	Nativity		NATIVITY	Nativity	Nativity	Jarman		-	Arr. from
+351	351	PITTSFORD	Pittsford	Pittsford		PITTSFORD	Pittsford	Pittsford	Moors		-
+352	352	SWANTON	Swanton	Swanton		SWANTON	Swanton	Swanton	Moors		-
+353	353	McGRAW	McGraw	McGraw		McGRAW	McGraw	McGraw	Brittain		-
+354t	354.1	LEBANON	Lebanon	Lebanon		LEBANON	Lebanon	Lebanon	J. Monroe Denton		-
+354b	354.2	HAPPY LAND	Happy Land	Happy Land		HAPPY LAND	Happy Land	Happy Land	Breedlove		-	Arr.
+355	355	TORRINGTON	Torrington	Torrington		TORRINGTON	Torrington	Torrington	Mose		Living
+356	356	BOUNDLESS GRACE	Boundless Grace	Boundless Grace		BOUNDLESS GRACE	Boundless Grace	Boundless Grace	Walter		Living
+357	357	KEDAR	Kedar	Kedar		KEDAR	Kedar	Kedar	Ward		Living
+358	358	MURILLO’S LESSON	Murillo’s Lesson	Murillo’s Lesson		MURILLO’S LESSON	Murillo’s Lesson	Murillo’s Lesson	Morelli		-	Arr. from
+359	359	THE BRIDE’S FAREWELL	The Bride’s Farewell	Bride’s Farewell, The		THE BRIDE’S FAREWELL	The Bride’s Farewell	Bride’s Farewell, The	Rees		-
+360	360	THE ROYAL BAND	The Royal Band	Royal Band, The		THE ROYAL BAND	The Royal Band	Royal Band, The	Power		-
+361	361	LOVING JESUS	Loving Jesus	Loving Jesus		LOVING JESUS	Loving Jesus	Loving Jesus	Giardini		-	Arr. from
+362	362	NORWICH	Norwich	Norwich		NORWICH	Norwich	Norwich	Holyoke		-	Arr. from
+364	364	SOUTHWELL	Southwell	Southwell		SOUTHWELL	Southwell	Southwell	Carpenter		-
+366	366	BREMEN	Bremen	Bremen		BREMEN	Bremen	Bremen	Titford-Mock		Living
+367	367	NASSAU	Nassau	Nassau		NASSAU	Nassau	Nassau	Bock		Living
+368	368	STONY POINT	Stony Point	Stony Point		STONY POINT	Stony Point	Stony Point	Hauff		Living
+369	369	SEND A BLESSING	Send a Blessing	Send a Blessing		SEND A BLESSING	Send a Blessing	Send a Blessing	White & Ledbetter		-
+370	370	MONROE	Monroe	Monroe		MONROE	Monroe	Monroe	Turner		-
+371	371	HEAVENLY DOVE	Heavenly Dove	Heavenly Dove		HEAVENLY DOVE	Heavenly Dove	Heavenly Dove	Maxim		-	Arr. from
+372	372	ROCKPORT	Rockport	Rockport		ROCKPORT	Rockport	Rockport	Carnes		Living
+373	373	HOMEWARD BOUND	Homeward Bound	Homeward Bound		HOMEWARD BOUND	Homeward Bound	Homeward Bound	Denson		-
+374	374	OH, SING WITH ME!	Oh, Sing with Me!	Oh, Sing with Me!		OH, SING WITH ME!	Oh, Sing with Me!	Oh, Sing with Me!	Lancaster		-
+375	375	LOVE THE LORD	Love the Lord	Love the Lord		LOVE THE LORD	Love the Lord	Love the Lord	Rees		-	Arr.
+376	376	HELP ME TO SING	Help Me to Sing	Help Me to Sing		HELP ME TO SING	Help Me to Sing	Help Me to Sing	White		-
+377	377	ETERNAL PRAISE	Eternal Praise	Eternal Praise		ETERNAL PRAISE	Eternal Praise	Eternal Praise	Parris		-
+378t	378.1	HEAVENLY PORT	Heavenly Port	Heavenly Port		HEAVENLY PORT	Heavenly Port	Heavenly Port	Dumas		-	Arr.
+378b	378.2	NEVER TURN BACK	Never Turn Back	Never Turn Back		NEVER TURN BACK	Never Turn Back	Never Turn Back	Rees & Parkerson		-	Arr.
+379	379	SPAN OF LIFE	Span of Life	Span of Life		SPAN OF LIFE	Span of Life	Span of Life	Brown		-
+380	380	LAWRENCEBURG	Lawrenceburg	Lawrenceburg		LAWRENCEBURG	Lawrenceburg	Lawrenceburg	Denson		-
+381	381	WELLS SECOND	Wells Second	Wells Second		WELLS SECOND	Wells Second	Wells Second	Wright		Living
+382	382	COSTON	Coston	Coston		COSTON	Coston	Coston	Denson		-
+383	383	ETERNAL DAY	Eternal Day	Eternal Day		ETERNAL DAY	Eternal Day	Eternal Day	Rees		-
+384	384	PANTING FOR HEAVEN	Panting for Heaven	Panting for Heaven		PANTING FOR HEAVEN	Panting for Heaven	Panting for Heaven	Brown		-
+385t	385.1	FIGHT ON	Fight On	Fight On		FIGHT ON	Fight On	Fight On	Rees		-
+385b	385.2	CAN I LEAVE YOU?	Can I Leave You?	Can I Leave You?		CAN I LEAVE YOU?	Can I Leave You?	Can I Leave You?	Rees		-	Arr.
+386	386	CHRIST OUR SONG	Christ Our Song	Christ Our Song		CHRIST OUR SONG	Christ Our Song	Christ Our Song	McGraw		-
+387	387	PENICK	Penick	Penick		PENICK	Penick	Penick	Sikes		-
+388	388	THE HAPPY SAILOR	The Happy Sailor	Happy Sailor, The		THE HAPPY SAILOR	The Happy Sailor	Happy Sailor, The	White		-	Arr.
+389	389	FREDERICKSBURG	Fredericksburg	Fredericksburg		FREDERICKSBURG	Fredericksburg	Fredericksburg	Frederick		-
+390	390	NEW PROSPECT	New Prospect	New Prospect		NEW PROSPECT	New Prospect	New Prospect	Turner		-	Arr.
+391	391	SOUNDING JOY	Sounding Joy	Sounding Joy		SOUNDING JOY	Sounding Joy	Sounding Joy	Morgan		-
+392	392	MANCHESTER	Manchester	Manchester		MANCHESTER	Manchester	Manchester	Denson		-
+393	393	REBEKAH	Rebekah	Rebekah		REBEKAH	Rebekah	Rebekah	Gilmore		Living
+394	394	THE MESSIAH’S PRAISE	The Messiah’s Praise	Messiah’s Praise, The		THE MESSIAH’S PRAISE	The Messiah’s Praise	Messiah’s Praise, The	Mann & Spark		-
+395	395	UNRATH	Unrath	Unrath		UNRATH	Unrath	Unrath	Mose		Living
+396	396	NOTES ALMOST DIVINE	Notes Almost Divine	Notes Almost Divine		NOTES ALMOST DIVINE	Notes Almost Divine	Notes Almost Divine	Denson		-
+397	397	THE FOUNTAIN	The Fountain	Fountain, The		THE FOUNTAIN	The Fountain	Fountain, The	Denson		-
+398	398	THE DYING BOY	The Dying Boy	Dying Boy, The		THE DYING BOY	The Dying Boy	Dying Boy, The	Rees		-
+399t	399.1	THE DYING FRIEND	The Dying Friend	Dying Friend, The		THE DYING FRIEND	The Dying Friend	Dying Friend, The	Wells		-
+399b	399.2	HAPPY CHRISTIAN	Happy Christian	Happy Christian		HAPPY CHRISTIAN	Happy Christian	Happy Christian	Cunningham		-	Arr.
+400	400	STRUGGLE ON	Struggle On	Struggle On		STRUGGLE ON	Struggle On	Struggle On	Rees		-
+401	401	CUBA	Cuba	Cuba		CUBA	Cuba	Cuba	Bolen & Rees		-
+402	402	PROTECTION	Protection	Protection	Letson	PROTECTION (Letson)	Protection (Letson)	Protection (Letson)	Letson		-
+403	403	HEAVENLY REST	Heavenly Rest	Heavenly Rest		HEAVENLY REST	Heavenly Rest	Heavenly Rest	Terry		-
+404	404	YOUTH WILL SOON BE GONE	Youth Will Soon Be Gone	Youth Will Soon Be Gone		YOUTH WILL SOON BE GONE	Youth Will Soon Be Gone	Youth Will Soon Be Gone	Rees		-
+405	405	THE MARCELLAS	The Marcellas	Marcellas, The		THE MARCELLAS	The Marcellas	Marcellas, The	Dumas		-
+406	406	NEW HARMONY	New Harmony	New Harmony		NEW HARMONY	New Harmony	New Harmony	Lancaster		-	Arr.
+407	407	CHARLTON	Charlton	Charlton		CHARLTON	Charlton	Charlton	Breedlove		-
+408	408	WEEPING MARY	Weeping Mary	Weeping Mary		WEEPING MARY	Weeping Mary	Weeping Mary	Rees		-
+409	409	EXETER	Exeter	Exeter		EXETER	Exeter	Exeter	Bock		Living
+410t	410.1	THE DYING CALIFORNIAN	The Dying Californian	Dying Californian, The		THE DYING CALIFORNIAN	The Dying Californian	Dying Californian, The	Ball & Drinkard		-	Arr. from
+410b	410.2	MUTUAL LOVE	Mutual Love	Mutual Love		MUTUAL LOVE	Mutual Love	Mutual Love	Walker		-
+411	411	MORNING PRAYER	Morning Prayer	Morning Prayer		MORNING PRAYER	Morning Prayer	Morning Prayer	Denson		-
+412	412	NEW HOSANNA	New Hosanna	New Hosanna		NEW HOSANNA	New Hosanna	New Hosanna	Rees		-	Arr.
+413	413	BUFFAM FALLS	Buffam Falls	Buffam Falls		BUFFAM FALLS	Buffam Falls	Buffam Falls	Eriksen		Living	Arr.
+414t	414.1	FAREWELL BRETHREN	Farewell Brethren	Farewell Brethren		FAREWELL BRETHREN	Farewell Brethren	Farewell Brethren	Karlsberg		Living
+414b	414.2	PARTING FRIEND	Parting Friend	Parting Friend		PARTING FRIEND	Parting Friend	Parting Friend	Graham		-	Arr.
+415	415	ENDLESS PRAISE	Endless Praise	Endless Praise		ENDLESS PRAISE	Endless Praise	Endless Praise	Wall		-
+416	416	THE CHRISTIAN’S NIGHTLY SONG	The Christian’s Nightly Song	Christian’s Nightly Song, The		THE CHRISTIAN’S NIGHTLY SONG	The Christian’s Nightly Song	Christian’s Nightly Song, The	Pound		-
+417	417	WEEPING PILGRIM	Weeping Pilgrim	Weeping Pilgrim		WEEPING PILGRIM	Weeping Pilgrim	Weeping Pilgrim	Rees		-
+418	418	REES	Rees	Rees		REES	Rees	Rees	Dumas		-
+419	419	MELANCHOLY DAY	Melancholy Day	Melancholy Day		MELANCHOLY DAY	Melancholy Day	Melancholy Day	Rees		-
+420t	420.1	TIDES OF LOVE	Tides of Love	Tides of Love		TIDES OF LOVE	Tides of Love	Tides of Love	Patton		Living
+420b	420.2	BISHOP	Bishop	Bishop		BISHOP	Bishop	Bishop	McGraw		-
+421	421	SWEET MORNING	Sweet Morning	Sweet Morning		SWEET MORNING	Sweet Morning	Sweet Morning	Rees		-	Arr.
+422	422	BURDETTE	Burdette	Burdette		BURDETTE	Burdette	Burdette	Denson		-
+423t	423.1	GRANTVILLE	Grantville	Grantville		GRANTVILLE	Grantville	Grantville	Rees		-
+423b	423.2	HALL	Hall	Hall		HALL	Hall	Hall	Velleman		Living
+424	424	SWEET UNION	Sweet Union	Sweet Union		SWEET UNION	Sweet Union	Sweet Union	Rees		-
+425	425	GOLDEN STREETS	Golden Streets	Golden Streets		GOLDEN STREETS	Golden Streets	Golden Streets	Pickard		-	Arr.
+426t	426.1	KELLEY	Kelley	Kelley		KELLEY	Kelley	Kelley	Denson		-
+426b	426.2	JASPER	Jasper	Jasper		JASPER	Jasper	Jasper	Denson		-
+428	428	WORLD UNKNOWN	World Unknown	World Unknown		WORLD UNKNOWN	World Unknown	World Unknown	Rees		-
+429	429	RED SANDS	Red Sands	Red Sands		RED SANDS	Red Sands	Red Sands	Parsons		Living
+430	430	ARBACOOCHEE	Arbacoochee	Arbacoochee		ARBACOOCHEE	Arbacoochee	Arbacoochee	Denson		-
+431	431	NEW BETHANY	New Bethany	New Bethany		NEW BETHANY	New Bethany	New Bethany	White		-
+432	432	CHEVES	Cheves	Cheves		CHEVES	Cheves	Cheves	Bradfield		-
+433	433	SPRINGDALE	Springdale	Springdale		SPRINGDALE	Springdale	Springdale	Winters		Living
+434	434	FILLMORE	Fillmore	Fillmore		FILLMORE	Fillmore	Fillmore	Rees		-
+435	435	SACRED REST	Sacred Rest	Sacred Rest		SACRED REST	Sacred Rest	Sacred Rest	Jones		-
+436	436	MORNING SUN	Morning Sun	Morning Sun		MORNING SUN	Morning Sun	Morning Sun	Denson		-
+437	437	ENOCH	Enoch	Enoch		ENOCH	Enoch	Enoch	Mose		Living
+438	438	THE BLIND GIRL	The Blind Girl	Blind Girl, The		THE BLIND GIRL	The Blind Girl	Blind Girl, The	Brown		-
+439	439	JORDAN	Jordan	Jordan	Cagle	JORDAN (Cagle)	Jordan (Cagle)	Jordan (Cagle)	Cagle		-
+440	440	NORTH SALEM	North Salem	North Salem		NORTH SALEM	North Salem	North Salem	Jenks		-
+441	441	RAYMOND	Raymond	Raymond		RAYMOND	Raymond	Raymond	Jenks		-	Arr. from
+442	442	NEW JORDAN	New Jordan	New Jordan		NEW JORDAN	New Jordan	New Jordan	Easy Instructor	yes	-
+444	444	ALL SAINTS NEW	All Saints New	All Saints New		ALL SAINTS NEW	All Saints New	All Saints New	Hall		-
+445	445	PASSING AWAY	Passing Away	Passing Away		PASSING AWAY	Passing Away	Passing Away	Watson		-
+446	446	INFINITE DAY	Infinite Day	Infinite Day		INFINITE DAY	Infinite Day	Infinite Day	Edwards		-
+447	447	WONDROUS CROSS	Wondrous Cross	Wondrous Cross		WONDROUS CROSS	Wondrous Cross	Wondrous Cross	Denson		-
+448t	448.1	CONSECRATION	Consecration	Consecration		CONSECRATION	Consecration	Consecration	Turner		-
+448b	448.2	THE GRIEVED SOUL	The Grieved Soul	Grieved Soul, The		THE GRIEVED SOUL	The Grieved Soul	Grieved Soul, The	Hendon		-	Arr.
+449	449	LOVELY SOCIAL BAND	Lovely Social Band	Lovely Social Band		LOVELY SOCIAL BAND	Lovely Social Band	Lovely Social Band	Mayers		Living
+450	450	ELDER	Elder	Elder		ELDER	Elder	Elder	Wynn		-
+451	451	MILTON	Milton	Milton		MILTON	Milton	Milton	Mose		Living
+452t	452.1	PETERBOROUGH	Peterborough	Peterborough		PETERBOROUGH	Peterborough	Peterborough	Musical Instructor	yes	-
+452b	452.2	MARTIN	Martin	Martin		MARTIN	Martin	Martin	Marsh		-
+453	453	NEWBURY	Newbury	Newbury		NEWBURY	Newbury	Newbury	Turner		Living
+454	454	THE BETTER LAND	The Better Land	Better Land, The		THE BETTER LAND	The Better Land	Better Land, The	Parris		-
+455	455	SOAR AWAY	Soar Away	Soar Away		SOAR AWAY	Soar Away	Soar Away	Cagle		-
+456	456	SACRED MOUNT	Sacred Mount	Sacred Mount		SACRED MOUNT	Sacred Mount	Sacred Mount	Cagle		-
+457	457	WAYFARING STRANGER	Wayfaring Stranger	Wayfaring Stranger		WAYFARING STRANGER	Wayfaring Stranger	Wayfaring Stranger	Dye		-	Arr.
+458	458	FRIENDSHIP	Friendship	Friendship		FRIENDSHIP	Friendship	Friendship	Williams		-
+459	459	HURRICANE CREEK	Hurricane Creek	Hurricane Creek		HURRICANE CREEK	Hurricane Creek	Hurricane Creek	Steel		Living
+460	460	SARDIS	Sardis	Sardis		SARDIS	Sardis	Sardis	Lancaster		-
+461	461	JOHN 3:37	John 3:37	John 3:37		JOHN 3:37	John 3:37	John 3:37	Hamrick		-
+462	462	FAITH AND HOPE	Faith and Hope	Faith and Hope		FAITH AND HOPE	Faith and Hope	Faith and Hope	Cagle		-
+463	463	MOREL	Morel	Morel		MOREL	Morel	Morel	Thoma		Living
+464	464	SHEPPARD	Sheppard	Sheppard		SHEPPARD	Sheppard	Sheppard	Mercer		-
+465	465	WHERE THERE’S NO TROUBLE AND SORROW	Where There’s No Trouble and Sorrow	Where There’s No Trouble and Sorrow		WHERE THERE’S NO TROUBLE AND SORROW	Where There’s No Trouble and Sorrow	Where There’s No Trouble and Sorrow	DeLong		-
+466	466	HAYNES CREEK	Haynes Creek	Haynes Creek		HAYNES CREEK	Haynes Creek	Haynes Creek	Harrison		-
+467	467	LISBON	Lisbon	Lisbon	Read	LISBON (Read)	Lisbon (Read)	Lisbon (Read)	Read		-
+468	468	SOUL’S DELIGHT	Soul’s Delight	Soul’s Delight		SOUL’S DELIGHT	Soul’s Delight	Soul’s Delight	George		Living
+469	469	THY STRENGTH	Thy Strength	Thy Strength		THY STRENGTH	Thy Strength	Thy Strength	Huffman		Living
+470	470	THE MERCY SEAT	The Mercy Seat	Mercy Seat, The		THE MERCY SEAT	The Mercy Seat	Mercy Seat, The	Redding		-
+471	471	BECKET	Becket	Becket		BECKET	Becket	Becket	Velleman		Living
+472	472	AKIN	Akin	Akin		AKIN	Akin	Akin	Brittain		-
+473	473	CARMARTHEN	Carmarthen	Carmarthen		CARMARTHEN	Carmarthen	Carmarthen	Sacra		-
+474	474	MOUNT DESERT	Mount Desert	Mount Desert		MOUNT DESERT	Mount Desert	Mount Desert	Randall		Living
+475	475	A THANKFUL HEART	A Thankful Heart	Thankful Heart, A		A THANKFUL HEART	A Thankful Heart	Thankful Heart, A	Hocutt		-
+476	476	ETERNAL AGES	Eternal Ages	Eternal Ages		ETERNAL AGES	Eternal Ages	Eternal Ages	Velleman		Living
+477	477	LORD, WE ADORE THEE	Lord, We Adore Thee	Lord, We Adore Thee		LORD, WE ADORE THEE	Lord, We Adore Thee	Lord, We Adore Thee	Denson		-
+478	478	HELEN HILLS HILLS	Helen Hills Hills	Helen Hills Hills		HELEN HILLS HILLS	Helen Hills Hills	Helen Hills Hills	Steel		Living
+479	479	CHESTER	Chester	Chester		CHESTER	Chester	Chester	Billings		-
+480	480	REDEMPTION	Redemption	Redemption		REDEMPTION	Redemption	Redemption	Hocutt		-
+481	481	NOVAKOSKI	Novakoski	Novakoski		NOVAKOSKI	Novakoski	Novakoski	Brittain		-
+482	482	MULBERRY GROVE	Mulberry Grove	Mulberry Grove		MULBERRY GROVE	Mulberry Grove	Mulberry Grove	Rees		-
+483	483	GOLDEN GARDENS	Golden Gardens	Golden Gardens		GOLDEN GARDENS	Golden Gardens	Golden Gardens	Schinske		Living
+484t	484.1	MILLBROOK	Millbrook	Millbrook		MILLBROOK	Millbrook	Millbrook	Bruce		Living
+484b	484.2	PARWICH	Parwich	Parwich		PARWICH	Parwich	Parwich	Brown		Living
+485	485	NEW AGATITE	New Agatite	New Agatite		NEW AGATITE	New Agatite	New Agatite	Johnson		Living
+486	486	BENEFICENCE	Beneficence	Beneficence		BENEFICENCE	Beneficence	Beneficence	Billings		-
+487	487	LOWNDES	Lowndes	Lowndes		LOWNDES	Lowndes	Lowndes	Camacho-Cerna		Living
+488	488	RADIANCE	Radiance	Radiance		RADIANCE	Radiance	Radiance	Davis		Living
+489	489	THE SAVIOR’S CALL	The Savior’s Call	Savior’s Call, The		THE SAVIOR’S CALL	The Savior’s Call	Savior’s Call, The	Heritage		-
+490	490	MY SHEPHERD GUIDES	My Shepherd Guides	My Shepherd Guides		MY SHEPHERD GUIDES	My Shepherd Guides	My Shepherd Guides	Godsey		-
+491	491	EAGLES’ WINGS	Eagles’ Wings	Eagles’ Wings		EAGLES’ WINGS	Eagles’ Wings	Eagles’ Wings	Hocutt		-	Arr.
+492	492	INVOCATION	Invocation	Invocation	Hamrick	INVOCATION (Hamrick)	Invocation (Hamrick)	Invocation (Hamrick)	Hamrick		-
+493	493	BLESSED ROAD	Blessed Road	Blessed Road		BLESSED ROAD	Blessed Road	Blessed Road	Ivey		Living
+494	494	HARRISON	Harrison	Harrison		HARRISON	Harrison	Harrison	George		Living
+495	495	THE MIDNIGHT CRY	The Midnight Cry	Midnight Cry, The		THE MIDNIGHT CRY	The Midnight Cry	Midnight Cry, The	Southern Harmony	yes	-
+496	496	THE ROCK THAT IS HIGHER THAN I	The Rock That Is Higher than I	Rock That Is Higher than I, The		THE ROCK THAT IS HIGHER THAN I	The Rock That Is Higher than I	Rock That Is Higher than I, The	White		-	Arr.
+497t	497.1	NATICK	Natick	Natick		NATICK	Natick	Natick	Wright		Living
+497b	497.2	SUPPLICATION	Supplication	Supplication		SUPPLICATION	Supplication	Supplication	Southern Harmony	yes	-	Arr.
+498	498	THE RESURRECTION DAY	The Resurrection Day	Resurrection Day, The		THE RESURRECTION DAY	The Resurrection Day	Resurrection Day, The	Hocutt		-
+499t	499.1	PASTURES GREEN	Pastures Green	Pastures Green		PASTURES GREEN	Pastures Green	Pastures Green	George		Living
+499b	499.2	AT REST	At Rest	At Rest		AT REST	At Rest	At Rest	Frederick		-
+500	500	LIVING HOPE	Living Hope	Living Hope		LIVING HOPE	Living Hope	Living Hope	McGraw		-
+501t	501.1	PENN	Penn	Penn		PENN	Penn	Penn	Ivey		Living
+501b	501.2	O’LEARY	O’Leary	O’Leary		O’LEARY	O’Leary	O’Leary	Mercer		-
+502	502	NEW YORK	New York	New York		NEW YORK	New York	New York	Ceresa		Living
+503	503	LLOYD	Lloyd	Lloyd		LLOYD	Lloyd	Lloyd	Hamrick		-
+504	504	WOOD STREET	Wood Street	Wood Street		WOOD STREET	Wood Street	Wood Street	Hauff		Living
+505	505	WHERE CEASELESS AGES ROLL	Where Ceaseless Ages Roll	Where Ceaseless Ages Roll		WHERE CEASELESS AGES ROLL	Where Ceaseless Ages Roll	Where Ceaseless Ages Roll	Denson		-
+506	506	THE ARK	The Ark	Ark, The		THE ARK	The Ark	Ark, The	Ayers		-
+507	507	WOODLANDS	Woodlands	Woodlands		WOODLANDS	Woodlands	Woodlands	Hall		Living
+508	508	SERMON ON THE MOUNT	Sermon on the Mount	Sermon on the Mount		SERMON ON THE MOUNT	Sermon on the Mount	Sermon on the Mount	Cagle		-
+510	510	CORLEY	Corley	Corley		CORLEY	Corley	Corley	Wilson		-	Arr. from
+511	511	THE GREAT REDEEMER	The Great Redeemer	Great Redeemer, The		THE GREAT REDEEMER	The Great Redeemer	Great Redeemer, The	Frederick		-
+512	512	THE SPIRIT SHALL RETURN	The Spirit Shall Return	Spirit Shall Return, The		THE SPIRIT SHALL RETURN	The Spirit Shall Return	Spirit Shall Return, The	Kitchens		-
+513	513	OAKLAND	Oakland	Oakland		OAKLAND	Oakland	Oakland	Smead		Living
+514	514	CHOCTAWHATCHEE	Choctawhatchee	Choctawhatchee		CHOCTAWHATCHEE	Choctawhatchee	Choctawhatchee	Smith		Living
+515	515	ROCKBRIDGE	Rockbridge	Rockbridge		ROCKBRIDGE	Rockbridge	Rockbridge	Chapin		-	Arr. from
+516	516	GRANADA	Granada	Granada		GRANADA	Granada	Granada	Ditzler		Living
+517	517	MARS HILL	Mars Hill	Mars Hill		MARS HILL	Mars Hill	Mars Hill	McGraw		-
+518	518	HEAVENLY ANTHEM	Heavenly Anthem	Heavenly Anthem		HEAVENLY ANTHEM	Heavenly Anthem	Heavenly Anthem	Denson		-
+520	520	ATA	Ata	Ata		ATA	Ata	Ata	Stebly		Living
+521	521	PARTING FRIENDS	Parting Friends	Parting Friends	Canant	PARTING FRIENDS (Canant)	Parting Friends (Canant)	Parting Friends (Canant)	Canant		-
+522	522	YE HEEDLESS ONES	Ye Heedless Ones	Ye Heedless Ones		YE HEEDLESS ONES	Ye Heedless Ones	Ye Heedless Ones	Cagle		-
+523	523	JUST FOR A DAY	Just for a Day	Just for a Day		JUST FOR A DAY	Just for a Day	Just for a Day	Walton		-
+524	524	MOONLIGHT	Moonlight	Moonlight		MOONLIGHT	Moonlight	Moonlight	Solheim		Living
+525	525	IMANDRA	Imandra	Imandra		IMANDRA	Imandra	Imandra	Davisson		-
+526	526	SCHWAB	Schwab	Schwab		SCHWAB	Schwab	Schwab	Wright		Living
+527	527	MY LIFE AND BREATH	My Life and Breath	My Life and Breath		MY LIFE AND BREATH	My Life and Breath	My Life and Breath	McGraw		-
+528	528	SHOWERS OF BLESSINGS	Showers of Blessings	Showers of Blessings		SHOWERS OF BLESSINGS	Showers of Blessings	Showers of Blessings	Stone		-	Arr. from
+530	530	A GLAD NEW SONG	A Glad New Song	Glad New Song, A		A GLAD NEW SONG	A Glad New Song	Glad New Song, A	McGraw		-
+531	531	CLAYTON	Clayton	Clayton		CLAYTON	Clayton	Clayton	Hinton & Godfrey		Living
+532	532	PEACE AND JOY	Peace and Joy	Peace and Joy		PEACE AND JOY	Peace and Joy	Peace and Joy	Denson		-
+534	534	NEW GEORGIA	New Georgia	New Georgia		NEW GEORGIA	New Georgia	New Georgia	Edwards		-
+535	535	SHAWMUT	Shawmut	Shawmut		SHAWMUT	Shawmut	Shawmut	Mason		-
+536	536	SWEET MAJESTY	Sweet Majesty	Sweet Majesty		SWEET MAJESTY	Sweet Majesty	Sweet Majesty	Cagle		-
+537	537	PORTSMOUTH	Portsmouth	Portsmouth		PORTSMOUTH	Portsmouth	Portsmouth	Songs of Zion	yes	-
+538	538	HAMPTON	Hampton	Hampton		HAMPTON	Hampton	Hampton	Doolittle		-
+539	539	SIMENA	Simena	Simena		SIMENA	Simena	Simena	Dakan		Living
+540	540	NIDRAH	Nidrah	Nidrah		NIDRAH	Nidrah	Nidrah	Hamrick		-
+541	541	WILLKIE	Willkie	Willkie		WILLKIE	Willkie	Willkie	George		Living
+542	542	I’LL SEEK HIS BLESSINGS	I’ll Seek His Blessings	I’ll Seek His Blessings		I’LL SEEK HIS BLESSINGS	I’ll Seek His Blessings	I’ll Seek His Blessings	Cagle		-
+543	543	THOU ART GOD	Thou Art God	Thou Art God		THOU ART GOD	Thou Art God	Thou Art God	Edwards		-
+544	544	YOUTHFUL BLESSINGS	Youthful Blessings	Youthful Blessings		YOUTHFUL BLESSINGS	Youthful Blessings	Youthful Blessings	Gardner		-
+545	545	SOMERS	Somers	Somers		SOMERS	Somers	Somers	Jenks		-
+546	546	MY BRIGHTEST DAYS	My Brightest Days	My Brightest Days		MY BRIGHTEST DAYS	My Brightest Days	My Brightest Days	Parris		-
+547	547	GRANVILLE	Granville	Granville		GRANVILLE	Granville	Granville	Hauff		Living
+548	548	WOOTTEN	Wootten	Wootten		WOOTTEN	Wootten	Wootten	McGraw		-
+549	549	PHILLIPS’ FAREWELL	Phillips’ Farewell	Phillips’ Farewell		PHILLIPS’ FAREWELL	Phillips’ Farewell	Phillips’ Farewell	McGraw		-
+550	550	BLISSFUL DAWNING	Blissful Dawning	Blissful Dawning		BLISSFUL DAWNING	Blissful Dawning	Blissful Dawning	Cagle		-
+551	551	JACOB’S VISION	Jacob’s Vision	Jacob’s Vision		JACOB’S VISION	Jacob’s Vision	Jacob’s Vision	Wright		-	Arr.
+553	553	ANTHEM ON THE BEGINNING	Anthem on the Beginning	Anthem on the Beginning		ANTHEM ON THE BEGINNING	Anthem on the Beginning	Anthem on the Beginning	Denson		-
+556	556	PORTLAND	Portland	Portland		PORTLAND	Portland	Portland	Maxim		-
+557	557	NEW FAREWELL	New Farewell	New Farewell		NEW FAREWELL	New Farewell	New Farewell	Southern Harmony	yes	-
+558	558	LIVING STREAMS	Living Streams	Living Streams		LIVING STREAMS	Living Streams	Living Streams	McGraw		-
+560	560	MY HOME	My Home	My Home		MY HOME	My Home	My Home	Avery		-
+561	561	CUNNINGHAM	Cunningham	Cunningham		CUNNINGHAM	Cunningham	Cunningham	Stoddard		Living
+562	562	MOURNFUL JOY	Mournful Joy	Mournful Joy		MOURNFUL JOY	Mournful Joy	Mournful Joy	Cleary		Living
+563	563	SUFFIELD	Suffield	Suffield		SUFFIELD	Suffield	Suffield	King		-
+564	564	ZION	Zion	Zion		ZION	Zion	Zion	Hocutt		-
+565t	565.1	HEBRON	Hebron	Hebron		HEBRON	Hebron	Hebron	Mason		-
+565b	565.2	THE HILL OF ZION	The Hill of Zion	Hill of Zion, The		THE HILL OF ZION	The Hill of Zion	Hill of Zion, The	White		-
+566	566	GUM POND	Gum Pond	Gum Pond		GUM POND	Gum Pond	Gum Pond	Lloyd		Living
+567	567	THE GREAT DAY	The Great Day	Great Day, The		THE GREAT DAY	The Great Day	Great Day, The	Rees		-	Arr.
+568	568	I WANT TO GO TO HEAVEN	I Want to Go to Heaven	I Want to Go to Heaven		I WANT TO GO TO HEAVEN	I Want to Go to Heaven	I Want to Go to Heaven	Kitchens		-
+569t	569.1	EMMAUS	Emmaus	Emmaus		EMMAUS	Emmaus	Emmaus	Hamrick		-
+569b	569.2	SACRED THRONE	Sacred Throne	Sacred Throne		SACRED THRONE	Sacred Throne	Sacred Throne	Wilson		-	Arr. from
+570	570	SLEEPERS AWAKE!	Sleepers Awake!	Sleepers Awake!		SLEEPERS AWAKE!	Sleepers Awake!	Sleepers Awake!	Hamrick		-
+571	571	HAMRICK	Hamrick	Hamrick		HAMRICK	Hamrick	Hamrick	Karlsberg		Living
+572	572	THE LAMB OF GOD	The Lamb of God	Lamb of God, The		THE LAMB OF GOD	The Lamb of God	Lamb of God, The	Miller		-
+573	573	HARPETH VALLEY	Harpeth Valley	Harpeth Valley		HARPETH VALLEY	Harpeth Valley	Harpeth Valley	Cagle		-
+574	574	THOMASTON	Thomaston	Thomaston		THOMASTON	Thomaston	Thomaston	Karlsberg		Living
+575	575	LISBON	Lisbon	Lisbon	Chandler	LISBON (Chandler)	Lisbon (Chandler)	Lisbon (Chandler)	Chandler		-
