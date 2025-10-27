@@ -8,4 +8,4 @@ This is organized in the following way:
 - `metadata` contains metadata for the 2025 edition.
 - `tests` contains some integrity checks to help ensure the correctness of the data in these directories.
 
-[This collection of lyrics from _The Sacred Harp_](https://github.com/Sacred-Harp-Publishing-Company/2025-edition) © 2025 by [Sacred Harp Publishing Company](https://sacredharp.com/) is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+This collection of lyrics from _The Sacred Harp_ © 2025 by [Sacred Harp Publishing Company](https://sacredharp.com/) is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
