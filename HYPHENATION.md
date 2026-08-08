@@ -70,8 +70,8 @@ With bound·less stores of grace.
 
 There are several data integrity checks:
 
-1. `check_every_lyric_word_has_an_entry.py` : Checks that every word in the lyrics has at least matching entry in the hyphenation data.
-2. `check_every_entry_matches_at_least_one_lyric_word.py` : Checks that every entry in the hyphenation data matches at least one lyric word. This is useful to remove "cruft" from the data.
-3. `check_syllable_counts.py`: Checks that every entry entry in the hyphenation data has a correct syllable count.
-4. `check_entry_integrity.py`: Checks that every entry has all the fields except the optional context; that all song and occurrence entries are either `*` or a proper song number, which occurs in the metadata/topmatter.tsv `sort` column; that every occurrence is either `*` or an integer; that no integer occurrence appears if the song is given as `*`.
-5. `check_lyrics_match_hyphenated_lyrics.py`: Checks that every lyric file has a matching hyphenated lyric file, and that (once the discretionary hyphens are removed, the files are the same).
+1. Checks that every word in the lyrics has at least matching entry in the hyphenation data.
+2. `Checks that every entry in the hyphenation data matches at least one lyric word. This is useful to remove "cruft" from the data.
+3. Checks that every entry entry in the hyphenation data has a correct syllable count.
+4. Checks that every entry has all the fields except the optional context; that all song and occurrence entries are either `*` or a proper song number, which occurs in the metadata/topmatter.tsv `sort` column; that every occurrence is either `*` or an integer; that no integer occurrence appears if the song is given as `*`.
+5. Checks that every lyric file has a matching hyphenated lyric file, and that (once the discretionary hyphens are removed, the files are the same).
