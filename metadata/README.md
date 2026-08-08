@@ -2,6 +2,6 @@
 
 This directory contains metadata for the 2025 edition of _The Sacred Harp_.
 
-- `topmatter.tsv` contains top matter data concerning each song.It is further described in the `topmatter.md`.
+- `topmatter.tsv` contains top matter data concerning each song. It is further described in the `topmatter.md`.
 - `song_titles.tsv` contains variations on the song titles for different purposes.
 - `translation_table.tsv` contains a translation table between the 1991 and 2025 editions. It is further described in `translation_table.md`.
