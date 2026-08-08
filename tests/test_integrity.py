@@ -70,6 +70,7 @@ def get_2025_title_dictionary(file_path):
         title_dict[col3] = col4
     return title_dict
 
+
 def get_2025_page_titles(file_path):
     # read the topmatter file and return dict of page to title
     with open(file_path, "r", encoding="utf-8") as f:
@@ -86,7 +87,7 @@ def get_current_filenames(directory):
     return files
 
 
-def test_topmatter():
+def check_topmatter():
     metadata_directory = get_metadata_directory()
     topmatter_path = os.path.join(metadata_directory, "topmatter.tsv")
     # make sure the file is not empty
@@ -705,17 +706,17 @@ PAGES_1991 = [
 ]
 
 
-def test_translation_table():
+def check_translation_table():
     errors = (
-        test_translation_table_1()
-        + test_translation_table_2()
-        + test_translation_table_3()
-        + test_translation_table_4()
+        check_translation_table_1()
+        + check_translation_table_2()
+        + check_translation_table_3()
+        + check_translation_table_4()
     )
     return errors
 
 
-def test_translation_table_1():
+def check_translation_table_1():
     logger.info("Checking translation_table.tsv for column integrity...")
     metadata_directory = get_metadata_directory()
     translation_table_path = os.path.join(metadata_directory, "translation_table.tsv")
@@ -737,7 +738,7 @@ def test_translation_table_1():
     return strange_lines
 
 
-def test_translation_table_2():
+def check_translation_table_2():
     logger.info(
         "Checking that every 1991 page is accounted for in translation_table.tsv..."
     )
@@ -781,7 +782,7 @@ def test_translation_table_2():
     return errors
 
 
-def test_translation_table_3():
+def check_translation_table_3():
     logger.info(
         "Checking that every page in translation_table.tsv has a valid action..."
     )
@@ -823,7 +824,7 @@ def test_translation_table_3():
     return errors
 
 
-def test_translation_table_4():
+def check_translation_table_4():
     logger.info(
         "Checking that every page in the 2025 translation table is accounted for..."
     )
@@ -874,7 +875,8 @@ def test_translation_table_4():
     errors += len(extra_files)
     return errors
 
-def test_song_titles():
+
+def check_song_titles():
     metadata_directory = get_metadata_directory()
     topmatter_path = os.path.join(metadata_directory, "topmatter.tsv")
     title_pages = get_2025_page_titles(topmatter_path)
@@ -886,7 +888,9 @@ def test_song_titles():
         song_title_pages = {row[0]: row[2] for i, row in enumerate(reader) if i > 0}
     errors = 0
     if len(song_title_pages) != len(title_pages):
-        logger.error(f"song_titles.tsv has {len(song_title_pages)} entries, but topmatter.tsv has {len(title_pages)} entries")
+        logger.error(
+            f"song_titles.tsv has {len(song_title_pages)} entries, but topmatter.tsv has {len(title_pages)} entries"
+        )
         errors += 1
     for page in song_title_pages:
         if page not in title_pages:
@@ -894,9 +898,40 @@ def test_song_titles():
             errors += 1
         else:
             if song_title_pages[page] != title_pages[page]:
-                logger.info(f"Title mismatch for page {page}: '{song_title_pages[page]}' != '{title_pages[page]}'")
+                logger.info(
+                    f"Title mismatch for page {page}: '{song_title_pages[page]}' != '{title_pages[page]}'"
+                )
                 errors += 1
     return errors
+
+
+def test_topmatter():
+    assert check_topmatter() == 0
+
+
+def test_translation_table():
+    assert check_translation_table() == 0
+
+
+def test_translation_table_1():
+    assert check_translation_table_1() == 0
+
+
+def test_translation_table_2():
+    assert check_translation_table_2() == 0
+
+
+def test_translation_table_3():
+    assert check_translation_table_3() == 0
+
+
+def test_translation_table_4():
+    assert check_translation_table_4() == 0
+
+
+def test_song_titles():
+    assert check_song_titles() == 0
+
 
 if __name__ == "__main__":
     metadata_directory = get_metadata_directory()
@@ -911,16 +946,16 @@ if __name__ == "__main__":
     new_files = get_2025_filenames(topmatter_path)
     total_errors = 0
     logger.info(f"Checking topmatter integrity in {topmatter_path}...")
-    total_errors += test_topmatter()
+    total_errors += check_topmatter()
     logger.info(f"Checking {lyrics_directory()}...")
     total_errors += check(title_dict, new_files, lyrics_directory())
     # Restore if we restore the hyphenated lyrics
     # logger.info(f"Checking {hyphenated_lyrics_directory()}...")
     # total_errors += check(title_dict, new_files, hyphenated_lyrics_directory())
     logger.info(f"Checking translation table in {metadata_directory}...")
-    total_errors += test_translation_table()
+    total_errors += check_translation_table()
     logger.info(f"Checking song titles in {metadata_directory}...")
-    total_errors += test_song_titles()
+    total_errors += check_song_titles()
     if total_errors > 0:
         logger.error(f"Total errors found: {total_errors}")
         sys.exit(1)

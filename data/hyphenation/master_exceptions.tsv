@@ -1,54 +1,59 @@
 word	hyphenated	song	occurrence	syllables	context
-’gainst	’gainst	*	1	*
+’tis	’tis	*	*	1	*
+’twas	’twas	*	*	1	*
+’twere	’twere	*	*	1	*
+’twill	’twill	*	*	1	*
+’twould	’twould	*	*	1	*
+’gainst	’gainst	*	*	1	*
+’neath	’neath	*	*	1	*
 Abraham	A·braham	116	1	2	"There was Abraham and Isaac, and Jacob and David,"
-Abraham	A·bra·ham	*	3	*
-Absalom	Ab·sa·lom	*	3	*
-Adam	Ad·am	*	2	*
-Adam’s	Ad·am’s	*	2	*
-affections	af·fec·tions	*	3	*
-afflictions	af·flic·tions	*	3	*
-America	A·mer·i·ca	*	4	*
-American	A·mer·i·can	*	4	*
+Abraham	A·bra·ham	*	*	3	*
+Absalom	Ab·sa·lom	*	*	3	*
+Adam	Ad·am	*	*	2	*
+Adam’s	Ad·am’s	*	*	2	*
+affections	af·fec·tions	*	*	3	*
+afflictions	af·flic·tions	*	*	3	*
+America	A·mer·i·ca	*	*	4	*
+American	A·mer·i·can	*	*	4	*
 amiable	a·mia·ble	147.1	1	3	How amiable they are!
 amiable	a·mia·ble	503	1	3	How amiable they are!
-amours	a·mours	*	2	*
-angel’s	an·gel’s	*	2	*
-angels	an·gels	*	2	*
-anointest	anoint·est	*	2	*
-anthems	an·thems	*	2	*
-Apollyon	A·po·llyon	*	3	*
-apostates	a·pos·tates	*	3	*
-apostles	a·pos·tles	*	3	*
-appetites	ap·pe·tites	*	3	*
-apples	ap·ples	*	2	*
+amours	a·mours	*	*	2	*
+angel’s	an·gel’s	*	*	2	*
+angels	an·gels	*	*	2	*
+anointest	anoint·est	*	*	2	*
+anthems	an·thems	*	*	2	*
+Apollyon	A·po·llyon	*	*	3	*
+apostates	a·pos·tates	*	*	3	*
+apostles	a·pos·tles	*	*	3	*
+appetites	ap·pe·tites	*	*	3	*
+apples	ap·ples	*	*	2	*
 arduous	ar·duous	372	1	2	Thy arduous work will not be done
-arts	arts	*	1	*
-availeth	a·vail·eth	*	3	*
-Babel’s	Ba·bel’s	*	2	*
-Babylon	Ba·by·lon	*	3	*
-Baptist	Bap·tist	*	2	*
-Bartimeus	Bar·ti·meus	*	3	*
-battlements	bat·tle·ments	*	3	*
-beasts	beasts	*	1	*
-beaut’ous	beaut·’ous	*	2	*
+arts	arts	*	*	1	*
+availeth	a·vail·eth	*	*	3	*
+Babel’s	Ba·bel’s	*	*	2	*
+Babylon	Ba·by·lon	*	*	3	*
+Baptist	Bap·tist	*	*	2	*
+Bartimeus	Bar·ti·meus	*	*	3	*
+battlements	bat·tle·ments	*	*	3	*
+beasts	beasts	*	*	1	*
+beaut’ous	beaut·’ous	*	*	2	*
 beauteous	beau·teous	195	1	2	How beauteous are their feet
 beauteous	beau·teous	464	1	2	How beauteous are their feet
 beauteous	beau·teous	374	1	2	In azure sky and beauteous earth;
 beauteous	beau·teous	175	1	2	"Shining, beauteous and bright,"
 beauteous	beau·teous	457	1	2	Yet beauteous fields lie just before me
-beauty’s	beau·ty’s	*	2	*
-believer’s	be·liev·er’s	*	3	*
+beauty’s	beau·ty’s	*	*	2	*
+believer’s	be·liev·er’s	*	*	3	*
 beloved	be·loved	296	1	2	Blessed and beloved of God
-Bethlehem	Beth·le·hem	*	3	*
-Beulah	Beu·lah	*	2	*
-Bible	Bi·ble	*	2	*
-bless’d	bless’d	*	1	*
+Bethlehem	Beth·le·hem	*	*	3	*
+Beulah	Beu·lah	*	*	2	*
+Bible	Bi·ble	*	*	2	*
+bless’d	bless’d	*	*	1	*
 blessed	bless·ed	334	1	2	“He leadeth me”—O blessed thought!
 blessed	bless·ed	493	1	2	And ne’er forsake the blessed road
 blessed	bless·ed	157	1	2	And still our blessed Jesus
 blessed	bless·ed	560	1	2	And when my blessed Savior bids me come
 blessed	bless·ed	82.1	1	2	And with my blessed Jesu
-blessed	bless·ed	11231	1	2	And with my blessed Jesus
 blessed	bless·ed	319	1	2	And with my blessed Jesus
 blessed	bless·ed	410.2	1	2	And with my blessed Jesus
 blessed	bless·ed	85	1	2	And with my blessed Jesus
@@ -76,185 +81,190 @@ blessed	bless·ed	355	1	2	The next we hear of this blessed Savior
 blessed	bless·ed	480	2	2	There between two thieves our blessed Lord
 blessed	blessed	438	1	1	Thrice blessed are they who hear the call
 blessed	bless·ed	145.2	1	2	To my blessed Savior’s feet.
-blessed	bless·ed	378.2	2	1	When to that blessed world I rise
+blessed	bless·ed	378.2	1	1	When to that blessed world I rise
 blessed	blessed	127	1	1	While blessed with a sense of His love. IF THIS IS THE FORM USED.
 blessed	blessed	165	1	1	While blessed with parental advice and affection
 blessed	bless·ed	488	1	2	While we expect that blessed hope.
 blessed	blessed	125	1	1	Without Thee I’m wretched  but with Thee I’m blessed.
-blessings	bless·ings	*	2	*
-body’s	bod·y’s	*	2	*
-boist’rous	bois·t’rous	*	2	*
+blessings	bless·ings	*	*	2	*
+body’s	bod·y’s	*	*	2	*
+boist’rous	bois·t’rous	*	*	2	*
 bounteous	boun·teous	113	1	1	And bounteous are his hands
-bow’r	bow’r	*	1	*
-bow’rs	bow’rs	*	1	*
-bowels	bow·els	*	2	*
-brawlings	brawl·ings	*	2	*
-British	Brit·ish	*	2	*
-builders	buil·ders	*	2	*
-bus’ness	bus·’ness	*	2	*
+bow’r	bow’r	*	*	1	*
+bow’rs	bow’rs	*	*	1	*
+bowels	bow·els	*	*	2	*
+brawlings	brawl·ings	*	*	2	*
+British	Brit·ish	*	*	2	*
+builders	buil·ders	*	*	2	*
+bus’ness	bus·’ness	*	*	2	*
 called	call·ed	260	1	1	"Hark! my dear friends, for death has called me."
-callest	call·est	*	2	*
-Calvary	Cal·va·ry	*	3	*
-camel’s	cam·el’s	*	2	*
-can’t	can’t	*	1	*
-Canaan	Ca·naan	*	2	*
-Canaan’s	Ca·naan’s	*	2	*
-captain’s	cap·tain’s	*	2	*
-captives	cap·tives	*	2	*
-cedars	ce·dars	*	2	*
-chariot	char·iot	*	2	*
-chariots	char·iots	*	2	*
-chast’ning	chast·’ning	*	2	*
-cherubim	cher·u·bim	*	3	*
-cherubims	cher·u·bims	*	3	*
-cherubs	cher·ubs	*	2	*
-chid	chid	*	1	*
-chiefest	chief·est	*	2	*
-Chorus	Chorus	*	1	*
-Christ	Christ	*	1	*
-Christ’s	Christ’s	*	1	*
-Christian	Chris·tian	*	2	*
-Christian’s	Chris·tian’s	*	2	*
-Christians	Chris·tians	*	2	*
-church’s	church·’s	*	2	*
+callest	call·est	*	*	2	*
+Calvary	Cal·va·ry	*	*	3	*
+camel’s	cam·el’s	*	*	2	*
+can’t	can’t	*	*	1	*
+Canaan	Ca·naan	*	*	2	*
+Canaan’s	Ca·naan’s	*	*	2	*
+captain’s	cap·tain’s	*	*	2	*
+captives	cap·tives	*	*	2	*
+cedars	ce·dars	*	*	2	*
+changing	chang·ing	*	*	2	*
+chariot	char·iot	*	*	2	*
+chariots	char·iots	*	*	2	*
+chast’ning	chast·’ning	*	*	2	*
+cherubim	cher·u·bim	*	*	3	*
+cherubims	cher·u·bims	*	*	3	*
+cherubs	cher·ubs	*	*	2	*
+chid	chid	*	*	1	*
+chiefest	chief·est	*	*	2	*
+chorus	cho·rus	*	*	2	*
+Christ	Christ	*	*	1	*
+Christ’s	Christ’s	*	*	1	*
+Christian	Chris·tian	*	*	2	*
+Christian’s	Chris·tian’s	*	*	2	*
+Christians	Chris·tians	*	*	2	*
+church’s	church·’s	*	*	2	*
 closed	clos·ed	495	1	2	"Oh, when scene was closed"
-closer	clos·er	*	2	*
+closer	clos·er	*	*	2	*
 Columbia	Co·lum·bia	358	1	3	"Columbia, Columbia, to glory arise"
 Columbia	Co·lum·bia	358	2	3	"Columbia, Columbia, to glory arise"
 Columbia	Co·lum·bi·a	241	1	4	She visits fair Columbia
-combat’s	com·bat’s	*	2	*
-cometh	com·eth	*	2	*
-comp’ny’s	com·p’ny’s	*	2	*
-company’s	com·pa·ny’s	*	3	*
-complaints	com·plaints	*	2	*
-comprehendeth	com·pre·hend·eth	*	4	*
-comrades	com·rades	*	2	*
-connections	con·nec·tions	*	3	*
-conqu’ring	con·qu’ring	*	2	*
-conqu’ror	conqu·’ror	*	2	*
+combat’s	com·bat’s	*	*	2	*
+cometh	com·eth	*	*	2	*
+comp’ny’s	com·p’ny’s	*	*	2	*
+company’s	com·pa·ny’s	*	*	3	*
+complaints	com·plaints	*	*	2	*
+comprehendeth	com·pre·hend·eth	*	*	4	*
+comrades	com·rades	*	*	2	*
+connections	con·nec·tions	*	*	3	*
+conqu’ring	con·qu’ring	*	*	2	*
+conqu’ror	conqu·’ror	*	*	2	*
 conquering	con·quering	432	1	2	"Tis grace divine, all-conquering, free"
-constraineth	con·strain·eth	*	3	*
-conversation’s	con·ver·sa·tion’s	*	4	*
-Cornland	Corn·land	*	2	*
-cov’nant	cov·’nant	*	2	*
-cov’ring	cov·’ring	*	2	*
-cradle’s	cra·dle’s	*	2	*
-creation’s	cre·a·tion’s	*	3	*
-creator’s	cre·a·tor’s	*	3	*
-creatures	crea·tures	*	2	*
+constraineth	con·strain·eth	*	*	3	*
+conversation’s	con·ver·sa·tion’s	*	*	4	*
+Cornland	Corn·land	*	*	2	*
+cov’nant	cov·’nant	*	*	2	*
+cov’ring	cov·’ring	*	*	2	*
+cradle’s	cra·dle’s	*	*	2	*
+creation’s	cre·a·tion’s	*	*	3	*
+creator’s	cre·a·tor’s	*	*	3	*
+creatures	crea·tures	*	*	2	*
 cried	cri·ed	250	1	2	And cried to the rocks and mountains
-crimes	crimes	*	1	*
-currents	cur·rents	*	2	*
+crimes	crimes	*	*	1	*
+currents	cur·rents	*	*	2	*
 cursed	curs·ed	39.1	1	2	And turn each cursed idol out
 cursed	curs·ed	214	1	2	Hung on that cursed tree
-cursed	cursed	*	1	*
-dang’rous	dan·g’rous	*	2	*
-dangers	dan·gers	*	2	*
-Daniel	Dan·iel	*	2	*
-Daniel’s	Dan·iel’s	*	2	*
-daughters	daugh·ters	*	2	*
-David	Da·vid	*	2	*
-David’s	Da·vid’s	*	2	*
-dead’s	dead’s	*	1	*
-death’s	death’s	*	1	*
-deceivers	de·ceiv·ers	*	3	*
-December’s	De·cem·ber’s	*	3	*
-deeps	deeps	*	1	*
-def’rence	def·’rence	*	2	*
-deliv’rer	de·liv·’rer	*	3	*
-denominations	de·nom·i·na·tions	*	5	*
-depths	depths	*	1	*
-desert	des·ert	*	2	*
+cursed	cursed	*	*	1	*
+dang’rous	dan·g’rous	*	*	2	*
+dangers	dan·gers	*	*	2	*
+Daniel	Dan·iel	*	*	2	*
+Daniel’s	Dan·iel’s	*	*	2	*
+daughters	daugh·ters	*	*	2	*
+David	Da·vid	*	*	2	*
+David’s	Da·vid’s	*	*	2	*
+dead’s	dead’s	*	*	1	*
+death’s	death’s	*	*	1	*
+deceivers	de·ceiv·ers	*	*	3	*
+December’s	De·cem·ber’s	*	*	3	*
+deeps	deeps	*	*	1	*
+def’rence	def·’rence	*	*	2	*
+deliv’rer	de·liv·’rer	*	*	3	*
+denial	de·ni·al	*	*	3	*
+denominations	de·nom·i·na·tions	*	*	5	*
+depths	depths	*	*	1	*
+desert	des·ert	*	*	2	*
 despised	de·spis·ed	229	1	2	"What poor, despised company"
 despised	de·spis·ed	125	1	3	"When in devious paths we stray,"
 devious	de·vious	561	1	2	"What poor, despised company"
-dewdrops	dew·drops	*	2	*
-diff’rent	dif·f’rent	*	2	*
-directions	di·rec·tions	*	3	*
-disciples	dis·ci·ples	*	3	*
+dewdrops	dew·drops	*	*	2	*
+diff’rent	dif·f’rent	*	*	2	*
+directions	di·rec·tions	*	*	3	*
+disciples	dis·ci·ples	*	*	3	*
 distressed	dis·tress·ed	141	1	2	But now I am distressed
-don’t	don’t	*	1	*
-dragons	drag·ons	*	2	*
-driv’n	driv’n	*	1	*
-drunkard’s	drunk·ard’s	*	2	*
-duty’s	du·ty’s	*	2	*
-e’en	e’en	*	1	*
-e’er	e’er	*	1	*
-e’ermore	e’er·more	*	2	*
-earliest	ear·li·est	*	3	*
-earth’s	earth’s	*	1	*
-Easter	Ea·ster	*	2	*
-Ebenezer	Eb·en·ez·er	*	4	*
-Eden	E·den	*	2	*
-Eden’s	E·den’s	*	2	*
-Edom	E·dom	*	2	*
-efforts	ef·forts	*	2	*
-Egypt	E·gypt	*	2	*
-Egypt’s	E·gypt’s	*	2	*
-elders	eld·ers	*	2	*
-Elias	E·li·as	*	3	*
-Elijah	E·li·jah	*	3	*
-Eloi	E·loi	*	2	*
+don’t	don’t	*	*	1	*
+dragons	drag·ons	*	*	2	*
+driv’n	driv’n	*	*	1	*
+drunkard’s	drunk·ard’s	*	*	2	*
+duty’s	du·ty’s	*	*	2	*
+e’en	e’en	*	*	1	*
+e’er	e’er	*	*	1	*
+e’ermore	e’er·more	*	*	2	*
+earliest	ear·li·est	*	*	3	*
+earth’s	earth’s	*	*	1	*
+Easter	Ea·ster	*	*	2	*
+Ebenezer	Eb·en·ez·er	*	*	4	*
+Eden	E·den	*	*	2	*
+Eden’s	E·den’s	*	*	2	*
+Edom	E·dom	*	*	2	*
+efforts	ef·forts	*	*	2	*
+Egypt	E·gypt	*	*	2	*
+Egypt’s	E·gypt’s	*	*	2	*
+elders	eld·ers	*	*	2	*
+Elias	E·li·as	*	*	3	*
+Elijah	E·li·jah	*	*	3	*
+Eloi	E·loi	*	*	2	*
 elysian	e·ly·sian	139	1	3	Round the bright elysian.
-Elysian	E·ly·sian	*	3	*
+Elysian	E·ly·sian	*	*	3	*
 emerald	em·erald	139	1	2	Burst ye emerald gates and bring
-Emmanuel	Em·man·u·el	*	4	*
-enfurled	en·furled	*	2	*
-engagements	en·gage·ments	*	3	*
-enjoyments	en·joy·ments	*	3	*
-ensigns	en·signs	*	2	*
-ent’ring	en·t’ring	*	2	*
-entertainments	en·ter·tain·ments	*	4	*
-env’ous	env·’ous	*	2	*
-Esaias	E·sai·as	*	3	*
-Euphrates	Eu·phra·tes	*	3	*
-ev’n	ev’n	*	1	*
-ev’ning	ev·’ning	*	2	*
-ev’ry	ev·’ry	*	2	*
-ev’ryone	ev·’ry·one	*	3	*
-evening	eve·ning	*	2	*
-events	e·vents	*	2	*
+Emmanuel	Em·man·u·el	*	*	4	*
+enfurled	en·furled	*	*	2	*
+engagements	en·gage·ments	*	*	3	*
+enjoyments	en·joy·ments	*	*	3	*
+ensigns	en·signs	*	*	2	*
+ent’ring	en·t’ring	*	*	2	*
+entertainments	en·ter·tain·ments	*	*	4	*
+env’ous	env·’ous	*	*	2	*
+Esaias	E·sai·as	*	*	3	*
+Euphrates	Eu·phra·tes	*	*	3	*
+ev’n	ev’n	*	*	1	*
+ev’ning	ev·’ning	*	*	2	*
+ev’ry	ev·’ry	*	*	2	*
+ev’ryone	ev·’ry·one	*	*	3	*
+evening	eve·ning	*	*	2	*
+events	e·vents	*	*	2	*
 every	ev·e·ry	179	1	3	And many sore conflicts on every hand;
 every	ev·e·ry	179	2	3	"O Jesus, be with me in every battle,"
 experience	ex·pe·rience	317	1	3	When I experience call to mind
-failures	fail·ures	*	2	*
-farthest	far·thest	*	2	*
-fashion’d	fash·ion’d	*	2	*
-father’s	fa·ther’s	*	2	*
-fav’rite	fav·’rite	*	2	*
-fav’rites	fav·’rites	*	2	*
-feelings	feel·ings	*	2	*
-firstfruits	first·fruits	*	2	*
-flagons	flag·ons	*	2	*
-flatt’ries	flat·t’ries	*	2	*
-flatt’ry	flat·t’ry	*	2	*
-flow’r	flow’r	*	1	*
-flow’rs	flow’rs	*	1	*
-flow’ry	flow·’ry	*	2	*
-flutt’ring	flut·t’ring	*	2	*
-foes	foes	*	1	*
-foll’wer	fol·l’wer	*	2	*
-foll’wers	fol·l’wers	*	2	*
-footsteps	foot·steps	*	2	*
-fore’er	for·e’er	*	2	*
-forgiv’n	for·giv’n	*	2	*
+failing	fail·ing	*	*	2	*
+failures	fail·ures	*	*	2	*
+farthest	far·thest	*	*	2	*
+fashioned	fash·ioned	*	*	2	*
+father’s	fa·ther’s	*	*	2	*
+fav’rite	fav·’rite	*	*	2	*
+fav’rites	fav·’rites	*	*	2	*
+feelings	feel·ings	*	*	2	*
+firstfruits	first·fruits	*	*	2	*
+flagons	flag·ons	*	*	2	*
+flatt’ries	flat·t’ries	*	*	2	*
+flatt’ry	flat·t’ry	*	*	2	*
+flow’r	flow’r	*	*	1	*
+flow’rs	flow’rs	*	*	1	*
+flow’ry	flow·’ry	*	*	2	*
+flutt’ring	flut·t’ring	*	*	2	*
+foes	foes	*	*	1	*
+foll’wer	fol·l’wer	*	*	2	*
+foll’wers	fol·l’wers	*	*	2	*
+footsteps	foot·steps	*	*	2	*
+fore’er	for·e’er	*	*	2	*
+forgiv’n	for·giv’n	*	*	2	*
 Former	For·mer	130	1	2	"Former friends, oh, how I’ve sought them,"
-freebent	free·bent	*	2	*
-friend’s	friend’s	*	1	*
-friendship’s	friend·ship’s	*	2	*
-Gabriel	Ga·briel	*	2	*
-Gabriel’s	Ga·briel’s	*	2	*
-gales	gales	*	1	*
-Gallic	Gal·lic	*	2	*
-gath’ring	gath·’ring	*	2	*
+freebent	free·bent	*	*	2	*
+fragrant	fra·grant	*	*	2	*
+friend’s	friend’s	*	*	1	*
+friendship’s	friend·ship’s	*	*	2	*
+Gabriel	Ga·briel	*	*	2	*
+Gabriel’s	Ga·briel’s	*	*	2	*
+gales	gales	*	*	1	*
+Gallic	Gal·lic	*	*	2	*
+gath’ring	gath·’ring	*	*	2	*
 gathered	gath·er·ed	250	1	3	"Bond and free, gathered themselves together,"
-gen’rous	gen·’rous	*	2	*
-generations	gen·er·a·tions	*	4	*
+gen’rous	gen·’rous	*	*	2	*
+generations	gen·er·a·tions	*	*	4	*
 Gilead	Gil·ead	223	1	2	"There’s balm in Gilead,"
 Gilead	Gil·ead	223	2	2	"There’s balm in Gilead,"
-Gilead	Gil·e·ad	*	3	*
-giv’n	giv’n	*	1	*
-glitt’ring	glit·t’ring	*	2	*
+Gilead	Gil·e·ad	*	*	3	*
+giv’n	giv’n	*	*	1	*
+giving	giv·ing	*	*	2	*
+glitt’ring	glit·t’ring	*	*	2	*
 glorious	glo·rious	362	1	2	And all the glorious ranks above
 glorious	glo·rious	536	1	2	And all the glorious ranks above
 glorious	glo·rious	539	1	2	And since my glorious God
@@ -294,238 +304,239 @@ glorious	glo·rious	210	1	2	Till the glorious jubilee;
 glorious	glo·rious	62	1	2	To glorious mansions in the skies;
 glorious	glo·rious	412	1	2	To usher in the glorious day.
 glorious	glo·rious	11239	1	2	"When bursting, glorious, heav’nly light"
-God’s	God’s	*	1	*
-gods	gods	*	1	*
-gospel’s	gos·pel’s	*	2	*
-grave	grave	*	1	*
-griefs	griefs	*	1	*
+God’s	God’s	*	*	1	*
+gods	gods	*	*	1	*
+gospel’s	gos·pel’s	*	*	2	*
+grave	grave	*	*	1	*
+griefs	griefs	*	*	1	*
 grieved	griev·ed	268	1	1	David the king was grieved and moved
-groanings	groan·ings	*	2	*
-groves	groves	*	1	*q
+groanings	groan·ings	*	*	2	*
+groves	groves	*	*	1	*
 guardian	guard·ian	158	1	2	"When God was thy ransom, and guardian, and guide;"
-habitants	hab·i·tants	*	3	*
-halle	hal·le	*	2	*
-hallelu	hal·le·lu	*	3	*
-hallelujahs	hal·le·lu·jahs	*	4	*
-handworks	hand·works	*	2	*
-Hannah	Han·nah	*	2	*
+habitants	hab·i·tants	*	*	3	*
+halle	hal·le	*	*	2	*
+hallelu	hal·le·lu	*	*	3	*
+hallelujahs	hal·le·lu·jahs	*	*	4	*
+handworks	hand·works	*	*	2	*
+Hannah	Han·nah	*	*	2	*
 happier	hap·pier	136	1	2	"Then, richer than kings, and far happier than they"
-happy’s	hap·py’s	*	2	*
-harmon’ous	har·mon·’ous	*	3	*
+happy’s	hap·py’s	*	*	2	*
+harmon’ous	har·mon·’ous	*	*	3	*
 harmonious	har·mo·nious	373	1	3	And join the great harmonious choir
 Harmonious	Har·mo·nious	172	1	3	Harmonious anthems raise.
 Harmonious	Har·mo·nious	31.1	1	3	Harmonious to the ear
 harmonious	har·mo·nious	165	1	2	"O hymns of thanksgiving with harmonious sweetness,"
-hast’ning	hast·’ning	*	2	*
-he’d	he’d	*	1	*
-he’ll	he’ll	*	1	*
-he’s	he’s	*	1	*
+hast’ning	hast·’ning	*	*	2	*
+he’d	he’d	*	*	1	*
+he’ll	he’ll	*	*	1	*
+he’s	he’s	*	*	1	*
 healed	heal·ed	116	1	2	"My soul he hath healed, my heart hath rejoiced;"
-health’s	health’s	*	1	*
-heart’s	heart’s	*	1	*
-hearths	hearths	*	1	*
-heav’n	heav’n	*	1	*
-Heav’n	Heav’n	*	1	*
-heav’n’s	heav’n’s	*	1	*
-Heav’n’s	Heav’n’s	*	1	*
-heav’nly	heav’n·ly	*	2	*
-heav’ns	heav’ns	*	1	*
-heaven’s	heav·en’s	*	2	*
-heavens	heav·ens	*	2	*
-Hebrew	He·brew	*	2	*
-heirs	heirs	*	1	*
-hell’s	hell’s	*	1	*
-helpers	help·ers	*	2	*
-here’s	here’s	*	1	*
-Herod	He·rod	*	2	*
-higher	high·er	*	2	*
-highest	high·est	*	2	*
-highlands	high·lands	*	2	*
-hinds	hinds	*	1	*
-horrors	hor·rors	*	2	*
-hosannas	ho·san·nas	*	3	*
-hours	hours	*	1	*
-hov’ring	hov·’ring	*	2	*
-hundreds	hun·dreds	*	2	*
-hurricanes	hur·ri·canes	*	3	*
+health’s	health’s	*	*	1	*
+heart’s	heart’s	*	*	1	*
+hearths	hearths	*	*	1	*
+heav’n	heav’n	*	*	1	*
+heav’n’s	heav’n’s	*	*	1	*
+heav’nly	heav’n·ly	*	*	2	*
+heav’ns	heav’ns	*	*	1	*
+heaven’s	heav·en’s	*	*	2	*
+heavens	heav·ens	*	*	2	*
+Hebrew	He·brew	*	*	2	*
+heirs	heirs	*	*	1	*
+hell’s	hell’s	*	*	1	*
+helpers	help·ers	*	*	2	*
+here’s	here’s	*	*	1	*
+Herod	He·rod	*	*	2	*
+higher	high·er	*	*	2	*
+highest	high·est	*	*	2	*
+highlands	high·lands	*	*	2	*
+hinds	hinds	*	*	1	*
+horrors	hor·rors	*	*	2	*
+hosannas	ho·san·nas	*	*	3	*
+hours	hours	*	*	1	*
+hov’ring	hov·’ring	*	*	2	*
+hundreds	hun·dreds	*	*	2	*
+hurricanes	hur·ri·canes	*	*	3	*
 hurrying	hur·rying	164	1	3	"He heard it, saw it hurrying on."
-husband’s	hus·band’s	*	2	*
-hypocrites	hyp·o·crites	*	3	*
-I’d	I’d	*	1	*
-I’ll	I’ll	*	1	*
-I’m	I’m	*	1	*
-I’ve	I’ve	*	1	*
-idols	i·dols	*	2	*
-Immanuel	Im·man·u·el	*	4	*
+husband’s	hus·band’s	*	*	2	*
+hypocrites	hyp·o·crites	*	*	3	*
+I’d	I’d	*	*	1	*
+I’ll	I’ll	*	*	1	*
+I’m	I’m	*	*	1	*
+I’ve	I’ve	*	*	1	*
+idols	i·dols	*	*	2	*
+Immanuel	Im·man·u·el	*	*	4	*
 Immanuel’s	Im·man·u·el’s	342	1	2	"Surveying the breadth of Immanuel’s land,"
-Immanuel’s	Im·man·uel’s	*	3	*
+Immanuel’s	Im·man·uel’s	*	*	3	*
 Impelled	Im·pell·ed	109	1	3	Impelled by His love.
 impetuous	im·pet·uous	450	1	2	"Or impetuous down the cliff,"
 impious	im·pious	354.1	1	2	"What impious num·bers, bold in sin,"
 Indian	In·dian	348.2	1	2	"Swift as an Indian arrow flies,"
-Indian	In·di·an	*	3	*
+Indian	In·di·an	*	*	3	*
 inferior	in·fe·rior	476	1	3	The reach of these in-fe-rior things:
-int’rest	in·t’rest	*	2	*
+int’rest	in·t’rest	*	*	2	*
 interest	in·terest	62	1	2	"An interest in your prayers I crave,"
-Isaac	I·saac	*	2	*
+Isaac	I·saac	*	*	2	*
 Israel	Is·ra·el	571	1	3	The star that on Israel shone?
 Israel	Is·rael	314	1	2	"Ye chosen seed of Israel’s race,"
 Israel	Is·rael	63	1	2	"Ye chosen seed of Israel’s race,"
 Israel’s	Is·rael’s	296	1	2	"He the true David, Israel’s King,"
-Israel’s	Is·rael’s	*	2	*
-it’s	it’s	*	1	*
-Jacob	Ja·cob	*	2	*
-Jehovah	Je·ho·vah	*	3	*
-Jehovah’s	Je·ho·vah’s	*	3	*
-Jerusalem	Je·ru·sa·lem	*	4	*
-Jesus	Je·sus	*	2	*
-Jesus’	Je·sus’	*	2	*
-Jesus’s	Je·sus·’s	*	3	*
-John’s	John’s	*	1	*
-Jonah	Jo·nah	*	2	*
-Jordan	Jor·dan	*	2	*
-Jordan’s	Jor·dan’s	*	2	*
-Joshua	Jo·shua	*	2	*
-Joshua’s	Jo·shua’s	*	2	*
-journ’ying	jour·n’ying	*	2	*
-journey’s	jour·ney’s	*	2	*
-Judah’s	Ju·dah’s	*	2	*
-Judea	Ju·de·a	*	3	*
-king’s	king’s	*	1	*
-know’st	know’st	*	1	*
-knowest	know·est	*	2	*
-Lamb’s	Lamb’s	*	1	*
-lamps	lamps	*	1	*
-laws	laws	*	1	*
-leadeth	lead·eth	*	2	*
-learned	learned	*	1	*
-Lebanon	Le·ba·non	*	3	*
-legions	le·gions	*	2	*
-length’ning	length·’ning	*	2	*
-let’s	let’s	*	1	*
-life’s	life’s	*	1	*
-light’s	light’s	*	1	*
-ling’ring	lin·g’ring	*	2	*
-lions	li·ons	*	2	*
-list’ning	list·’ning	*	2	*
-locusts	lo·custs	*	2	*
+Israel’s	Is·rael’s	*	*	2	*
+it’s	it’s	*	*	1	*
+Jacob	Ja·cob	*	*	2	*
+Jehovah	Je·ho·vah	*	*	3	*
+Jehovah’s	Je·ho·vah’s	*	*	3	*
+Jerusalem	Je·ru·sa·lem	*	*	4	*
+Jesus	Je·sus	*	*	2	*
+Jesus’	Je·sus’	*	*	2	*
+Jesus’s	Je·sus·’s	*	*	3	*
+John’s	John’s	*	*	1	*
+Jonah	Jo·nah	*	*	2	*
+Jordan	Jor·dan	*	*	2	*
+Jordan’s	Jor·dan’s	*	*	2	*
+Joshua	Jo·shua	*	*	2	*
+Joshua’s	Jo·shua’s	*	*	2	*
+journ’ying	jour·n’ying	*	*	2	*
+journey’s	jour·ney’s	*	*	2	*
+Judah’s	Ju·dah’s	*	*	2	*
+Judea	Ju·de·a	*	*	3	*
+king’s	king’s	*	*	1	*
+know’st	know’st	*	*	1	*
+knowest	know·est	*	*	2	*
+laden	lad·en	*	*	2	*
+Lamb’s	Lamb’s	*	*	1	*
+lamps	lamps	*	*	1	*
+laws	laws	*	*	1	*
+leadeth	lead·eth	*	*	2	*
+learned	learned	*	*	1	*
+Lebanon	Le·ba·non	*	*	3	*
+legions	le·gions	*	*	2	*
+length’ning	length·’ning	*	*	2	*
+let’s	let’s	*	*	1	*
+life’s	life’s	*	*	1	*
+light’s	light’s	*	*	1	*
+ling’ring	lin·g’ring	*	*	2	*
+lions	li·ons	*	*	2	*
+list’ning	list·’ning	*	*	2	*
+locusts	lo·custs	*	*	2	*
 loftier	loft·ier	10834	1	2	In loftier strains above
-longer	long·er	*	2	*
-Lord’s	Lord’s	*	1	*
-louder	loud·er	*	2	*
-loudest	loud·est	*	2	*
-love’s	love’s	*	1	*
-lovers	lo·vers	*	2	*
-low’r	low’r	*	1	*
-mak’st	mak’st	*	1	*
-maker’s	mak·er’s	*	2	*
-maketh	mak·eth	*	2	*
-man’s	man’s	*	1	*
-Manasseh	Ma·nas·seh	*	3	*
-Manasseh’s	Ma·nas·seh’s	*	3	*
-mansions	man·sions	*	2	*
+longer	long·er	*	*	2	*
+Lord’s	Lord’s	*	*	1	*
+louder	loud·er	*	*	2	*
+loudest	loud·est	*	*	2	*
+love’s	love’s	*	*	1	*
+lovers	lo·vers	*	*	2	*
+low’r	low’r	*	*	1	*
+mak’st	mak’st	*	*	1	*
+maker’s	mak·er’s	*	*	2	*
+maketh	mak·eth	*	*	2	*
+man’s	man’s	*	*	1	*
+Manasseh	Ma·nas·seh	*	*	3	*
+Manasseh’s	Ma·nas·seh’s	*	*	3	*
+mansions	man·sions	*	*	2	*
 Many	Many	108.2	1	1	Many a shining hour is gone
-martyr’s	mar·tyr’s	*	2	*
-Mary	Ma·ry	*	2	*
-Mary’s	Ma·ry’s	*	2	*
-master’s	mas·ter’s	*	2	*
-mate	mate	*	1	*
-meads	meads	*	1	*
-meditations	med·i·ta·tions	*	4	*
+martyr’s	mar·tyr’s	*	*	2	*
+Mary	Ma·ry	*	*	2	*
+Mary’s	Ma·ry’s	*	*	2	*
+master’s	mas·ter’s	*	*	2	*
+mate	mate	*	*	1	*
+meads	meads	*	*	1	*
+meditations	med·i·ta·tions	*	*	4	*
 melodious	me·lo·dious	376	1	3	His name is most sweetly melodious
 melodious	me·lo·dious	135	1	3	Teach me some melodious sonnet
 melodious	me·lo·dious	312.2	1	3	Teach me some melodious sonnet
 melodious	me·lo·dious	333	1	3	Teach me some melodious sonnet
-mem’ries	mem·’ries	*	2	*
-mem’ry	mem·’ry	*	2	*
+mem’ries	mem·’ries	*	*	2	*
+mem’ry	mem·’ry	*	*	2	*
 memorial	me·mo·rial	164	1	3	These deeds shall thy memorial be:
 memorials	me·mo·rials	565.1	1	3	Some fresh memorials of His grace.
-memorials	me·mo·ri·als	*	4	*
-merchants	mer·chants	*	2	*
-mercy’s	mer·cy’s	*	2	*
-Messiah’s	Mes·si·ah’s	*	3	*
-millions	mil·lions	*	2	*
-mine’s	mine’s	*	1	*
-modes	modes	*	1	*
-mold’ring	mold·’ring	*	2	*
-moments	mo·ments	*	2	*
-monarchs	mon·archs	*	2	*
-Montgomery	Mont·go·mery	*	3	*
-months	months	*	1	*
-mortals	mor·tals	*	2	*
-Moses	Mo·ses	*	2	*
-mother’s	moth·er’s	*	2	*
-mountains	moun·tains	*	2	*
-mourners	mourn·ers	*	2	*
+memorials	me·mo·ri·als	*	*	4	*
+merchants	mer·chants	*	*	2	*
+mercy’s	mer·cy’s	*	*	2	*
+Messiah’s	Mes·si·ah’s	*	*	3	*
+millions	mil·lions	*	*	2	*
+mine’s	mine’s	*	*	1	*
+modes	modes	*	*	1	*
+mold’ring	mold·’ring	*	*	2	*
+moments	mo·ments	*	*	2	*
+monarchs	mon·archs	*	*	2	*
+Montgomery	Mont·go·mery	*	*	3	*
+months	months	*	*	1	*
+mortals	mor·tals	*	*	2	*
+Moses	Mo·ses	*	*	2	*
+mother’s	moth·er’s	*	*	2	*
+mountains	moun·tains	*	*	2	*
+mourners	mourn·ers	*	*	2	*
 moved	mov·ed	268	1	1	David the king was grieved and moved
-multitudes	mul·ti·tudes	*	3	*
-murm’ring	murm·’ring	*	2	*
+multitudes	mul·ti·tudes	*	*	3	*
+murm’ring	murm·’ring	*	*	2	*
 mutual	mu·tual	330.1	1	2	Our mutual burdens bear;
 mutual	mu·tual	330.1	2	2	"We share our mutual woes,"
 mutual	mu·tual	374	1	2	"Where breathes in kindness mutual love,"
 Myriads	My·riads	139	1	3	"Myriads, with supreme delight,"
-myriads	myr·i·ads	*	3	*
-myst’ry	mys·t’ry	*	2	*
-myster’ous	my·ster·’ous	*	3	*
+myriads	myr·i·ads	*	*	3	*
+myst’ry	mys·t’ry	*	*	2	*
+myster’ous	my·ster·’ous	*	*	3	*
 mysterious	mys·te·rious	351	1	3	The great mysterious King
 mysterious	mys·te·rious	10442	1	3	The Lord moves in mysterious ways
-name’s	name’s	*	1	*
-nations	na·tions	*	2	*
-nature’s	na·ture’s	*	2	*
-ne’er	ne’er	*	1	*
-nearer	near·er	*	2	*
+name’s	name’s	*	*	1	*
+nations	na·tions	*	*	2	*
+nature’s	na·ture’s	*	*	2	*
+ne’er	ne’er	*	*	1	*
+nearer	near·er	*	*	2	*
 Neglecting	Neglect·ing	495	1	2	Neglecting their salvation
-neighb’ring	neigh·b’ring	*	2	*
-Noah	No·ah	*	2	*
-nobles	no·bles	*	2	*
-now’s	now’s	*	1	*
-num’rous	num·’rous	*	2	*
-number	num·ber	*	2	*
-o’er	o’er	*	1	*
-o’erflowing	o’er·flow·ing	*	3	*
-o’erspread	o’er·spread	*	2	*
-o’ertake	o’er·take	*	2	*
+neighb’ring	neigh·b’ring	*	*	2	*
+Noah	No·ah	*	*	2	*
+nobles	no·bles	*	*	2	*
+now’s	now’s	*	*	1	*
+num’rous	num·’rous	*	*	2	*
+number	num·ber	*	*	2	*
+o’er	o’er	*	*	1	*
+o’erflowing	o’er·flow·ing	*	*	3	*
+o’erspread	o’er·spread	*	*	2	*
+o’ertake	o’er·take	*	*	2	*
 O’erwhelmed	O’er·whelm·ed	496	1	3	O’erwhelmed with sorrow
-O’erwhelmed	O’er·whelm·ed	496	1	3	"O’erwhelmed with sorrows for sin I will cry,"
+O’erwhelmed	O’er·whelm·ed	496	2	3	"O’erwhelmed with sorrows for sin I will cry,"
 obedience	o·be·dience	179	1	3	And on in the way of obedience to move.
 obedient	o·be·dient	571	1	3	And on in the way of obedience to move.
-ocean’s	o·cean’s	*	2	*
-odors	o·dors	*	2	*
-off’ring	off·’ring	*	2	*
-off’rings	of·f’rings	*	2	*
-ones	ones	*	1	*
-op’ning	op’·ning	*	2	*
-ope	ope	*	1	*
+ocean’s	o·cean’s	*	*	2	*
+odors	o·dors	*	*	2	*
+off’ring	off·’ring	*	*	2	*
+off’rings	of·f’rings	*	*	2	*
+ones	ones	*	*	1	*
+op’ning	op’·ning	*	*	2	*
+ope	ope	*	*	1	*
 opposed	op·pos·ed	495	1	3	And so they stand opposed
 oppressed	op·pres·sed	121	1	3	Who are oppressed sore
-others	oth·ers	*	2	*
-palaces	pal·ac·es	*	3	*
-pard’ning	par·d’ning	*	2	*
-parting’s	part·ing’s	*	2	*
-Paul	Paul	*	1	*
-penants	pen·ants	*	2	*
-peril’s	per·il’s	*	2	*
+others	oth·ers	*	*	2	*
+palaces	pal·ac·es	*	*	3	*
+palm	palm	*	*	1	*
+pard’ning	par·d’ning	*	*	2	*
+parting’s	part·ing’s	*	*	2	*
+Paul	Paul	*	*	1	*
+penants	pen·ants	*	*	2	*
+peril’s	per·il’s	*	*	2	*
 period	pe·riod	460	1	2	No period then our joys shall know
 period	pe·riod	384	1	2	"Oh, when the period appear"
-Pilate’s	Pi·late’s	*	2	*
-pilgrim’s	pil·grim’s	*	2	*
-pilgrims	pil·grims	*	2	*
+Pilate’s	Pi·late’s	*	*	2	*
+pilgrim’s	pil·grim’s	*	*	2	*
+pilgrims	pil·grims	*	*	2	*
 pitying	pity·ing	531	1	2	"Look down, O Lord, with pitying eye,"
-plains	plains	*	1	*
-planets	plan·ets	*	2	*
+plains	plains	*	*	1	*
+planets	plan·ets	*	*	2	*
 plenteous	plen·teous	451	1	2	"Shedding tears, a plenteous flood,"
-poet’s	po·et’s	*	2	*
-pois’nous	pois·’nous	*	2	*
-portals	por·tals	*	2	*
-possessions	pos·ses·sions	*	3	*
-pow’r	pow’r	*	1	*
-pow’rs	pow’rs	*	1	*
+poet’s	po·et’s	*	*	2	*
+pois’nous	pois·’nous	*	*	2	*
+portals	por·tals	*	*	2	*
+possessions	pos·ses·sions	*	*	3	*
+pow’r	pow’r	*	*	1	*
+pow’rs	pow’rs	*	*	1	*
 praised	prais·ed	144	1	2	"He is worthy to be praised,"
-prayer	prayer	*	1	*
-prayers	prayers	*	1	*
-preachers	preach·ers	*	2	*
-precepts	pre·cepts	*	2	*
-preparest	pre·par·est	*	3	*
+prayer	prayer	*	*	1	*
+prayers	prayers	*	*	1	*
+preachers	preach·ers	*	*	2	*
+precepts	pre·cepts	*	*	2	*
+preparest	pre·par·est	*	*	3	*
+Present	Pres·ent	123.1	1	2	Present their bright hills to my view.
 present	pre·sent	535	1	2	"And to Thy gracious eye present,"
 present	pres·ent	395	1	2	Behold Him present with His aid
 present	pres·ent	510	1	2	"Ever present, truest friend,"
@@ -534,137 +545,137 @@ present	pres·ent	326	1	2	If Christ be present all is well.
 present	pres·ent	323.2	1	2	It bids us seize the present hour
 present	pres·ent	447	1	2	That were a present far too small;
 present	pres·ent	502	1	2	"To serve the present age,"
-princes	prin·ces	*	2	*
-pris’n	pris’n	*	1	*
-pris’ner	pris·’ner	*	2	*
+princes	prin·ces	*	*	2	*
+pris’n	pris’n	*	*	1	*
+pris’ner	pris·’ner	*	*	2	*
 proclaimed	pro·claim·ed	144	1	3	Free salvation is proclaimed
-prodigal’s	pro·di·gal’s	*	3	*
-prophet’s	pro·phet’s	*	2	*
-prophets	pro·phets	*	2	*
-pursuits	pur·suits	*	2	*
-quick’ning	quick·’ning	*	2	*
+prodigal’s	pro·di·gal’s	*	*	3	*
+prophet’s	pro·phet’s	*	*	2	*
+prophets	pro·phets	*	*	2	*
+pursuits	pur·suits	*	*	2	*
+quick’ning	quick·’ning	*	*	2	*
 radiance	ra·diance	532	1	2	A thousand radiant marks appear
 radiant	ra·diant	188	1	2	A thousand radiant marks appear
 radiant	ra·diant	202	1	3	A thousand radiant marks appear
 radiant	ra·diant	225.2	1	2	"Are the radiant bands of music, music, music, music!"
 radiant	ra·diant	488	1	2	"Break radiant through the shades of night,"
-ransom’s	ran·som’s	*	2	*
-rapt’rous	rap·t’rous	*	2	*
+ransom’s	ran·som’s	*	*	2	*
+rapt’rous	rap·t’rous	*	*	2	*
 real	real	503	1	1	"No, not a drop of Thy real joy"
-realms	realms	*	1	*
-reason’s	reas·on’s	*	2	*
+realms	realms	*	*	1	*
+reason’s	reas·on’s	*	*	2	*
 redeemed	re·deem·ed	322	1	3	And now the poor by Him redeemed
-redeemer’s	re·deem·er’s	*	3	*
-redemption’s	re·demp·tion’s	*	3	*
-refuse	re·fuse	*	2	*
-regions	re·gions	*	2	*
+redeemer’s	re·deem·er’s	*	*	3	*
+redemption’s	re·demp·tion’s	*	*	3	*
+refuse	re·fuse	*	*	2	*
+regions	re·gions	*	*	2	*
 rejoiced	re·joic·ed	116	1	2	"My soul he hath healed, my heart hath rejoiced;"
-repetitions	rep·e·ti·tions	*	4	*
-requireth	re·quir·eth	*	3	*
-responses	re·spon·ses	*	3	*
-restoreth	re·stor·eth	*	3	*
-rev’rence	rev·’rence	*	2	*
-rev’rend	rev·’rend	*	2	*
-rills	rills	*	1	*
-ris’n	ris’n	*	1	*
-rites	rites	*	1	*
-roes	roes	*	1	*
-roses	ro·ses	*	2	*
-roving	ro·ving	*	2	*
+repetitions	rep·e·ti·tions	*	*	4	*
+requireth	re·quir·eth	*	*	3	*
+responses	re·spon·ses	*	*	3	*
+restoreth	re·stor·eth	*	*	3	*
+rev’rence	rev·’rence	*	*	2	*
+rev’rend	rev·’rend	*	*	2	*
+rills	rills	*	*	1	*
+ris’n	ris’n	*	*	1	*
+rites	rites	*	*	1	*
+roes	roes	*	*	1	*
+roses	ro·ses	*	*	2	*
+roving	ro·ving	*	*	2	*
 ruin	ru·in	116	1	2	His love did surround me and saved me from ruin;
-rul’st	rul’st	*	1	*
-rulest	rul·est	*	2	*
-runneth	run·neth	*	2	*
-sabachthani	sa·bach·tha·ni	*	4	*
-Sabacthani	Sa·bac·tha·ni	*	4	*
-sabbath	sab·bath	*	2	*
-sabbaths	sab·baths	*	2	*
-sages	sa·ges	*	2	*
-sake	sake	*	1	*
-Salem’s	Sa·lem’s	*	2	*
-salvation’s	sal·va·tion’s	*	3	*
-Salvation’s	Sal·va·tion’s	*	3	*
-Samuel	Sam·uel	*	2	*
-Satan	Sa·tan	*	2	*
-Satan’s	Sa·tan’s	*	2	*
+rul’st	rul’st	*	*	1	*
+rulest	rul·est	*	*	2	*
+runneth	run·neth	*	*	2	*
+sabachthani	sa·bach·tha·ni	*	*	4	*
+Sabacthani	Sa·bac·tha·ni	*	*	4	*
+sabbath	sab·bath	*	*	2	*
+sabbaths	sab·baths	*	*	2	*
+sages	sa·ges	*	*	2	*
+sake	sake	*	*	1	*
+Salem’s	Sa·lem’s	*	*	2	*
+salvation’s	sal·va·tion’s	*	*	3	*
+Samuel	Sam·uel	*	*	2	*
+Satan	Sa·tan	*	*	2	*
+Satan’s	Sa·tan’s	*	*	2	*
 saved	sav·ed	458	1	2	Others by Thy grace are saved
 saved	sav·ed	56.2	1	2	Others by Thy grace are saved
 saved	sav·ed	52.2	1	2	Others by Thy Word are saved
-Savior’s	Sav·ior’s	*	2	*
-scatt’ring	scat·t’ring	*	2	*
-scenes	scenes	*	1	*
-Scenes	Scenes	*	1	*
-scriptures	scrip·tures	*	2	*
-seas	seas	*	1	*
-seemeth	seem·eth	*	2	*
-seest	seest	*	1	*
-seraphim’s	ser·a·phim’s	*	3	*
-seraphs	ser·aphs	*	2	*
-serpents	ser·pents	*	2	*
-servant’s	ser·vant’s	*	2	*
-servants	ser·vants	*	2	*
-sev’n	sev’n	*	1	*
-sev’nty	sev’n·ty	*	2	*
-sev’ral	sev·’ral	*	2	*
-Sharon	Sha·ron	*	2	*
-she’d	she’d	*	1	*
-she’s	she’s	*	1	*
-shelt’ring	shel·t’ring	*	2	*
+Savior’s	Sav·ior’s	*	*	2	*
+scatt’ring	scat·t’ring	*	*	2	*
+scenes	scenes	*	*	1	*
+scriptures	scrip·tures	*	*	2	*
+seas	seas	*	*	1	*
+seemeth	seem·eth	*	*	2	*
+seest	seest	*	*	1	*
+self	self	*	*	1	*
+seraphim’s	ser·a·phim’s	*	*	3	*
+seraphs	ser·aphs	*	*	2	*
+serpents	ser·pents	*	*	2	*
+servant’s	ser·vant’s	*	*	2	*
+servants	ser·vants	*	*	2	*
+sev’n	sev’n	*	*	1	*
+sev’nty	sev’n·ty	*	*	2	*
+sev’ral	sev·’ral	*	*	2	*
+Sharon	Sha·ron	*	*	2	*
+she’d	she’d	*	*	1	*
+she’s	she’s	*	*	1	*
+shelt’ring	shel·t’ring	*	*	2	*
 sheltering	shel·tering	390	1	2	"No peaceful, sheltering dome;"
-shepherd’s	shep·herd’s	*	2	*
-Shiloh’s	Shi·loh’s	*	2	*
-shineth	shin·eth	*	2	*
-shiv’ring	shiv·’ring	*	2	*
-show’r	show’r	*	1	*
-show’rs	show’rs	*	1	*
+shepherd’s	shep·herd’s	*	*	2	*
+Shiloh’s	Shi·loh’s	*	*	2	*
+shineth	shin·eth	*	*	2	*
+shiv’ring	shiv·’ring	*	*	2	*
+show’r	show’r	*	*	1	*
+show’rs	show’rs	*	*	1	*
 showered	showered	466	1	1	And God has showered His blessing down
-showeth	show·eth	*	2	*
-Silas	Si·las	*	2	*
+showeth	show·eth	*	*	2	*
+Silas	Si·las	*	*	2	*
 Simeon	Si·meon	116	1	2	"There was Simeon and Anna, and I don’t know how many,"
-Simeon	Sim·e·on	*	3	*
-sin’s	sin’s	*	1	*
+Simeon	Sim·e·on	*	*	3	*
+sin’s	sin’s	*	*	1	*
 Sinai’s	Si·na·i’s	35	1	3	"Lo, Sinai’s God is near,"
-sinless	sin·less	*	2	*
-sinner’s	sin·ner’s	*	2	*
-sinners	sin·ners	*	2	*
-sitteth	sit·teth	*	2	*
-slipp’ry	slip·p’ry	*	2	*
-slumb’ring	slum·b’ring	*	2	*
-smilings	smil·ings	*	2	*
-Sodom’s	So·dom’s	*	2	*
-soft’ning	soft·’ning	*	2	*
-Solomon	Sol·o·mon	*	3	*
-songs	songs	*	1	*
-sons	sons	*	1	*
-sorr’wing	sor·r’wing	*	2	*
-sorrow’s	sor·row’s	*	2	*
-soul’s	soul’s	*	1	*
-souls	souls	*	1	*
-sov’reign	sov·’reign	*	2	*
-Sov’reign’s	Sov·’reign’s	*	2	*
-Spirit’s	Spi·rit’s	*	2	*
-stamm’ring	stam·m’ring	*	2	*
-standest	stand·est	*	2	*
-statues	stat·ues	*	2	*
-statutes	stat·utes	*	2	*
-Stephen	Ste·phen	*	2	*
-Stephen’s	Ste·phen’s	*	2	*
-straits	straits	*	1	*
-strangers	strang·ers	*	2	*
+sinless	sin·less	*	*	2	*
+sinner’s	sin·ner’s	*	*	2	*
+sinners	sin·ners	*	*	2	*
+sitteth	sit·teth	*	*	2	*
+slipp’ry	slip·p’ry	*	*	2	*
+slumb’ring	slum·b’ring	*	*	2	*
+smilings	smil·ings	*	*	2	*
+Sodom’s	So·dom’s	*	*	2	*
+soft’ning	soft·’ning	*	*	2	*
+Solomon	Sol·o·mon	*	*	3	*
+songs	songs	*	*	1	*
+sons	sons	*	*	1	*
+sorr’wing	sor·r’wing	*	*	2	*
+sorrow’s	sor·row’s	*	*	2	*
+soul’s	soul’s	*	*	1	*
+souls	souls	*	*	1	*
+sov’reign	sov·’reign	*	*	2	*
+Sov’reign’s	Sov·’reign’s	*	*	2	*
+Spirit’s	Spi·rit’s	*	*	2	*
+stamm’ring	stam·m’ring	*	*	2	*
+standest	stand·est	*	*	2	*
+statues	stat·ues	*	*	2	*
+statutes	stat·utes	*	*	2	*
+Stephen	Ste·phen	*	*	2	*
+Stephen’s	Ste·phen’s	*	*	2	*
+straits	straits	*	*	1	*
+strangers	strang·ers	*	*	2	*
 streamed	stream·ed	322	1	2	"His precious blood to save us streamed,"
-streets	streets	*	1	*
-strown	strown	*	1	*
-strugglest	strug·glest	*	2	*
-suff’rer	suf·f’rer	*	2	*
-suff’rings	suf·f’rings	*	2	*
-summer’s	sum·mer’s	*	2	*
+streets	streets	*	*	1	*
+strown	strown	*	*	1	*
+strugglest	strug·glest	*	*	2	*
+suff’rer	suf·f’rer	*	*	2	*
+suff’rings	suf·f’rings	*	*	2	*
+summer’s	sum·mer’s	*	*	2	*
 superior	su·pe·rior	61	1	3	"I’d rise superior to my pain,"
-sweets	sweets	*	1	*
-t’appear	t’ap·pear	*	2	*
-t’insure	t’in·sure	*	2	*
-t’wards	t’wards	*	1	*
-taketh	tak·eth	*	2	*
-talents	tal·ents	*	2	*
+sustaining	sus·tain·ing	*	*	3	*
+sweets	sweets	*	*	1	*
+t’appear	t’ap·pear	*	*	2	*
+t’insure	t’in·sure	*	*	2	*
+t’wards	t’wards	*	*	1	*
+taketh	tak·eth	*	*	2	*
+talents	tal·ents	*	*	2	*
 tedious	te·dious	127	1	2	How tedious and tasteless the hours
 tedious	te·dious	82.2	1	2	How tedious and tasteless the hours
 tedious	te·dious	260	1	2	long and tedious journey
@@ -675,133 +686,131 @@ tedious	te·dious	260	5	2	long and tedious journey
 tedious	te·dious	260	6	2	long and tedious journey
 tedious	te·dious	260	7	2	long and tedious journey
 tempestuous	tem·pes·tuous	101.1	1	3	"To steer through life’s tempestuous sea,"
-temple’s	tem·ple’s	*	2	*
-temptation’s	temp·ta·tion’s	*	3	*
-temptations	temp·ta·tions	*	3	*
-tempter’s	temp·ter’s	*	2	*
-tender	ten·der	*	2	*
-terrest’rial	ter·rest·’rial	*	3	*
+temple’s	tem·ple’s	*	*	2	*
+temptation’s	temp·ta·tion’s	*	*	3	*
+temptations	temp·ta·tions	*	*	3	*
+tempter’s	temp·ter’s	*	*	2	*
+tender	ten·der	*	*	2	*
+terrest’rial	ter·rest·’rial	*	*	3	*
 terrestrial	ter·res·trial	285.1	1	2	Let all the saints terrestrial sing
 terrestrial	ter·res·trial	84	1	3	Rise from all terrestrial things
-terrors	ter·rors	*	2	*
-th’affrighted	th’af·fright·ed	*	3	*
-th’American	th’A·mer·i·can	*	4	*
-th’archangel	th’arch·an·gel	*	3	*
-th’ecstatic	th’ec·sta·tic	*	3	*
-th’eternal	th’e·ter·nal	*	3	*
-th’Eternal	th’E·ter·nal	*	3	*
-Th’harmonious	Th’har·mo·nious	*	3	*
-th’immortal	th’im·mor·tal	*	3	*
-th’incarnate	th’in·car·nate	*	3	*
-th’inebriates	th’in·e·bri·ates	*	4	*
-th’oppressed	th’op·pressed	*	2	*
-th’oppressive	th’op·pres·sive	*	3	*
-th’unchanging	th’un·chang·ing	*	3	*
-th’unwearied	th’un·wear·ied	*	3	*
-that’s	that’s	*	1	*
-there’s	there’s	*	1	*
-they’d	they’d	*	1	*
-they’ll	they’ll	*	1	*
-they’re	they’re	*	1	*
-they’ret	they’ret	*	1	*
-they’ve	they’ve	*	1	*
-thine’s	thine’s	*	1	*
-things	things	*	1	*
-tho’t	tho’t	*	1	*
-tho’ts	tho’ts	*	1	*
-thorns	thorns	*	1	*
-Thou’st	Thou’st	*	1	*
-thoughts	thoughts	*	1	*
-thousands	thou·sands	*	2	*
-tim’rous	tim·’rous	*	2	*
-tombs	tombs	*	1	*
-tott’ring	tot·t’ring	*	2	*
-tow’r	tow’r	*	1	*
-tow’ring	tow·’ring	*	2	*
-tow’rs	tow’rs	*	1	*
+terrors	ter·rors	*	*	2	*
+th’affrighted	th’af·fright·ed	*	*	3	*
+th’American	th’A·mer·i·can	*	*	4	*
+th’archangel	th’arch·an·gel	*	*	3	*
+th’ecstatic	th’ec·sta·tic	*	*	3	*
+th’eternal	th’e·ter·nal	*	*	3	*
+th’Eternal	th’E·ter·nal	134	1	3	To praise th’Eternal Three.
+Th’harmonious	Th’har·mo·nious	*	*	3	*
+th’immortal	th’im·mor·tal	*	*	3	*
+th’incarnate	th’in·car·nate	*	*	3	*
+th’inebriates	th’in·e·bri·ates	*	*	4	*
+th’oppressed	th’op·pressed	*	*	2	*
+th’oppressive	th’op·pres·sive	*	*	3	*
+th’unchanging	th’un·chang·ing	*	*	3	*
+th’unwearied	th’un·wear·ied	*	*	3	*
+that’s	that’s	*	*	1	*
+there’s	there’s	*	*	1	*
+they’d	they’d	*	*	1	*
+they’ll	they’ll	*	*	1	*
+they’re	they’re	*	*	1	*
+they’ret	they’ret	*	*	1	*
+they’ve	they’ve	*	*	1	*
+thine’s	thine’s	*	*	1	*
+things	things	*	*	1	*
+tho’t	tho’t	*	*	1	*
+tho’ts	tho’ts	*	*	1	*
+thorns	thorns	*	*	1	*
+Thou’st	Thou’st	*	*	1	*
+thoughts	thoughts	*	*	1	*
+thousands	thou·sands	*	*	2	*
+tim’rous	tim·’rous	*	*	2	*
+tolling	tol·ling	*	*	2	*
+tombs	tombs	*	*	1	*
+tott’ring	tot·t’ring	*	*	2	*
+tow’r	tow’r	*	*	1	*
+tow’ring	tow·’ring	*	*	2	*
+tow’rs	tow’rs	*	*	1	*
 Towards	Towards	84	1	1	Towards heaven thy native place
-towns	towns	*	1	*
-traitor’s	trai·tor’s	*	2	*
-traitors	trai·tors	*	2	*
-transgressions	trans·gres·sions	*	3	*
+towns	towns	*	*	1	*
+traitor’s	trai·tor’s	*	*	2	*
+traitors	trai·tors	*	*	2	*
+transgressions	trans·gres·sions	*	*	3	*
 transient	tran·sient	507	1	2	"Man is a tender, transient flow’r,"
 transient	tran·sient	32.2	1	2	So soon our transient comforts fly
-trav’ler	trav·’ler	*	2	*
-trav’lers	trav·’lers	*	2	*
-trav’ling	trav·’ling	*	2	*
-travelers	trav·el·ers	*	3	*
-treasury	trea·sury	68.2	1	2	My never failing treasury filled
+trav’ler	trav·’ler	*	*	2	*
+trav’lers	trav·’lers	*	*	2	*
+trav’ling	trav·’ling	*	*	2	*
+travelers	trav·el·ers	*	*	3	*
+treasury	trea·sury	68.2	1	2	My never-failing treasury filled
 trials	trials	469	1	1	In fier-y trials thou soon shalt see
-trials	tri·als	*	2	*
-tribes	tribes	*	1	*
-trumpet’s	trum·pet’s	*	2	*
+trials	tri·als	*	*	2	*
+tribes	tribes	*	*	1	*
+trumpet’s	trum·pet’s	*	*	2	*
 tumultuous	tu·mul·tuous	264	1	2	Great troubles with tumultuous noise
-twas	twas	*	1	*
-twere	twere	*	1	*
-twould	twould	*	1	*
-tyrants	ty·rants	*	2	*
-unbeclouded	un·be·cloud·ed	*	4	*
-unbelievers	un·be·liev·ers	*	4	*
-undismayed	un·dis·mayed	*	3	*
-unexhausted	un·ex·haust·ed	*	4	*
-unextinguished	un·ex·tin·guished	*	4	*
-ungentle	un·gen·tle	*	3	*
-unmeasured	un·meas·ured	*	3	*
-unpierced	un·pierced	*	2	*
-unrivalled	un·ri·valled	*	3	*
-unshaken	un·shak·en	*	3	*
-upwards	up·wards	*	2	*
-utt’reth	ut·t’reth	*	2	*
-vale	vale	*	1	*
-vales	vales	*	1	*
+twas	twas	*	*	1	*
+tyrants	ty·rants	*	*	2	*
+unbeclouded	un·be·cloud·ed	*	*	4	*
+unbelievers	un·be·liev·ers	*	*	4	*
+undismayed	un·dis·mayed	*	*	3	*
+unexhausted	un·ex·haust·ed	*	*	4	*
+unextinguished	un·ex·tin·guished	*	*	4	*
+ungentle	un·gen·tle	*	*	3	*
+unmeasured	un·meas·ured	*	*	3	*
+unpierced	un·pierced	*	*	2	*
+unrivalled	un·ri·valled	*	*	3	*
+unshaken	un·shak·en	*	*	3	*
+upwards	up·wards	*	*	2	*
+utt’reth	ut·t’reth	*	*	2	*
+vale	vale	*	*	1	*
+vales	vales	*	*	1	*
 various	var·ious	353	1	2	"My God, my King, Thy various praise"
 Various	Var·ious	524	1	2	Various through their mystic way;
-vessels	ves·sels	*	2	*
-vice	vice	*	1	*
-vict’ries	vic·t’ries	*	2	*
-vict’ry	vic·t’ry	*	2	*
-vict’ry’s	vic·t’ry’s	*	2	*
-vigils	vig·ils	*	2	*
-virgins	vir·gins	*	2	*
-virtues	vir·tues	*	2	*
-vision’s	vi·sion’s	*	2	*
-wand’rer	wand·’rer	*	2	*
-wand’rers	wan·d’rers	*	2	*
-wand’ring	wan·d’ring	*	2	*
-war’s	war’s	*	1	*
-warblers	war·blers	*	2	*
-Washington	Wash·ing·ton	*	3	*
-wat’ry	wa·t’ry	*	2	*
-watchmen	watch·men	*	2	*
-wav’ring	wav·’ring	*	2	*
-ways	ways	*	1	*
-We’d	We’d	*	1	*
-we’ll	we’ll	*	1	*
-We’ll	We’ll	*	1	*
-we’re	we’re	*	1	*
-We’re	We’re	*	1	*
-we’ve	we’ve	*	1	*
-We’ve	We’ve	*	1	*
-weeks	weeks	*	1	*
-welt’ring	wel·t’ring	*	2	*
-what’s	what’s	*	1	*
-whate’er	what·e’er	*	2	*
-whene’er	when·e’er	*	2	*
-where’er	wher·e’er	*	2	*
-who’re	who’re	*	1	*
-Who’s	Who’s	*	1	*
-who’ve	who’ve	*	1	*
-wicked	wick·ed	*	2	*
-winter’s	win·ter’s	*	2	*
-with’ring	with·’ring	*	2	*
-woes	woes	*	1	*
-won’t	won’t	*	1	*
-wond’ring	won·d’ring	*	2	*
-work’s	work’s	*	1	*
-world’s	world’s	*	1	*
-worlds	worlds	*	1	*
-years	years	*	1	*
-you’ll	you’ll	*	1	*
-you’ve	you’ve	*	1	*
-Zion	Zi·on	*	2	*
-Zion’s	Zi·on’s	*	2	*
+vessels	ves·sels	*	*	2	*
+vested	vest·ed	*	*	2	*
+vice	vice	*	*	1	*
+vict’ries	vic·t’ries	*	*	2	*
+vict’ry	vic·t’ry	*	*	2	*
+vict’ry’s	vic·t’ry’s	*	*	2	*
+vigils	vig·ils	*	*	2	*
+virgins	vir·gins	*	*	2	*
+virtues	vir·tues	*	*	2	*
+vision’s	vi·sion’s	*	*	2	*
+wand’rer	wand·’rer	*	*	2	*
+wand’rers	wan·d’rers	*	*	2	*
+wand’ring	wan·d’ring	*	*	2	*
+war’s	war’s	*	*	1	*
+warblers	war·blers	*	*	2	*
+Washington	Wash·ing·ton	*	*	3	*
+wat’ry	wa·t’ry	*	*	2	*
+watchmen	watch·men	*	*	2	*
+wav’ring	wav·’ring	*	*	2	*
+ways	ways	*	*	1	*
+We’d	We’d	*	*	1	*
+we’ll	we’ll	*	*	1	*
+we’re	we’re	*	*	1	*
+we’ve	we’ve	*	*	1	*
+weeks	weeks	*	*	1	*
+welt’ring	wel·t’ring	*	*	2	*
+what’s	what’s	*	*	1	*
+whate’er	what·e’er	*	*	2	*
+whene’er	when·e’er	*	*	2	*
+where’er	wher·e’er	*	*	2	*
+who’re	who’re	*	*	1	*
+Who’s	Who’s	*	*	1	*
+who’ve	who’ve	*	*	1	*
+wicked	wick·ed	*	*	2	*
+winter’s	win·ter’s	*	*	2	*
+with’ring	with·’ring	*	*	2	*
+woes	woes	*	*	1	*
+won’t	won’t	*	*	1	*
+wond’ring	won·d’ring	*	*	2	*
+work’s	work’s	*	*	1	*
+world’s	world’s	*	*	1	*
+worlds	worlds	*	*	1	*
+wreaths	wreaths	*	*	1	*
+years	years	*	*	1	*
+you’ll	you’ll	*	*	1	*
+you’ve	you’ve	*	*	1	*
+Zion	Zi·on	*	*	2	*
+Zion’s	Zi·on’s	*	*	2	*
