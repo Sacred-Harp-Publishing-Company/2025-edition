@@ -30,7 +30,7 @@ PYTHONPATH=src python -m hyphenation generate --allow-missing --song 27.1 --song
 
 The `check` command validates lyric coverage, entry integrity, and syllable counts. The `generate` command applies song- and occurrence-specific exceptions before standard hyphenation and writes files to `hyphenated-lyrics`. By default, generation processes every lyric file and stops when a word is missing. Use `--song SONG` one or more times to generate only selected files; the `.txt` suffix is optional. Use `--allow-missing` to preserve missing words unchanged and log warnings; `--log-file PATH` also writes the generation log to a file. Use `--root PATH` to run either command against another repository root.
 
-When `check` finds an incorrect syllable count, it reports the computed count and a macOS-compatible `sed` command for correcting that TSV row.
+When `check` finds an incorrect syllable count, it reports the computed count. Use `check --fix-syllables` to apply those corrections automatically.
 
 To compare generated files with another system's two-part output, run:
 

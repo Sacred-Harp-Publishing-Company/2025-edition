@@ -1,8 +1,6 @@
 from collections.abc import Iterable
 from decimal import Decimal, InvalidOperation
 from pathlib import Path
-import re
-import shlex
 
 from .data import count_syllables, validate_entry
 from .lyrics import iter_lyric_words
@@ -65,22 +63,6 @@ def invalid_syllable_entries(
         if entry.syllables is None
         or entry.syllables != count_syllables(entry.hyphenated)
     ]
-
-
-def syllable_fix_expression(entry: HyphenationEntry) -> tuple[int, str]:
-    correct_count = count_syllables(entry.hyphenated)
-    fields = (entry.word, entry.hyphenated, entry.song, entry.occurrence)
-    tab = "\t"
-    pattern = "^" + tab.join(re.escape(field) for field in fields)
-    pattern += tab + "[^" + tab + "]*"
-    replacement = tab.join(fields + (str(correct_count),))
-    return correct_count, f"s/{pattern}/{replacement}/"
-
-
-def syllable_fix_command(entry: HyphenationEntry, data_path: Path) -> tuple[int, str]:
-    correct_count, expression = syllable_fix_expression(entry)
-    command = f"sed -i '' -E {shlex.quote(expression)} {shlex.quote(str(data_path))}"
-    return correct_count, command
 
 
 def apply_syllable_fix(entry: HyphenationEntry, data_path: Path) -> None:

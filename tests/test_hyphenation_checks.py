@@ -6,7 +6,6 @@ from hyphenation.checks import (
     lyric_files,
     missing_lyric_entries,
     output_mismatches,
-    syllable_fix_command,
     unused_entries,
 )
 from hyphenation.models import HyphenationEntry
@@ -66,16 +65,6 @@ def test_lyric_files_are_sorted_numerically(tmp_path: Path):
 def test_invalid_syllables_includes_wildcards():
     entries = [HyphenationEntry("word", "wo·rd", syllables=None)]
     assert invalid_syllable_entries(entries) == entries
-
-
-def test_syllable_fix_command_reports_correct_count_and_sed_command(tmp_path: Path):
-    entry = HyphenationEntry("word", "wo·rd", "1", "2", syllables=3)
-    count, command = syllable_fix_command(entry, tmp_path / "exceptions.tsv")
-
-    assert count == 2
-    assert "sed -i '' -E" in command
-    assert "wo·rd" in command
-    assert "\t2" in command
 
 
 def test_apply_syllable_fix_updates_tsv_row(tmp_path: Path):

@@ -8,9 +8,8 @@ from .checks import (
     missing_lyric_entries,
     output_mismatches,
     apply_syllable_fix,
-    syllable_fix_command,
 )
-from .data import load_entries
+from .data import count_syllables, load_entries
 from .generate import hyphenate_directory
 from .lookup import resolve_hyphenation
 
@@ -50,10 +49,10 @@ def run_check(root: Path, fix_syllables: bool = False) -> int:
             if fix_syllables:
                 apply_syllable_fix(entry, path)
                 continue
-            correct_count, command = syllable_fix_command(entry, path)
+            correct_count = count_syllables(entry.hyphenated)
             failures.append(
                 f"incorrect syllable count: {entry.word!r}; "
-                f"correct count is {correct_count}; fix with: {command}"
+                f"correct count is {correct_count}"
             )
     for failure in failures:
         print(failure)
