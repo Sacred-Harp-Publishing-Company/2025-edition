@@ -7,6 +7,8 @@ from .checks import (
     invalid_syllable_entries,
     missing_lyric_entries,
     output_mismatches,
+    apply_syllable_fix,
+    syllable_fix_command,
 )
 from .data import load_entries
 from .generate import hyphenate_directory
@@ -21,7 +23,7 @@ def build_resolver(exceptions, standard):
     )
 
 
-def run_check(root: Path) -> int:
+def run_check(root: Path, fix_syllables: bool = False) -> int:
     exceptions = load_entries(root / "data/hyphenation/master_exceptions.tsv")
     standard = load_entries(root / "data/hyphenation/standard_hyphenation.tsv")
     songs = {path.stem for path in (root / "lyrics").glob("*.txt")}
@@ -34,10 +36,25 @@ def run_check(root: Path) -> int:
         f"invalid entry: {item}"
         for item in invalid_entries(exceptions + standard, songs)
     )
-    failures.extend(
-        f"invalid syllables: {entry.word}"
-        for entry in invalid_syllable_entries(exceptions + standard)
-    )
+    for entries, path in (
+        (
+            exceptions,
+            root / "data/hyphenation/master_exceptions.tsv",
+        ),
+        (
+            standard,
+            root / "data/hyphenation/standard_hyphenation.tsv",
+        ),
+    ):
+        for entry in invalid_syllable_entries(entries):
+            if fix_syllables:
+                apply_syllable_fix(entry, path)
+                continue
+            correct_count, command = syllable_fix_command(entry, path)
+            failures.append(
+                f"incorrect syllable count: {entry.word!r}; "
+                f"correct count is {correct_count}; fix with: {command}"
+            )
     for failure in failures:
         print(failure)
     return int(bool(failures))
@@ -62,6 +79,11 @@ def main() -> int:
         action="append",
         help="Generate only this song number; repeat for multiple songs.",
     )
+    parser.add_argument(
+        "--fix-syllables",
+        action="store_true",
+        help="Apply incorrect syllable-count fixes while running check.",
+    )
     args = parser.parse_args()
     handlers = [logging.StreamHandler()]
     if args.log_file:
@@ -76,7 +98,7 @@ def main() -> int:
     standard = load_entries(root / "data/hyphenation/standard_hyphenation.tsv")
     resolver = build_resolver(exceptions, standard)
     if args.command == "check":
-        return run_check(root)
+        return run_check(root, fix_syllables=args.fix_syllables)
     hyphenate_directory(
         root / "lyrics",
         root / "hyphenated-lyrics",
