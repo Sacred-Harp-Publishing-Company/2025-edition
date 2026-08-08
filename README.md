@@ -29,4 +29,12 @@ PYTHONPATH=src python -m hyphenation generate --allow-missing --song 27.1 --song
 
 The `check` command validates lyric coverage, entry integrity, and syllable counts. The `generate` command applies song- and occurrence-specific exceptions before standard hyphenation and writes files to `hyphenated-lyrics`. By default, generation processes every lyric file and stops when a word is missing. Use `--song SONG` one or more times to generate only selected files; the `.txt` suffix is optional. Use `--allow-missing` to preserve missing words unchanged and log warnings; `--log-file PATH` also writes the generation log to a file. Use `--root PATH` to run either command against another repository root.
 
+To compare generated files with another system's two-part output, run:
+
+```sh
+python scripts/compare_hyphenated.py hyphenated-lyrics /path/to/other/hyphenated-lyrics
+```
+
+The comparison uses only the part above the dash separator, treats middle dots and hyphens as equivalent, and reports differing files and line numbers. It exits with status 1 when differences are found.
+
 This collection of lyrics from _The Sacred Harp_ © 2025 by [Sacred Harp Publishing Company](https://sacredharp.com/) is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
