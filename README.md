@@ -1,5 +1,7 @@
 # Texts and Metadata for the 2025 Edition of The Sacred Harp
 
+[![Tests](https://github.com/Sacred-Harp-Publishing-Company/2025-edition/actions/workflows/test.yml/badge.svg)](https://github.com/Sacred-Harp-Publishing-Company/2025-edition/actions/workflows/test.yml) [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/) [![Python 3.13+](https://img.shields.io/badge/Python-3.13%2B-3776AB.svg)](https://www.python.org/) [![Ruff](https://img.shields.io/badge/linted%20with-Ruff-D7FF64.svg)](https://docs.astral.sh/ruff/)
+
 This repository contains texts and metadata for the 2025 edition of The Sacred Harp.
 
 This is organized in the following way:
