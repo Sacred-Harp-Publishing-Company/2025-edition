@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """Format generated hyphenated lyrics with an unhyphenated lower section."""
 
 from __future__ import annotations

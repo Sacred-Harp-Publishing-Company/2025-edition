@@ -1,12 +1,12 @@
 # Note: This code is part of a test suite for verifying the integrity of song lyrics and metadata.
 # Run with python tests/test_integrity.py (not pytest)
-import os
-import glob
-import sys
 import csv
+import glob
 
 # add logging
 import logging
+import os
+import sys
 
 logging.basicConfig(
     level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
@@ -892,14 +892,14 @@ def check_song_titles():
             f"song_titles.tsv has {len(song_title_pages)} entries, but topmatter.tsv has {len(title_pages)} entries"
         )
         errors += 1
-    for page in song_title_pages:
+    for page, title in song_title_pages.items():
         if page not in title_pages:
             logger.info(f"Page {page} in song_titles.tsv not found in topmatter.tsv")
             errors += 1
         else:
-            if song_title_pages[page] != title_pages[page]:
+            if title != title_pages[page]:
                 logger.info(
-                    f"Title mismatch for page {page}: '{song_title_pages[page]}' != '{title_pages[page]}'"
+                    f"Title mismatch for page {page}: '{title}' != '{title_pages[page]}'"
                 )
                 errors += 1
     return errors

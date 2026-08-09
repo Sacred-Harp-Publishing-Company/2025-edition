@@ -2,13 +2,13 @@
 import pytest
 
 from hyphenation.generate import hyphenate_lines
+from hyphenation.lookup import MissingHyphenationError
 from hyphenation.lyrics import (
     is_annotation,
     iter_lyric_words,
     replace_words,
     tokenize_line,
 )
-from hyphenation.lookup import MissingHyphenationError
 
 
 def test_tokenize_line_preserves_internal_apostrophes_and_hyphens():

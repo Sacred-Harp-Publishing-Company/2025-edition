@@ -1,11 +1,10 @@
-from collections.abc import Iterable, Callable
 import logging
+from collections.abc import Callable, Iterable
 from pathlib import Path
 
-from .lyrics import is_annotation, replace_words, tokenize_line
-from .lookup import MissingHyphenationError
 from .checks import lyric_files
-
+from .lookup import MissingHyphenationError
+from .lyrics import is_annotation, replace_words, tokenize_line
 
 Resolver = Callable[[str, str, int], str]
 logger = logging.getLogger(__name__)

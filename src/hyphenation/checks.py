@@ -3,8 +3,8 @@ from decimal import Decimal, InvalidOperation
 from pathlib import Path
 
 from .data import count_syllables, validate_entry
-from .lyrics import iter_lyric_words
 from .lookup import exception_word_matches
+from .lyrics import iter_lyric_words
 from .models import HyphenationEntry
 
 

@@ -3,11 +3,11 @@ import logging
 from pathlib import Path
 
 from .checks import (
+    apply_syllable_fix,
     invalid_entries,
     invalid_syllable_entries,
     missing_lyric_entries,
     output_mismatches,
-    apply_syllable_fix,
 )
 from .data import count_syllables, load_entries
 from .generate import hyphenate_directory

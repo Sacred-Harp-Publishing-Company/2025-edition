@@ -6,7 +6,6 @@ from hyphenation.data import count_syllables, load_entries, parse_entry, validat
 from hyphenation.lookup import MissingHyphenationError, resolve_hyphenation
 from hyphenation.models import HyphenationEntry
 
-
 ROOT = Path(__file__).parents[1]
 
 

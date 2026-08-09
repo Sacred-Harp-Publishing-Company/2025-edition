@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """Compare local hyphenated lyrics with another system's two-part output."""
 
 from __future__ import annotations
