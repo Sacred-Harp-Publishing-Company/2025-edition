@@ -40,6 +40,20 @@ python scripts/compare_hyphenated.py hyphenated-lyrics /path/to/other/hyphenated
 
 The comparison uses only the part above the dash separator, treats middle dots and hyphens as equivalent, and reports differing files and line numbers. It exits with status 1 when differences are found.
 
+To create the two-part format, with hyphenated lyrics above the separator and the original lyrics below it, run:
+
+```sh
+python scripts/format_hyphenated.py hyphenated-lyrics lyrics formatted-lyrics
+```
+
+For one file, provide the three file paths instead:
+
+```sh
+python scripts/format_hyphenated.py hyphenated-lyrics/26.txt lyrics/26.txt formatted-lyrics/26.txt
+```
+
+The script converts middle dots to hyphens in the upper section and preserves the original lyric files unchanged in the lower section.
+
 This collection of lyrics from _The Sacred Harp_ © 2025 by [Sacred Harp Publishing Company](https://sacredharp.com/) is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
 Other data and code © 2026 by [Sacred Harp Publishing Company](https://sacredharp.com/) is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
