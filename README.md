@@ -16,7 +16,7 @@ Other directories are:
 - `src/hyphenation` contains the hyphenation package and command-line interface
 - `tests` contains unit tests and integrity checks for the repository data
 
-## Development
+## Development (Currently, for hyphenation)
 
 Run the test suite with:
 
@@ -38,28 +38,6 @@ PYTHONPATH=src python -m hyphenation generate --allow-missing --song 27.1 --song
 The `check` command validates lyric coverage, entry integrity, and syllable counts. The `generate` command applies song- and occurrence-specific exceptions before standard hyphenation and writes files to `hyphenated-lyrics`. By default, generation processes every lyric file and stops when a word is missing. Use `--song SONG` one or more times to generate only selected files; the `.txt` suffix is optional. Use `--allow-missing` to preserve missing words unchanged and log warnings; `--log-file PATH` also writes the generation log to a file. Use `--root PATH` to run either command against another repository root.
 
 When `check` finds an incorrect syllable count, it reports the computed count. Use `check --fix-syllables` to apply those corrections automatically.
-
-To compare generated files with another system's two-part output, run:
-
-```sh
-python scripts/compare_hyphenated.py hyphenated-lyrics /path/to/other/hyphenated-lyrics
-```
-
-The comparison uses only the part above the dash separator, treats middle dots and hyphens as equivalent, and reports differing files and line numbers. It exits with status 1 when differences are found.
-
-To create the two-part format, with hyphenated lyrics above the separator and the original lyrics below it, run:
-
-```sh
-python scripts/format_hyphenated.py hyphenated-lyrics lyrics formatted-lyrics
-```
-
-For one file, provide the three file paths instead:
-
-```sh
-python scripts/format_hyphenated.py hyphenated-lyrics/26.txt lyrics/26.txt formatted-lyrics/26.txt
-```
-
-The script converts middle dots to hyphens in the upper section and preserves the original lyric files unchanged in the lower section.
 
 ## Copyright information
 
