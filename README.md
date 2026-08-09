@@ -6,12 +6,17 @@ This repository contains texts and metadata for the 2025 edition of The Sacred H
 
 This is organized in the following way:
 
-- `lyrics` contains lyrics for the 2025 edition, with one file per song.
-- `metadata` contains metadata for the 2025 edition.
-- `data/hyphenation` contains the standard and exception TSV data used to hyphenate lyrics.
-- `src/hyphenation` contains the hyphenation package and command-line interface.
-- `tests` contains unit tests and integrity checks for the repository data.
-- `hyphenated-lyrics` is generated output and mirrors the files in `lyrics`.
+- `lyrics` contains lyrics for the 2025 edition, with one file per song
+- `hyphenated-lyrics` is generated output and mirrors the files in `lyrics`
+- `metadata` contains metadata for the 2025 edition
+
+Other directories are:
+
+- `data/hyphenation` contains the standard and exception TSV data used to hyphenate lyrics
+- `src/hyphenation` contains the hyphenation package and command-line interface
+- `tests` contains unit tests and integrity checks for the repository data
+
+## Development
 
 Run the test suite with:
 
