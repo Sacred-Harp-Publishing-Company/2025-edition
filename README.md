@@ -61,6 +61,8 @@ python scripts/format_hyphenated.py hyphenated-lyrics/26.txt lyrics/26.txt forma
 
 The script converts middle dots to hyphens in the upper section and preserves the original lyric files unchanged in the lower section.
 
+## Copyright information
+
 This collection of lyrics from _The Sacred Harp_ © 2025 by [Sacred Harp Publishing Company](https://sacredharp.com/) is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
 Other data and code © 2026 by [Sacred Harp Publishing Company](https://sacredharp.com/) is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
