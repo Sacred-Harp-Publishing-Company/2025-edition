@@ -8,7 +8,10 @@ from hyphenation.checks import (
     output_mismatches,
     unused_entries,
 )
+from hyphenation.data import load_entries
 from hyphenation.models import HyphenationEntry
+
+ROOT = Path(__file__).parents[1]
 
 
 def test_missing_entries_reports_song_word_and_occurrence(tmp_path: Path):
@@ -106,3 +109,15 @@ def test_output_mismatches_can_limit_files(tmp_path: Path):
     (output / "1.txt").write_text("# Title\nword\n", encoding="utf-8")
 
     assert output_mismatches(source, output, ["1"]) == []
+
+
+def test_every_master_exception_is_used_at_least_once():
+    entries = load_entries(ROOT / "data/hyphenation/master_exceptions.tsv")
+    unused = unused_entries(entries, ROOT / "lyrics")
+    assert unused == [], f"{len(unused)} unused entries: {unused}"
+
+
+def test_every_standard_hyphenation_entry_is_used_at_least_once():
+    entries = load_entries(ROOT / "data/hyphenation/standard_hyphenation.tsv")
+    unused = unused_entries(entries, ROOT / "lyrics")
+    assert unused == [], f"{len(unused)} unused entries: {unused}"

@@ -111,7 +111,7 @@ def unused_entries(
     unused = []
     for entry in entries:
         if any(
-            word == entry.word
+            exception_word_matches(word, entry)
             and (entry.song == "*" or song == entry.song)
             and (entry.occurrence == "*" or occurrence == int(entry.occurrence))
             for song, word, occurrence in observed
