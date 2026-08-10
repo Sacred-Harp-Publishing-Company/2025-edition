@@ -106,8 +106,14 @@ def unused_entries(
     observed: set[tuple[str, str, int]] = set()
     for lyric_file in lyric_files(lyrics_directory):
         lines = lyric_file.read_text(encoding="utf-8").splitlines(keepends=True)
+        occurrences: dict[str, int] = {}
         for word in iter_lyric_words(lines):
             observed.add((lyric_file.stem, word.text, word.occurrence))
+            # obligatory-hyphen parts (e.g. "never-with'ring") are also matched independently
+            for part in word.text.split("-"):
+                occurrence = occurrences.get(part, 0) + 1
+                occurrences[part] = occurrence
+                observed.add((lyric_file.stem, part, occurrence))
     unused = []
     for entry in entries:
         if any(

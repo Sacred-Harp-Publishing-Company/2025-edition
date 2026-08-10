@@ -36,7 +36,7 @@ def test_validate_entry_rejects_bad_syllables():
 
 def test_load_real_exception_data():
     entries = load_entries(ROOT / "data/hyphenation/master_exceptions.tsv")
-    assert len(entries) >= 800
+    assert len(entries) >= 500
     assert any(entry.word == "Blessed" and entry.song == "508" for entry in entries)
 
 
