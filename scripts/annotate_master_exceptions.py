@@ -5,45 +5,28 @@ from __future__ import annotations
 import argparse
 from pathlib import Path
 
-from hyphenation.checks import lyric_files
 from hyphenation.data import load_entries, validate_entry
-from hyphenation.lookup import exception_word_matches
-from hyphenation.lyrics import iter_lyric_words
+from hyphenation.checks import unused_entries
 from hyphenation.models import HyphenationEntry
-
-
-def observed_words(lyrics_directory: Path) -> set[tuple[str, str, int]]:
-    observed = set()
-    for lyric_file in lyric_files(lyrics_directory):
-        lines = lyric_file.read_text(encoding="utf-8").splitlines(keepends=True)
-        for word in iter_lyric_words(lines):
-            observed.add((lyric_file.stem, word.text, word.occurrence))
-    return observed
 
 
 def entry_status(
     entry: HyphenationEntry,
-    observed: set[tuple[str, str, int]],
+    unused: set[HyphenationEntry],
     valid_songs: set[str],
 ) -> str:
     try:
         validate_entry(entry, valid_songs)
     except ValueError as error:
         return str(error)
-    used = any(
-        exception_word_matches(word, entry)
-        and (entry.song == "*" or song == entry.song)
-        and (entry.occurrence == "*" or occurrence == int(entry.occurrence))
-        for song, word, occurrence in observed
-    )
-    return "OK" if used else "unused: no matching word found in lyrics"
+    return "unused: no matching word found in lyrics" if entry in unused else "OK"
 
 
 def annotate(source: Path, lyrics_directory: Path, destination: Path) -> None:
     entries = load_entries(source)
     valid_songs = {path.stem for path in lyrics_directory.glob("*.txt")}
-    observed = observed_words(lyrics_directory)
-    statuses = [entry_status(entry, observed, valid_songs) for entry in entries]
+    unused = set(unused_entries(entries, lyrics_directory))
+    statuses = [entry_status(entry, unused, valid_songs) for entry in entries]
 
     header, *rows = source.read_text(encoding="utf-8").splitlines()
     if len(rows) != len(statuses):
