@@ -5,8 +5,8 @@ from __future__ import annotations
 import argparse
 from pathlib import Path
 
-from hyphenation.data import load_entries, validate_entry
 from hyphenation.checks import unused_entries
+from hyphenation.data import load_entries, validate_entry
 from hyphenation.models import HyphenationEntry
 
 
