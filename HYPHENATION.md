@@ -2,7 +2,7 @@
 
 ## General Description of the problem
 
-Hyphenation of the 2025 edition of the Sacred Harp is slightly different that what is required for standard book publishing. In particular, we need to actually define the syllables of a word, not just the meet the requirements of justification algorithms. When musically typeset, most hyphens are optional; it's useful for a singer to see the syllable boundaries, but sometimes the constraints of typesetting force the typesetter to remove these discretionary hyphens. Some hyphens are obligatory, however, being part of the word form. The editors decided to adopt the hyphenation decisions of _The American Heritage Dictionary_ (AHD) as part of their style guide. Practically, this was because the programmer assigned the task of hyphenation had API access to AHD's hyphenation decisions. Of course, some words present in the 2025 edition's lyric texts were missing from AHD, so we needed to make additional editorial decisions.
+Hyphenation of the 2025 edition of the Sacred Harp is slightly different than what is required for standard book publishing. In particular, we need to actually define the syllables of a word, not just meet the requirements of justification algorithms. When musically typeset, most hyphens are optional; it's useful for a singer to see the syllable boundaries, but sometimes the constraints of typesetting force the typesetter to remove these discretionary hyphens. Some hyphens are obligatory, however, being part of the word form. The editors decided to adopt the hyphenation decisions of _The American Heritage Dictionary_ (AHD) as part of their style guide. Practically, this was because the programmer assigned the task of hyphenation had API access to AHD's hyphenation decisions. Of course, some words present in the 2025 edition's lyric texts were missing from AHD, so we needed to make additional editorial decisions.
 
 Some examples may be helpful:
 
@@ -13,7 +13,7 @@ My shield and hiding place,
 My never-failing treasury filled
 With boundless stores of grace.
 
-The hyphenated text version if this is:
+The hyphenated text version of this is:
 
 Dear name! the rock on which I build,  
 My shield and hid-ing place,  
@@ -40,11 +40,11 @@ As a result, we have created two data files in the `data/hyphenation` directory:
 - `standard_hyphenation.tsv`: contains standard AHD for words found in the lyrics
 - `master_exceptions.tsv`: contains all exceptions to standard use.
 
-Note that the Unicode codepoint U+00B7 (MIDDLE DOT) is used to indicate the discretionary hyphen: for example, _Bar·ti·meus_. Oblgatory hyphens use standard Unicode codepoint U+002D (HYPHEN-MINUS).
+Note that the Unicode codepoint U+00B7 (MIDDLE DOT) is used to indicate the discretionary hyphen: for example, _Bar·ti·meus_. Obligatory hyphens use standard Unicode codepoint U+002D (HYPHEN-MINUS).
 
 The format of these files is the same. They are tab-separated files with a header. The columns are:
 
-- `word`: the word as found in the lyrics. For standard entries, these are not case-sensitive. For exceptions, there are case-sensitive.
+- `word`: the word as found in the lyrics. For standard entries, these are not case-sensitive. For exceptions, these are case-sensitive.
 - `hyphenated`: the hyphenated form to use.
 - `song`: The song it occurs in or `*` to indicate all songs.
 - `occurrence`: The occurrence in the lyric, starting from 1, or `*` to indicate all occurrences.
@@ -71,11 +71,11 @@ With bound·less stores of grace.
 There are several data integrity checks:
 
 1. Checks that every word in the lyrics has at least matching entry in the hyphenation data.
-2. `Checks that every entry in the hyphenation data matches at least one lyric word. This is useful to remove "cruft" from the data.
+2. Checks that every entry in the hyphenation data matches at least one lyric word. This is useful to remove "cruft" from the data.
 3. Checks that every entry in the hyphenation data has a correct syllable count.
 4. Checks that every entry has all the fields except the optional context; that all song and occurrence entries are either `*` or a proper song number, which occurs in the metadata/topmatter.tsv `sort` column; that every occurrence is either `*` or an integer; that no integer occurrence appears if the song is given as `*`.
 5. Checks that every lyric file has a matching hyphenated lyric file, and that (once the discretionary hyphens are removed, the files are the same).
 
 ## Rule checks
 
-To make this system more maintainable, exactly one rule should apply to every word found in the lyrics files. That is, at most one entry in the master_exceptions.tsv file should apply, and
+To make this system more maintainable, exactly one rule should apply to every word found in the lyrics files. That is, at most one entry in the exceptions file should apply, and, failing its presence there, exactly one in the standard hyphenation file.
