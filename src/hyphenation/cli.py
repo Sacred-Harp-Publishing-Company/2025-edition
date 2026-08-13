@@ -12,7 +12,7 @@ from .checks import (
 )
 from .data import count_syllables, load_entries
 from .generate import hyphenate_directory, hyphenate_file, hyphenate_lines
-from .lookup import resolve_hyphenation
+from .lookup import MissingHyphenationError, resolve_hyphenation
 
 logger = logging.getLogger(__name__)
 
@@ -110,10 +110,13 @@ def run_hyphenate(
                 )
                 sys.stdout.write("".join(hyphenated))
 
-        except Exception as e:
-            logger.error(f"Error processing {input_file}: {e}")
+        except MissingHyphenationError:
+            logger.error(f"Missing hyphenation for word in {input_file}")
             if not allow_missing:
                 return 1
+        except OSError as e:
+            logger.error(f"File error processing {input_file}: {e}")
+            return 1
 
     return 0
 
