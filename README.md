@@ -39,6 +39,17 @@ The `check` command validates lyric coverage, entry integrity, and syllable coun
 
 When `check` finds an incorrect syllable count, it reports the computed count. Use `check --fix-syllables` to apply those corrections automatically.
 
+To hyphenate arbitrary text files (not in the repository's lyrics directory), use the `hyphenate` command:
+
+```sh
+PYTHONPATH=src python -m hyphenation hyphenate file1.txt file2.txt
+PYTHONPATH=src python -m hyphenation hyphenate --output-dir ./output file1.txt
+PYTHONPATH=src python -m hyphenation hyphenate --in-place file.txt
+PYTHONPATH=src python -m hyphenation hyphenate --allow-missing --log-file warnings.log file.txt
+```
+
+The `hyphenate` command writes hyphenated output to stdout by default. Use `--output-dir DIR` to write to files in a directory, or `--in-place` to modify input files. Use `--allow-missing` to preserve words not found in the dictionaries with warnings; by default, missing words cause an error.
+
 ## Copyright information
 
 This collection of lyrics from _The Sacred Harp_ © 2025 by [Sacred Harp Publishing Company](https://sacredharp.com/) is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
