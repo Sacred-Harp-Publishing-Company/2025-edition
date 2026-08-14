@@ -8,9 +8,9 @@ Some examples may be helpful:
 
 Consider the third verse to ORTONVILLE (68b):
 
-> Dear name! the rock on which I build,
-> My shield and hiding place,
-> My never-failing treasury filled
+> Dear name! the rock on which I build,  
+> My shield and hiding place,  
+> My never-failing treasury filled  
 > With boundless stores of grace.
 
 The hyphenated text version of this is:
