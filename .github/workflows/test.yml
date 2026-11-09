@@ -24,8 +24,6 @@ jobs:
         run: ruff check .
       - name: Run pytest
         run: python -m pytest -q
-      - name: Run repository integrity script
-        run: python tests/test_integrity.py
       - name: Compile Python sources
         run: python -m compileall -q src scripts tests
       - name: Smoke-test command line tools
