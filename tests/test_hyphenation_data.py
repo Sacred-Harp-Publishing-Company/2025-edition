@@ -40,6 +40,24 @@ def test_load_real_exception_data():
     assert any(entry.word == "Blessed" and entry.song == "508" for entry in entries)
 
 
+def test_global_master_exception_has_no_other_entries_for_its_word():
+    entries = load_entries(ROOT / "data/hyphenation/master_exceptions.tsv")
+    entries_by_word = {}
+    for entry in entries:
+        entries_by_word.setdefault(entry.word, []).append(entry)
+
+    conflicts = {
+        word: [(entry.song, entry.occurrence) for entry in word_entries]
+        for word, word_entries in entries_by_word.items()
+        if len(word_entries) > 2 and any(entry.song == "*" for entry in word_entries)
+    }
+
+    assert not conflicts, (
+        "Global master exceptions may have at most one additional entry per word: "
+        f"{conflicts}"
+    )
+
+
 def test_exception_lookup_prefers_exact_song_and_occurrence():
     exceptions = [
         HyphenationEntry("word", "global", "*", "*"),
